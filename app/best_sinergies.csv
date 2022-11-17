@@ -1,0 +1,3993 @@
+team_comp,unlock_synergies,score,ratio
+Aphelios/Braum/Diana/Leona/Nunu/Rell,5,5,0.71
+Aphelios/Braum/Diana/Leona/Nunu/Rengar,5,5,0.71
+Aphelios/Braum/Diana/Leona/Nunu/Sejuani,5,5,0.62
+Aphelios/Braum/Diana/Leona/Rell/Sejuani,5,5,0.62
+Aphelios/Braum/Diana/Leona/Rengar/Sejuani,5,5,0.62
+Aphelios/Braum/Diana/Leona/Rengar/Senna,5,5,0.71
+Aphelios/Braum/Diana/Leona/Rengar/Twitch,5,5,0.62
+Aphelios/Braum/Diana/Leona/Rengar/Yone,5,5,0.71
+Aphelios/Braum/Diana/Leona/Rengar/Zeri,5,5,0.71
+Aphelios/Braum/Diana/Lillia/Rengar/Sejuani,5,5,0.62
+Aphelios/Braum/Diana/Nasus/Rell/Sejuani,5,5,0.62
+Aphelios/Braum/Diana/Nasus/Rengar/Sejuani,5,5,0.62
+Aphelios/Braum/Diana/Nasus/Rengar/Senna,5,5,0.71
+Aphelios/Braum/Diana/Nasus/Rengar/Twitch,5,5,0.62
+Aphelios/Braum/Diana/Nasus/Rengar/Zeri,5,5,0.71
+Aphelios/Braum/Diana/Nunu/Rengar/Sejuani,5,5,0.62
+Aphelios/Braum/Diana/Qiyana/Rakan/Senna,5,5,0.62
+Aphelios/Braum/Diana/Qiyana/Rell/Sejuani,5,5,0.62
+Aphelios/Braum/Diana/Rakan/Rell/Sejuani,5,5,0.56
+Aphelios/Braum/Diana/Rakan/Rell/Senna,5,5,0.62
+Aphelios/Braum/Diana/Rakan/Rengar/Sejuani,5,5,0.56
+Aphelios/Braum/Diana/Rakan/Rengar/Senna,6,6,0.86
+Aphelios/Braum/Diana/Rakan/Rengar/Seraphine,5,5,0.56
+Aphelios/Braum/Diana/Rakan/Rengar/Sett,5,5,0.62
+Aphelios/Braum/Diana/Rakan/Rengar/Twitch,5,5,0.56
+Aphelios/Braum/Diana/Rakan/Rengar/Zeri,5,5,0.62
+Aphelios/Braum/Diana/Rakan/Sejuani/Senna,5,5,0.56
+Aphelios/Braum/Diana/Rakan/Senna/Seraphine,5,5,0.56
+Aphelios/Braum/Diana/Rakan/Senna/Twitch,5,5,0.56
+Aphelios/Braum/Diana/Rell/Rengar/Sejuani,5,5,0.71
+Aphelios/Braum/Diana/Rell/Sejuani/Senna,5,5,0.62
+Aphelios/Braum/Diana/Rell/Sejuani/Zac,5,5,0.62
+Aphelios/Braum/Diana/Rell/Sejuani/Zeri,5,5,0.62
+Aphelios/Braum/Diana/Rengar/Sejuani/Senna,5,5,0.62
+Aphelios/Braum/Diana/Rengar/Sejuani/Zac,5,5,0.62
+Aphelios/Braum/Diana/Rengar/Sejuani/Zeri,5,5,0.62
+Aphelios/Braum/Diana/Rengar/Senna/Zac,5,5,0.71
+Aphelios/Braum/Diana/Rengar/Twitch/Zac,5,5,0.62
+Aphelios/Braum/Diana/Rengar/Zac/Zeri,5,5,0.83
+Aphelios/Braum/Ezreal/Lillia/Rell/Twitch,5,5,0.56
+Aphelios/Braum/Ezreal/Rakan/Senna/Twitch,5,5,0.56
+Aphelios/Braum/Jax/Leona/Olaf/Yone,5,5,0.56
+Aphelios/Braum/Jax/Olaf/Rakan/Senna,5,5,0.5
+Aphelios/Braum/Jax/Olaf/Rell/Sejuani,5,5,0.5
+Aphelios/Braum/Leona/Lillia/Nunu/Rell,5,6,0.71
+Aphelios/Braum/Leona/Lillia/Nunu/Rengar,5,5,0.62
+Aphelios/Braum/Leona/Lillia/Nunu/Sejuani,5,6,0.62
+Aphelios/Braum/Leona/Lillia/Nunu/Senna,5,5,0.62
+Aphelios/Braum/Leona/Lillia/Nunu/Twitch,5,5,0.56
+Aphelios/Braum/Leona/Lillia/Nunu/Zeri,5,5,0.62
+Aphelios/Braum/Leona/Lillia/Rell/Sejuani,5,6,0.62
+Aphelios/Braum/Leona/Lillia/Rell/Senna,5,5,0.62
+Aphelios/Braum/Leona/Lillia/Rell/Twitch,5,5,0.56
+Aphelios/Braum/Leona/Lillia/Rell/Yone,5,5,0.62
+Aphelios/Braum/Leona/Lillia/Rell/Zeri,5,5,0.62
+Aphelios/Braum/Leona/Lillia/Rengar/Sejuani,5,5,0.56
+Aphelios/Braum/Leona/Lillia/Sejuani/Senna,5,5,0.56
+Aphelios/Braum/Leona/Lillia/Sejuani/Yone,5,5,0.56
+Aphelios/Braum/Leona/Lillia/Sejuani/Zeri,5,5,0.56
+Aphelios/Braum/Leona/Malphite/Olaf/Yone,5,5,0.62
+Aphelios/Braum/Leona/Nunu/Olaf/Rell,5,5,0.62
+Aphelios/Braum/Leona/Nunu/Olaf/Sejuani,5,5,0.56
+Aphelios/Braum/Leona/Nunu/Rell/Senna,5,5,0.71
+Aphelios/Braum/Leona/Nunu/Rell/Zeri,5,5,0.71
+Aphelios/Braum/Leona/Nunu/Rengar/Sejuani,5,5,0.62
+Aphelios/Braum/Leona/Nunu/Sejuani/Senna,5,5,0.62
+Aphelios/Braum/Leona/Nunu/Sejuani/Zeri,5,5,0.62
+Aphelios/Braum/Leona/Olaf/Rell/Sejuani,5,5,0.56
+Aphelios/Braum/Leona/Olaf/Rell/Yone,5,5,0.62
+Aphelios/Braum/Leona/Olaf/Rengar/Yone,5,5,0.62
+Aphelios/Braum/Leona/Olaf/Sejuani/Yone,5,5,0.56
+Aphelios/Braum/Leona/Olaf/Senna/Yone,5,5,0.62
+Aphelios/Braum/Leona/Olaf/Skarner/Yone,5,5,0.62
+Aphelios/Braum/Leona/Olaf/Sylas/Yone,5,5,0.56
+Aphelios/Braum/Leona/Olaf/Twitch/Yone,5,5,0.56
+Aphelios/Braum/Leona/Olaf/Yone/Zeri,5,5,0.62
+Aphelios/Braum/Leona/Rell/Sejuani/Senna,5,5,0.62
+Aphelios/Braum/Leona/Rell/Sejuani/Yone,5,5,0.62
+Aphelios/Braum/Leona/Rell/Sejuani/Zeri,5,5,0.62
+Aphelios/Braum/Lillia/Nasus/Rell/Sejuani,5,6,0.62
+Aphelios/Braum/Lillia/Nasus/Rell/Senna,5,5,0.62
+Aphelios/Braum/Lillia/Nasus/Rell/Twitch,5,5,0.56
+Aphelios/Braum/Lillia/Nasus/Rell/Zeri,5,5,0.62
+Aphelios/Braum/Lillia/Nasus/Rengar/Sejuani,5,5,0.56
+Aphelios/Braum/Lillia/Nasus/Sejuani/Senna,5,5,0.56
+Aphelios/Braum/Lillia/Nasus/Sejuani/Zeri,5,5,0.56
+Aphelios/Braum/Lillia/Nunu/Rakan/Senna,5,5,0.56
+Aphelios/Braum/Lillia/Qiyana/Rengar/Sejuani,5,5,0.56
+Aphelios/Braum/Lillia/Rakan/Rell/Sejuani,5,6,0.56
+Aphelios/Braum/Lillia/Rakan/Rell/Senna,6,6,0.75
+Aphelios/Braum/Lillia/Rakan/Rell/Seraphine,5,5,0.5
+Aphelios/Braum/Lillia/Rakan/Rell/Sett,5,5,0.56
+Aphelios/Braum/Lillia/Rakan/Rell/Twitch,5,5,0.5
+Aphelios/Braum/Lillia/Rakan/Rell/Zeri,5,5,0.56
+Aphelios/Braum/Lillia/Rakan/Rengar/Sejuani,5,5,0.5
+Aphelios/Braum/Lillia/Rakan/Rengar/Senna,5,5,0.56
+Aphelios/Braum/Lillia/Rakan/Sejuani/Senna,6,6,0.67
+Aphelios/Braum/Lillia/Rakan/Sejuani/Seraphine,5,5,0.45
+Aphelios/Braum/Lillia/Rakan/Sejuani/Sett,5,5,0.5
+Aphelios/Braum/Lillia/Rakan/Sejuani/Zeri,5,5,0.5
+Aphelios/Braum/Lillia/Rakan/Senna/Seraphine,5,5,0.5
+Aphelios/Braum/Lillia/Rakan/Senna/Twitch,5,5,0.5
+Aphelios/Braum/Lillia/Rell/Sejuani/Senna,5,6,0.62
+Aphelios/Braum/Lillia/Rell/Sejuani/Zac,5,6,0.62
+Aphelios/Braum/Lillia/Rell/Sejuani/Zeri,5,6,0.62
+Aphelios/Braum/Lillia/Rell/Senna/Sett,5,5,0.62
+Aphelios/Braum/Lillia/Rell/Senna/Twitch,5,5,0.56
+Aphelios/Braum/Lillia/Rell/Senna/Zac,5,5,0.62
+Aphelios/Braum/Lillia/Rell/Twitch/Varus,5,5,0.56
+Aphelios/Braum/Lillia/Rell/Twitch/Zac,5,5,0.56
+Aphelios/Braum/Lillia/Rell/Twitch/Zeri,5,5,0.56
+Aphelios/Braum/Lillia/Rell/Zac/Zeri,5,5,0.71
+Aphelios/Braum/Lillia/Rengar/Sejuani/Senna,5,5,0.56
+Aphelios/Braum/Lillia/Rengar/Sejuani/Zac,5,5,0.56
+Aphelios/Braum/Lillia/Rengar/Sejuani/Zeri,5,5,0.56
+Aphelios/Braum/Lillia/Sejuani/Senna/Sett,5,5,0.56
+Aphelios/Braum/Lillia/Sejuani/Senna/Zac,5,5,0.56
+Aphelios/Braum/Lillia/Sejuani/Zac/Zeri,5,5,0.62
+Aphelios/Braum/Malphite/Olaf/Rakan/Senna,5,5,0.56
+Aphelios/Braum/Malphite/Olaf/Rell/Sejuani,5,5,0.56
+Aphelios/Braum/Malphite/Olaf/Zac/Zeri,5,5,0.71
+Aphelios/Braum/Nasus/Olaf/Rell/Sejuani,5,5,0.56
+Aphelios/Braum/Nasus/Rell/Sejuani/Senna,5,5,0.62
+Aphelios/Braum/Nasus/Rell/Sejuani/Zeri,5,5,0.62
+Aphelios/Braum/Nunu/Olaf/Rell/Yone,5,5,0.62
+Aphelios/Braum/Nunu/Olaf/Sejuani/Yone,5,5,0.56
+Aphelios/Braum/Nunu/Rakan/Rell/Senna,5,5,0.62
+Aphelios/Braum/Nunu/Rakan/Sejuani/Senna,5,5,0.56
+Aphelios/Braum/Olaf/Rakan/Rell/Sejuani,5,5,0.5
+Aphelios/Braum/Olaf/Rakan/Rell/Senna,5,5,0.56
+Aphelios/Braum/Olaf/Rakan/Rengar/Senna,5,5,0.56
+Aphelios/Braum/Olaf/Rakan/Sejuani/Senna,5,5,0.5
+Aphelios/Braum/Olaf/Rakan/Senna/Seraphine,5,5,0.5
+Aphelios/Braum/Olaf/Rakan/Senna/Skarner,5,5,0.56
+Aphelios/Braum/Olaf/Rakan/Senna/Sylas,5,5,0.5
+Aphelios/Braum/Olaf/Rakan/Senna/Twitch,5,5,0.5
+Aphelios/Braum/Olaf/Rakan/Senna/Wukong,5,5,0.56
+Aphelios/Braum/Olaf/Rakan/Senna/Yone,5,5,0.56
+Aphelios/Braum/Olaf/Rell/Sejuani/Senna,5,5,0.56
+Aphelios/Braum/Olaf/Rell/Sejuani/Skarner,5,5,0.56
+Aphelios/Braum/Olaf/Rell/Sejuani/Sylas,5,5,0.5
+Aphelios/Braum/Olaf/Rell/Sejuani/Wukong,5,5,0.56
+Aphelios/Braum/Olaf/Rell/Sejuani/Yone,5,5,0.56
+Aphelios/Braum/Olaf/Rell/Sejuani/Zac,5,5,0.56
+Aphelios/Braum/Olaf/Rell/Sejuani/Zeri,5,5,0.56
+Aphelios/Braum/Qiyana/Rakan/Rengar/Senna,5,5,0.62
+Aphelios/Braum/Rakan/Rell/Sejuani/Senna,6,6,0.75
+Aphelios/Braum/Rakan/Rell/Sejuani/Zeri,5,5,0.56
+Aphelios/Braum/Rakan/Rell/Senna/Seraphine,5,5,0.56
+Aphelios/Braum/Rakan/Rell/Senna/Twitch,5,5,0.56
+Aphelios/Braum/Rakan/Rengar/Sejuani/Senna,5,5,0.56
+Aphelios/Braum/Rakan/Rengar/Senna/Seraphine,5,5,0.56
+Aphelios/Braum/Rakan/Rengar/Senna/Twitch,5,5,0.56
+Aphelios/Braum/Rakan/Sejuani/Senna/Seraphine,5,5,0.5
+Aphelios/Braum/Rakan/Senna/Seraphine/Twitch,5,5,0.5
+Aphelios/Braum/Rakan/Senna/Seraphine/Zyra,5,5,0.56
+Aphelios/Braum/Rakan/Senna/Twitch/Varus,5,5,0.56
+Aphelios/Braum/Rell/Sejuani/Senna/Sett,5,5,0.62
+Aphelios/Braum/Rell/Sejuani/Senna/Zac,5,5,0.62
+Aphelios/Braum/Rell/Sejuani/Zac/Zeri,5,5,0.71
+Aphelios/Diana/Ezreal/Qiyana/Rell/Sejuani,5,5,0.62
+Aphelios/Diana/Jax/Lillia/Rengar/Sejuani,5,5,0.5
+Aphelios/Diana/Jax/Olaf/Rell/Sejuani,5,5,0.5
+Aphelios/Diana/Jax/Olaf/Rengar/Sejuani,5,5,0.5
+Aphelios/Diana/Lee Sin/Qiyana/Rell/Sejuani,5,5,0.62
+Aphelios/Diana/Leona/Lillia/Nunu/Rengar,5,5,0.62
+Aphelios/Diana/Leona/Lillia/Rengar/Sejuani,5,5,0.56
+Aphelios/Diana/Leona/Nunu/Rengar/Sejuani,5,5,0.62
+Aphelios/Diana/Leona/Rakan/Rengar/Senna,5,5,0.62
+Aphelios/Diana/Lillia/Malphite/Rengar/Sejuani,5,5,0.56
+Aphelios/Diana/Lillia/Nasus/Rengar/Sejuani,5,5,0.56
+Aphelios/Diana/Lillia/Nunu/Rengar/Sejuani,5,6,0.62
+Aphelios/Diana/Lillia/Qiyana/Rell/Sejuani,5,6,0.62
+Aphelios/Diana/Lillia/Rakan/Rell/Senna,5,5,0.56
+Aphelios/Diana/Lillia/Rakan/Rengar/Sejuani,5,5,0.5
+Aphelios/Diana/Lillia/Rakan/Sejuani/Senna,5,5,0.5
+Aphelios/Diana/Lillia/Rell/Rengar/Sejuani,5,6,0.71
+Aphelios/Diana/Lillia/Rell/Sejuani/Senna,5,6,0.62
+Aphelios/Diana/Lillia/Rell/Sejuani/Zeri,5,6,0.62
+Aphelios/Diana/Lillia/Rengar/Sejuani/Skarner,5,5,0.56
+Aphelios/Diana/Lillia/Rengar/Sejuani/Vladimir,5,5,0.62
+Aphelios/Diana/Lillia/Rengar/Sejuani/Zac,5,5,0.56
+Aphelios/Diana/Malphite/Olaf/Rell/Sejuani,5,5,0.56
+Aphelios/Diana/Malphite/Olaf/Rengar/Sejuani,5,5,0.56
+Aphelios/Diana/Nasus/Rakan/Rengar/Senna,5,5,0.62
+Aphelios/Diana/Nunu/Olaf/Rell/Yone,5,5,0.62
+Aphelios/Diana/Nunu/Olaf/Rengar/Sejuani,5,5,0.56
+Aphelios/Diana/Nunu/Olaf/Sejuani/Yone,5,5,0.56
+Aphelios/Diana/Nunu/Rengar/Sejuani/Senna,5,5,0.62
+Aphelios/Diana/Nunu/Rengar/Sejuani/Yone,5,5,0.62
+Aphelios/Diana/Nunu/Rengar/Sejuani/Zeri,5,5,0.62
+Aphelios/Diana/Olaf/Qiyana/Rell/Sejuani,5,5,0.56
+Aphelios/Diana/Olaf/Rell/Rengar/Sejuani,5,5,0.62
+Aphelios/Diana/Olaf/Rell/Sejuani/Senna,5,5,0.56
+Aphelios/Diana/Olaf/Rell/Sejuani/Skarner,5,5,0.56
+Aphelios/Diana/Olaf/Rell/Sejuani/Sylas,5,5,0.5
+Aphelios/Diana/Olaf/Rell/Sejuani/Wukong,5,5,0.56
+Aphelios/Diana/Olaf/Rell/Sejuani/Yone,5,5,0.56
+Aphelios/Diana/Olaf/Rell/Sejuani/Zeri,5,5,0.56
+Aphelios/Diana/Olaf/Rengar/Sejuani/Skarner,5,5,0.56
+Aphelios/Diana/Qiyana/Rell/Sejuani/Senna,5,5,0.62
+Aphelios/Diana/Qiyana/Rell/Sejuani/Zeri,5,5,0.62
+Aphelios/Diana/Rakan/Rell/Sejuani/Senna,5,5,0.56
+Aphelios/Diana/Rakan/Rengar/Sejuani/Senna,5,5,0.56
+Aphelios/Diana/Rakan/Rengar/Senna/Zac,5,5,0.62
+Aphelios/Diana/Rell/Rengar/Sejuani/Senna,5,5,0.71
+Aphelios/Diana/Rell/Rengar/Sejuani/Zeri,5,5,0.71
+Aphelios/Diana/Rell/Sejuani/Senna/Sett,5,5,0.62
+Aphelios/Ezreal/Kai'sa/Lee Sin/Rell/Sejuani,5,5,0.62
+Aphelios/Ezreal/Karma/Lee Sin/Rell/Sejuani,5,5,0.62
+Aphelios/Ezreal/Lee Sin/Nunu/Rell/Twitch,5,5,0.62
+Aphelios/Ezreal/Lee Sin/Rell/Sejuani/Senna,5,5,0.62
+Aphelios/Ezreal/Lee Sin/Rell/Sejuani/Sett,5,5,0.62
+Aphelios/Ezreal/Lee Sin/Rell/Sejuani/Twitch,5,6,0.71
+Aphelios/Ezreal/Lee Sin/Rell/Sejuani/Varus,5,5,0.62
+Aphelios/Ezreal/Lee Sin/Rell/Sejuani/Volibear,5,5,0.62
+Aphelios/Ezreal/Lee Sin/Rell/Sejuani/Zeri,5,5,0.62
+Aphelios/Ezreal/Leona/Nunu/Rell/Twitch,5,5,0.62
+Aphelios/Ezreal/Leona/Rakan/Senna/Twitch,5,5,0.56
+Aphelios/Ezreal/Nasus/Rakan/Senna/Twitch,5,5,0.56
+Aphelios/Ezreal/Nunu/Qiyana/Rell/Twitch,5,5,0.62
+Aphelios/Ezreal/Nunu/Qiyana/Rengar/Sejuani,5,5,0.62
+Aphelios/Ezreal/Nunu/Rell/Senna/Twitch,5,5,0.62
+Aphelios/Ezreal/Nunu/Rell/Twitch/Yone,5,5,0.62
+Aphelios/Ezreal/Nunu/Rell/Twitch/Zeri,5,5,0.62
+Aphelios/Ezreal/Qiyana/Rell/Rengar/Sejuani,5,5,0.71
+Aphelios/Ezreal/Qiyana/Rell/Sejuani/Senna,5,5,0.62
+Aphelios/Ezreal/Qiyana/Rell/Sejuani/Twitch,5,6,0.71
+Aphelios/Ezreal/Qiyana/Rell/Sejuani/Varus,5,5,0.62
+Aphelios/Ezreal/Qiyana/Rell/Sejuani/Zeri,5,5,0.62
+Aphelios/Ezreal/Rakan/Rell/Sejuani/Senna,5,5,0.56
+Aphelios/Ezreal/Rakan/Rell/Senna/Twitch,5,5,0.56
+Aphelios/Ezreal/Rakan/Senna/Twitch/Zac,5,5,0.56
+Aphelios/Ezreal/Rell/Sejuani/Senna/Sett,5,5,0.62
+Aphelios/Ezreal/Rell/Sejuani/Senna/Twitch,5,6,0.71
+Aphelios/Ezreal/Rell/Sejuani/Senna/Varus,5,5,0.62
+Aphelios/Ezreal/Rell/Sejuani/Twitch/Zeri,5,6,0.71
+Aphelios/Ezreal/Rell/Sejuani/Varus/Zeri,5,5,0.62
+Aphelios/Gnar/Nidalee/Rell/Sejuani/Senna,5,5,0.62
+Aphelios/Gnar/Nidalee/Rell/Sejuani/Zeri,5,5,0.62
+Aphelios/Gnar/Rakan/Rell/Sejuani/Senna,5,5,0.56
+Aphelios/Gnar/Rell/Sejuani/Senna/Sett,5,5,0.62
+Aphelios/Jax/Lillia/Nunu/Olaf/Yone,5,5,0.5
+Aphelios/Jax/Lillia/Olaf/Rell/Sejuani,5,6,0.5
+Aphelios/Jax/Lillia/Olaf/Rell/Senna,5,5,0.5
+Aphelios/Jax/Lillia/Olaf/Rell/Twitch,5,5,0.45
+Aphelios/Jax/Lillia/Olaf/Rell/Wukong,5,5,0.56
+Aphelios/Jax/Lillia/Olaf/Rell/Yone,5,5,0.5
+Aphelios/Jax/Lillia/Olaf/Rell/Zeri,5,5,0.5
+Aphelios/Jax/Lillia/Olaf/Rengar/Sejuani,5,5,0.45
+Aphelios/Jax/Lillia/Olaf/Sejuani/Senna,5,5,0.45
+Aphelios/Jax/Lillia/Olaf/Sejuani/Wukong,5,5,0.5
+Aphelios/Jax/Lillia/Olaf/Sejuani/Yone,5,5,0.45
+Aphelios/Jax/Lillia/Olaf/Sejuani/Zeri,5,5,0.45
+Aphelios/Jax/Malphite/Rell/Sejuani/Senna,5,5,0.56
+Aphelios/Jax/Malphite/Rell/Sejuani/Zeri,5,5,0.62
+Aphelios/Jax/Nunu/Olaf/Rell/Yone,5,5,0.56
+Aphelios/Jax/Nunu/Olaf/Sejuani/Yone,5,5,0.5
+Aphelios/Jax/Olaf/Rell/Sejuani/Senna,5,5,0.5
+Aphelios/Jax/Olaf/Rell/Sejuani/Wukong,5,5,0.56
+Aphelios/Jax/Olaf/Rell/Sejuani/Yone,5,5,0.5
+Aphelios/Jax/Olaf/Rell/Sejuani/Zeri,5,5,0.5
+Aphelios/Jax/Rakan/Rell/Sejuani/Senna,5,5,0.5
+Aphelios/Jax/Rell/Sejuani/Senna/Sett,5,5,0.56
+Aphelios/Jax/Rell/Sejuani/Senna/Skarner,5,5,0.56
+Aphelios/Jax/Rell/Sejuani/Senna/Sylas,5,5,0.5
+Aphelios/Jax/Rell/Sejuani/Skarner/Zeri,5,5,0.56
+Aphelios/Jax/Rell/Sejuani/Sylas/Zeri,5,5,0.5
+Aphelios/Kai'sa/Karma/Rell/Sejuani/Senna,5,5,0.62
+Aphelios/Kai'sa/Karma/Rell/Sejuani/Zeri,5,5,0.71
+Aphelios/Kai'sa/Lee Sin/Qiyana/Rell/Sejuani,5,5,0.62
+Aphelios/Kai'sa/Lee Sin/Rell/Sejuani/Senna,5,5,0.62
+Aphelios/Kai'sa/Lee Sin/Rell/Sejuani/Zeri,5,5,0.71
+Aphelios/Kai'sa/Malphite/Rell/Sejuani/Zeri,5,5,0.71
+Aphelios/Kai'sa/Nunu/Rell/Senna/Sett,5,5,0.71
+Aphelios/Kai'sa/Nunu/Sejuani/Senna/Sett,5,5,0.62
+Aphelios/Kai'sa/Rakan/Rell/Sejuani/Senna,5,5,0.56
+Aphelios/Kai'sa/Rakan/Rell/Sejuani/Sett,5,5,0.56
+Aphelios/Kai'sa/Rakan/Senna/Seraphine/Zac,5,5,0.62
+Aphelios/Kai'sa/Rakan/Seraphine/Sett/Zac,5,5,0.62
+Aphelios/Kai'sa/Rakan/Sett/Zac/Zeri,5,5,0.71
+Aphelios/Kai'sa/Rell/Sejuani/Senna/Sett,6,6,0.86
+Aphelios/Kai'sa/Rell/Sejuani/Senna/Volibear,5,5,0.62
+Aphelios/Kai'sa/Rell/Sejuani/Seraphine/Zeri,5,5,0.62
+Aphelios/Kai'sa/Rell/Sejuani/Sett/Zeri,5,5,0.71
+Aphelios/Kai'sa/Rell/Sejuani/Taliyah/Zeri,5,5,0.71
+Aphelios/Kai'sa/Rell/Sejuani/Volibear/Zeri,5,5,0.71
+Aphelios/Kai'sa/Rell/Sejuani/Zac/Zeri,5,5,0.71
+Aphelios/Karma/Lee Sin/Qiyana/Rell/Sejuani,5,5,0.62
+Aphelios/Karma/Lee Sin/Rell/Sejuani/Senna,5,5,0.62
+Aphelios/Karma/Lee Sin/Rell/Sejuani/Zeri,5,5,0.62
+Aphelios/Karma/Nunu/Rell/Senna/Sett,5,5,0.71
+Aphelios/Karma/Nunu/Sejuani/Senna/Sett,5,5,0.62
+Aphelios/Karma/Rakan/Rell/Sejuani/Senna,5,5,0.56
+Aphelios/Karma/Rakan/Rell/Sejuani/Sett,5,5,0.56
+Aphelios/Karma/Rell/Sejuani/Senna/Sett,6,6,0.86
+Aphelios/Karma/Rell/Sejuani/Senna/Volibear,5,5,0.62
+Aphelios/Karma/Rell/Sejuani/Sett/Zeri,5,5,0.62
+Aphelios/Karma/Rell/Sejuani/Volibear/Zeri,5,5,0.62
+Aphelios/Lee Sin/Nunu/Qiyana/Rengar/Sejuani,5,5,0.62
+Aphelios/Lee Sin/Nunu/Rell/Senna/Sett,5,5,0.71
+Aphelios/Lee Sin/Nunu/Sejuani/Senna/Sett,5,5,0.62
+Aphelios/Lee Sin/Qiyana/Rell/Rengar/Sejuani,5,5,0.71
+Aphelios/Lee Sin/Qiyana/Rell/Sejuani/Senna,5,5,0.62
+Aphelios/Lee Sin/Qiyana/Rell/Sejuani/Sett,5,5,0.62
+Aphelios/Lee Sin/Qiyana/Rell/Sejuani/Volibear,5,5,0.62
+Aphelios/Lee Sin/Qiyana/Rell/Sejuani/Zeri,5,5,0.62
+Aphelios/Lee Sin/Rakan/Rell/Sejuani/Senna,5,5,0.56
+Aphelios/Lee Sin/Rakan/Rell/Sejuani/Sett,5,5,0.56
+Aphelios/Lee Sin/Rell/Sejuani/Senna/Sett,6,6,0.86
+Aphelios/Lee Sin/Rell/Sejuani/Senna/Volibear,5,5,0.62
+Aphelios/Lee Sin/Rell/Sejuani/Sett/Zeri,5,5,0.62
+Aphelios/Lee Sin/Rell/Sejuani/Volibear/Zeri,5,5,0.62
+Aphelios/Leona/Lillia/Nunu/Rakan/Senna,5,5,0.56
+Aphelios/Leona/Lillia/Olaf/Rell/Yone,5,5,0.56
+Aphelios/Leona/Lillia/Olaf/Sejuani/Yone,5,5,0.5
+Aphelios/Leona/Lillia/Rakan/Rell/Senna,5,5,0.56
+Aphelios/Leona/Lillia/Rakan/Sejuani/Senna,5,5,0.5
+Aphelios/Leona/Nasus/Nunu/Rell/Senna,5,5,0.71
+Aphelios/Leona/Nasus/Nunu/Rell/Zeri,5,5,0.71
+Aphelios/Leona/Nasus/Nunu/Rengar/Sejuani,5,5,0.62
+Aphelios/Leona/Nasus/Nunu/Sejuani/Senna,5,5,0.62
+Aphelios/Leona/Nasus/Nunu/Sejuani/Zeri,5,5,0.62
+Aphelios/Leona/Nasus/Rell/Sejuani/Senna,5,5,0.62
+Aphelios/Leona/Nasus/Rell/Sejuani/Yone,5,5,0.62
+Aphelios/Leona/Nasus/Rell/Sejuani/Zeri,5,5,0.62
+Aphelios/Leona/Nunu/Qiyana/Rengar/Sejuani,5,5,0.62
+Aphelios/Leona/Nunu/Rakan/Rell/Senna,6,6,0.86
+Aphelios/Leona/Nunu/Rakan/Rell/Zeri,5,5,0.62
+Aphelios/Leona/Nunu/Rakan/Rengar/Sejuani,5,5,0.56
+Aphelios/Leona/Nunu/Rakan/Rengar/Senna,5,5,0.62
+Aphelios/Leona/Nunu/Rakan/Sejuani/Senna,6,6,0.75
+Aphelios/Leona/Nunu/Rakan/Sejuani/Zeri,5,5,0.56
+Aphelios/Leona/Nunu/Rakan/Senna/Seraphine,5,5,0.56
+Aphelios/Leona/Nunu/Rakan/Senna/Twitch,5,5,0.56
+Aphelios/Leona/Nunu/Rell/Sejuani/Senna,5,6,0.71
+Aphelios/Leona/Nunu/Rell/Sejuani/Zeri,5,6,0.71
+Aphelios/Leona/Nunu/Rell/Senna/Sett,5,5,0.71
+Aphelios/Leona/Nunu/Rell/Senna/Twitch,5,5,0.62
+Aphelios/Leona/Nunu/Rell/Senna/Zac,5,5,0.71
+Aphelios/Leona/Nunu/Rell/Twitch/Varus,5,5,0.62
+Aphelios/Leona/Nunu/Rell/Twitch/Zeri,5,5,0.62
+Aphelios/Leona/Nunu/Rell/Zac/Zeri,5,5,0.83
+Aphelios/Leona/Nunu/Rengar/Sejuani/Senna,5,5,0.62
+Aphelios/Leona/Nunu/Rengar/Sejuani/Zac,5,5,0.62
+Aphelios/Leona/Nunu/Rengar/Sejuani/Zeri,5,5,0.62
+Aphelios/Leona/Nunu/Sejuani/Senna/Sett,5,5,0.62
+Aphelios/Leona/Nunu/Sejuani/Senna/Zac,5,5,0.62
+Aphelios/Leona/Nunu/Sejuani/Zac/Zeri,5,5,0.71
+Aphelios/Leona/Olaf/Rakan/Senna/Yone,5,5,0.56
+Aphelios/Leona/Olaf/Rell/Sejuani/Yone,5,5,0.56
+Aphelios/Leona/Qiyana/Rakan/Rengar/Senna,5,5,0.62
+Aphelios/Leona/Rakan/Rell/Sejuani/Senna,6,6,0.75
+Aphelios/Leona/Rakan/Rell/Sejuani/Yone,5,5,0.56
+Aphelios/Leona/Rakan/Rell/Sejuani/Zeri,5,5,0.56
+Aphelios/Leona/Rakan/Rell/Senna/Seraphine,5,5,0.56
+Aphelios/Leona/Rakan/Rell/Senna/Twitch,5,5,0.56
+Aphelios/Leona/Rakan/Rell/Senna/Yone,5,5,0.62
+Aphelios/Leona/Rakan/Rengar/Sejuani/Senna,5,5,0.56
+Aphelios/Leona/Rakan/Rengar/Senna/Seraphine,5,5,0.56
+Aphelios/Leona/Rakan/Rengar/Senna/Twitch,5,5,0.56
+Aphelios/Leona/Rakan/Rengar/Senna/Yone,5,5,0.62
+Aphelios/Leona/Rakan/Sejuani/Senna/Seraphine,5,5,0.5
+Aphelios/Leona/Rakan/Sejuani/Senna/Yone,5,5,0.56
+Aphelios/Leona/Rakan/Senna/Seraphine/Twitch,5,5,0.5
+Aphelios/Leona/Rakan/Senna/Seraphine/Yone,5,5,0.56
+Aphelios/Leona/Rakan/Senna/Seraphine/Zyra,5,5,0.56
+Aphelios/Leona/Rakan/Senna/Twitch/Varus,5,5,0.56
+Aphelios/Leona/Rakan/Senna/Twitch/Yone,5,5,0.56
+Aphelios/Leona/Rakan/Senna/Wukong/Yone,5,5,0.62
+Aphelios/Leona/Rell/Sejuani/Senna/Sett,5,5,0.62
+Aphelios/Leona/Rell/Sejuani/Senna/Yone,5,5,0.62
+Aphelios/Leona/Rell/Sejuani/Senna/Zac,5,5,0.62
+Aphelios/Leona/Rell/Sejuani/Wukong/Yone,5,5,0.62
+Aphelios/Leona/Rell/Sejuani/Yone/Zac,5,5,0.62
+Aphelios/Leona/Rell/Sejuani/Yone/Zeri,5,5,0.62
+Aphelios/Leona/Rell/Sejuani/Zac/Zeri,5,5,0.71
+Aphelios/Lillia/Malphite/Nunu/Olaf/Yone,5,5,0.56
+Aphelios/Lillia/Malphite/Olaf/Rell/Sejuani,5,6,0.56
+Aphelios/Lillia/Malphite/Olaf/Rell/Senna,5,5,0.56
+Aphelios/Lillia/Malphite/Olaf/Rell/Twitch,5,5,0.5
+Aphelios/Lillia/Malphite/Olaf/Rell/Wukong,5,5,0.56
+Aphelios/Lillia/Malphite/Olaf/Rell/Yone,5,5,0.56
+Aphelios/Lillia/Malphite/Olaf/Rell/Zeri,5,5,0.62
+Aphelios/Lillia/Malphite/Olaf/Rengar/Sejuani,5,5,0.5
+Aphelios/Lillia/Malphite/Olaf/Sejuani/Senna,5,5,0.5
+Aphelios/Lillia/Malphite/Olaf/Sejuani/Wukong,5,5,0.5
+Aphelios/Lillia/Malphite/Olaf/Sejuani/Yone,5,5,0.5
+Aphelios/Lillia/Malphite/Olaf/Sejuani/Zeri,5,5,0.56
+Aphelios/Lillia/Nasus/Rakan/Rell/Senna,5,5,0.56
+Aphelios/Lillia/Nasus/Rakan/Sejuani/Senna,5,5,0.5
+Aphelios/Lillia/Nunu/Olaf/Rell/Yone,5,6,0.62
+Aphelios/Lillia/Nunu/Olaf/Sejuani/Yone,5,6,0.56
+Aphelios/Lillia/Nunu/Olaf/Skarner/Yone,5,5,0.56
+Aphelios/Lillia/Olaf/Rakan/Rell/Senna,5,5,0.5
+Aphelios/Lillia/Olaf/Rakan/Sejuani/Senna,5,5,0.45
+Aphelios/Lillia/Olaf/Rell/Sejuani/Senna,5,6,0.56
+Aphelios/Lillia/Olaf/Rell/Sejuani/Skarner,5,6,0.56
+Aphelios/Lillia/Olaf/Rell/Sejuani/Sylas,5,6,0.56
+Aphelios/Lillia/Olaf/Rell/Sejuani/Wukong,5,6,0.56
+Aphelios/Lillia/Olaf/Rell/Sejuani/Yone,5,6,0.56
+Aphelios/Lillia/Olaf/Rell/Sejuani/Zeri,5,6,0.56
+Aphelios/Lillia/Olaf/Rell/Senna/Skarner,5,5,0.56
+Aphelios/Lillia/Olaf/Rell/Skarner/Twitch,5,5,0.5
+Aphelios/Lillia/Olaf/Rell/Skarner/Wukong,5,5,0.56
+Aphelios/Lillia/Olaf/Rell/Skarner/Yone,5,5,0.56
+Aphelios/Lillia/Olaf/Rell/Skarner/Zeri,5,5,0.56
+Aphelios/Lillia/Olaf/Rell/Sylas/Vladimir,5,5,0.56
+Aphelios/Lillia/Olaf/Rengar/Sejuani/Skarner,5,5,0.5
+Aphelios/Lillia/Olaf/Sejuani/Senna/Skarner,5,5,0.5
+Aphelios/Lillia/Olaf/Sejuani/Skarner/Wukong,5,5,0.5
+Aphelios/Lillia/Olaf/Sejuani/Skarner/Yone,5,5,0.5
+Aphelios/Lillia/Olaf/Sejuani/Skarner/Zeri,5,5,0.5
+Aphelios/Lillia/Olaf/Sejuani/Sylas/Vladimir,5,5,0.5
+Aphelios/Lillia/Rakan/Rell/Sejuani/Senna,5,6,0.56
+Aphelios/Lillia/Rakan/Rell/Senna/Seraphine,5,5,0.5
+Aphelios/Lillia/Rakan/Rell/Senna/Twitch,5,5,0.5
+Aphelios/Lillia/Rakan/Rell/Senna/Zac,5,5,0.56
+Aphelios/Lillia/Rakan/Rengar/Sejuani/Senna,5,5,0.5
+Aphelios/Lillia/Rakan/Sejuani/Senna/Seraphine,5,5,0.45
+Aphelios/Lillia/Rakan/Sejuani/Senna/Zac,5,5,0.5
+Aphelios/Lillia/Rell/Sejuani/Senna/Sett,5,6,0.62
+Aphelios/Lux/Rakan/Rell/Sejuani/Senna,5,5,0.56
+Aphelios/Lux/Rell/Sejuani/Senna/Sett,5,5,0.62
+Aphelios/Malphite/Nunu/Olaf/Rell/Yone,5,5,0.62
+Aphelios/Malphite/Nunu/Olaf/Sejuani/Yone,5,5,0.56
+Aphelios/Malphite/Olaf/Rell/Sejuani/Senna,5,5,0.56
+Aphelios/Malphite/Olaf/Rell/Sejuani/Wukong,5,5,0.56
+Aphelios/Malphite/Olaf/Rell/Sejuani/Yone,5,5,0.56
+Aphelios/Malphite/Olaf/Rell/Sejuani/Zeri,5,5,0.62
+Aphelios/Malphite/Rakan/Rell/Sejuani/Senna,5,5,0.56
+Aphelios/Malphite/Rakan/Senna/Seraphine/Zac,5,5,0.62
+Aphelios/Malphite/Rell/Sejuani/Senna/Sett,5,5,0.62
+Aphelios/Malphite/Rell/Sejuani/Senna/Skarner,5,5,0.62
+Aphelios/Malphite/Rell/Sejuani/Senna/Sylas,5,5,0.56
+Aphelios/Malphite/Rell/Sejuani/Seraphine/Zeri,5,5,0.62
+Aphelios/Malphite/Rell/Sejuani/Skarner/Zeri,5,5,0.71
+Aphelios/Malphite/Rell/Sejuani/Sylas/Zeri,5,5,0.62
+Aphelios/Malphite/Rell/Sejuani/Taliyah/Zeri,5,5,0.71
+Aphelios/Malphite/Rell/Sejuani/Zac/Zeri,5,5,0.71
+Aphelios/Nasus/Nunu/Rakan/Rell/Senna,5,5,0.62
+Aphelios/Nasus/Nunu/Rakan/Sejuani/Senna,5,5,0.56
+Aphelios/Nasus/Qiyana/Rakan/Rengar/Senna,5,5,0.62
+Aphelios/Nasus/Rakan/Rell/Sejuani/Senna,6,6,0.75
+Aphelios/Nasus/Rakan/Rell/Sejuani/Zeri,5,5,0.56
+Aphelios/Nasus/Rakan/Rell/Senna/Seraphine,5,5,0.56
+Aphelios/Nasus/Rakan/Rell/Senna/Twitch,5,5,0.56
+Aphelios/Nasus/Rakan/Rengar/Sejuani/Senna,5,5,0.56
+Aphelios/Nasus/Rakan/Rengar/Senna/Seraphine,5,5,0.56
+Aphelios/Nasus/Rakan/Rengar/Senna/Twitch,5,5,0.56
+Aphelios/Nasus/Rakan/Sejuani/Senna/Seraphine,5,5,0.5
+Aphelios/Nasus/Rakan/Senna/Seraphine/Twitch,5,5,0.5
+Aphelios/Nasus/Rakan/Senna/Seraphine/Zyra,5,5,0.56
+Aphelios/Nasus/Rakan/Senna/Twitch/Varus,5,5,0.56
+Aphelios/Nasus/Rell/Sejuani/Senna/Sett,5,5,0.62
+Aphelios/Nasus/Rell/Sejuani/Senna/Zac,5,5,0.62
+Aphelios/Nasus/Rell/Sejuani/Zac/Zeri,5,5,0.71
+Aphelios/Nidalee/Rakan/Rell/Sejuani/Senna,5,5,0.56
+Aphelios/Nidalee/Rell/Sejuani/Senna/Sett,5,5,0.62
+Aphelios/Nunu/Olaf/Rell/Sejuani/Yone,5,6,0.62
+Aphelios/Nunu/Olaf/Rell/Senna/Yone,5,5,0.62
+Aphelios/Nunu/Olaf/Rell/Skarner/Yone,5,5,0.62
+Aphelios/Nunu/Olaf/Rell/Sylas/Yone,5,5,0.56
+Aphelios/Nunu/Olaf/Rell/Twitch/Yone,5,5,0.56
+Aphelios/Nunu/Olaf/Rell/Yone/Zeri,5,5,0.62
+Aphelios/Nunu/Olaf/Rengar/Sejuani/Yone,5,5,0.56
+Aphelios/Nunu/Olaf/Sejuani/Senna/Yone,5,5,0.56
+Aphelios/Nunu/Olaf/Sejuani/Skarner/Yone,5,5,0.56
+Aphelios/Nunu/Olaf/Sejuani/Sylas/Yone,5,5,0.5
+Aphelios/Nunu/Olaf/Sejuani/Yone/Zeri,5,5,0.56
+Aphelios/Nunu/Qiyana/Rengar/Sejuani/Senna,5,5,0.62
+Aphelios/Nunu/Qiyana/Rengar/Sejuani/Yone,5,5,0.62
+Aphelios/Nunu/Qiyana/Rengar/Sejuani/Zeri,5,5,0.62
+Aphelios/Nunu/Rakan/Rell/Sejuani/Senna,5,6,0.62
+Aphelios/Nunu/Rakan/Rell/Senna/Seraphine,5,5,0.56
+Aphelios/Nunu/Rakan/Rell/Senna/Twitch,5,5,0.56
+Aphelios/Nunu/Rakan/Rell/Senna/Yone,5,5,0.62
+Aphelios/Nunu/Rakan/Rell/Senna/Zac,5,5,0.62
+Aphelios/Nunu/Rakan/Rengar/Sejuani/Senna,5,5,0.56
+Aphelios/Nunu/Rakan/Sejuani/Senna/Seraphine,5,5,0.5
+Aphelios/Nunu/Rakan/Sejuani/Senna/Yone,5,5,0.56
+Aphelios/Nunu/Rakan/Sejuani/Senna/Zac,5,5,0.56
+Aphelios/Nunu/Rell/Sejuani/Senna/Sett,5,6,0.71
+Aphelios/Nunu/Rell/Sejuani/Senna/Yone,5,6,0.71
+Aphelios/Nunu/Rell/Sejuani/Wukong/Yone,5,6,0.71
+Aphelios/Nunu/Rell/Sejuani/Yone/Zeri,5,6,0.71
+Aphelios/Nunu/Rell/Senna/Sett/Twitch,5,5,0.62
+Aphelios/Nunu/Rell/Senna/Sett/Volibear,5,5,0.71
+Aphelios/Nunu/Rell/Senna/Sett/Yone,5,5,0.71
+Aphelios/Nunu/Rell/Senna/Twitch/Varus,5,5,0.62
+Aphelios/Nunu/Rell/Senna/Twitch/Yone,5,5,0.62
+Aphelios/Nunu/Rell/Senna/Wukong/Yone,5,5,0.71
+Aphelios/Nunu/Rell/Twitch/Varus/Yone,5,5,0.62
+Aphelios/Nunu/Rell/Twitch/Varus/Zeri,5,5,0.62
+Aphelios/Nunu/Rell/Twitch/Wukong/Yone,5,5,0.62
+Aphelios/Nunu/Rell/Twitch/Yone/Zeri,5,5,0.62
+Aphelios/Nunu/Rell/Wukong/Yone/Zeri,5,5,0.71
+Aphelios/Nunu/Rengar/Sejuani/Senna/Sett,5,5,0.62
+Aphelios/Nunu/Rengar/Sejuani/Senna/Yone,5,5,0.62
+Aphelios/Nunu/Rengar/Sejuani/Wukong/Yone,5,5,0.62
+Aphelios/Nunu/Rengar/Sejuani/Yone/Zeri,5,5,0.62
+Aphelios/Nunu/Sejuani/Senna/Sett/Volibear,5,5,0.62
+Aphelios/Nunu/Sejuani/Senna/Sett/Yone,5,5,0.62
+Aphelios/Nunu/Sejuani/Senna/Wukong/Yone,5,5,0.62
+Aphelios/Nunu/Sejuani/Wukong/Yone/Zeri,5,5,0.62
+Aphelios/Olaf/Rakan/Rell/Sejuani/Senna,5,5,0.5
+Aphelios/Olaf/Rell/Sejuani/Senna/Sett,5,5,0.56
+Aphelios/Olaf/Rell/Sejuani/Senna/Skarner,5,5,0.56
+Aphelios/Olaf/Rell/Sejuani/Senna/Sylas,5,5,0.5
+Aphelios/Olaf/Rell/Sejuani/Senna/Wukong,5,5,0.56
+Aphelios/Olaf/Rell/Sejuani/Senna/Yone,5,5,0.56
+Aphelios/Olaf/Rell/Sejuani/Skarner/Wukong,5,5,0.56
+Aphelios/Olaf/Rell/Sejuani/Skarner/Yone,5,5,0.56
+Aphelios/Olaf/Rell/Sejuani/Skarner/Zeri,5,5,0.56
+Aphelios/Olaf/Rell/Sejuani/Sylas/Wukong,5,5,0.5
+Aphelios/Olaf/Rell/Sejuani/Sylas/Yone,5,5,0.5
+Aphelios/Olaf/Rell/Sejuani/Sylas/Zeri,5,5,0.5
+Aphelios/Olaf/Rell/Sejuani/Sylas/Zyra,5,5,0.5
+Aphelios/Olaf/Rell/Sejuani/Wukong/Zeri,5,5,0.56
+Aphelios/Olaf/Rell/Sejuani/Yone/Zeri,5,5,0.56
+Aphelios/Qiyana/Rakan/Rell/Sejuani/Senna,5,5,0.56
+Aphelios/Qiyana/Rakan/Rengar/Sejuani/Senna,5,5,0.56
+Aphelios/Qiyana/Rakan/Rengar/Senna/Zac,5,5,0.62
+Aphelios/Qiyana/Rell/Rengar/Sejuani/Senna,5,5,0.71
+Aphelios/Qiyana/Rell/Rengar/Sejuani/Zeri,5,5,0.71
+Aphelios/Qiyana/Rell/Sejuani/Senna/Sett,5,5,0.62
+Aphelios/Rakan/Rell/Rengar/Sejuani/Senna,5,5,0.62
+Aphelios/Rakan/Rell/Sejuani/Senna/Seraphine,6,6,0.67
+Aphelios/Rakan/Rell/Sejuani/Senna/Sett,5,5,0.62
+Aphelios/Rakan/Rell/Sejuani/Senna/Skarner,5,5,0.56
+Aphelios/Rakan/Rell/Sejuani/Senna/Sylas,5,5,0.5
+Aphelios/Rakan/Rell/Sejuani/Senna/Taliyah,5,5,0.56
+Aphelios/Rakan/Rell/Sejuani/Senna/Twitch,5,6,0.62
+Aphelios/Rakan/Rell/Sejuani/Senna/Varus,5,5,0.56
+Aphelios/Rakan/Rell/Sejuani/Senna/Vladimir,5,5,0.56
+Aphelios/Rakan/Rell/Sejuani/Senna/Volibear,5,5,0.56
+Aphelios/Rakan/Rell/Sejuani/Senna/Wukong,5,5,0.56
+Aphelios/Rakan/Rell/Sejuani/Senna/Yone,5,5,0.56
+Aphelios/Rakan/Rell/Sejuani/Senna/Zac,6,6,0.75
+Aphelios/Rakan/Rell/Sejuani/Senna/Zeri,5,5,0.62
+Aphelios/Rakan/Rell/Sejuani/Senna/Zyra,5,5,0.56
+Aphelios/Rakan/Rell/Sejuani/Seraphine/Zeri,5,5,0.56
+Aphelios/Rakan/Rell/Sejuani/Sett/Volibear,5,5,0.56
+Aphelios/Rakan/Rell/Sejuani/Sett/Zeri,5,5,0.56
+Aphelios/Rakan/Rell/Sejuani/Zac/Zeri,5,5,0.62
+Aphelios/Rakan/Rell/Senna/Seraphine/Twitch,5,5,0.5
+Aphelios/Rakan/Rell/Senna/Seraphine/Zac,5,5,0.62
+Aphelios/Rakan/Rell/Senna/Seraphine/Zyra,5,5,0.56
+Aphelios/Rakan/Rell/Senna/Twitch/Varus,5,5,0.56
+Aphelios/Rakan/Rell/Senna/Twitch/Zac,5,5,0.56
+Aphelios/Rakan/Rell/Seraphine/Zac/Zeri,5,5,0.62
+Aphelios/Rakan/Rengar/Sejuani/Senna/Seraphine,5,5,0.5
+Aphelios/Rakan/Rengar/Sejuani/Senna/Zac,5,5,0.56
+Aphelios/Rakan/Rengar/Senna/Seraphine/Zac,5,5,0.62
+Aphelios/Rakan/Rengar/Senna/Twitch/Zac,5,5,0.56
+Aphelios/Rakan/Rengar/Seraphine/Zac/Zeri,5,5,0.62
+Aphelios/Rakan/Sejuani/Senna/Seraphine/Zac,5,5,0.56
+Aphelios/Rakan/Sejuani/Senna/Seraphine/Zyra,5,5,0.5
+Aphelios/Rakan/Sejuani/Seraphine/Zac/Zeri,5,5,0.56
+Aphelios/Rakan/Senna/Seraphine/Taliyah/Zac,5,5,0.62
+Aphelios/Rakan/Senna/Seraphine/Twitch/Zac,5,5,0.56
+Aphelios/Rakan/Senna/Seraphine/Zac/Zeri,5,5,0.71
+Aphelios/Rakan/Senna/Seraphine/Zac/Zyra,5,5,0.62
+Aphelios/Rakan/Senna/Twitch/Varus/Zac,5,5,0.56
+Aphelios/Rakan/Seraphine/Sett/Zac/Zeri,5,5,0.62
+Aphelios/Rakan/Seraphine/Twitch/Zac/Zeri,5,5,0.56
+Aphelios/Rakan/Seraphine/Zac/Zeri/Zyra,5,5,0.62
+Aphelios/Rell/Rengar/Sejuani/Senna/Sett,5,5,0.71
+Aphelios/Rell/Sejuani/Senna/Seraphine/Sett,5,5,0.56
+Aphelios/Rell/Sejuani/Senna/Seraphine/Zyra,5,5,0.56
+Aphelios/Rell/Sejuani/Senna/Sett/Skarner,5,5,0.62
+Aphelios/Rell/Sejuani/Senna/Sett/Sylas,5,5,0.56
+Aphelios/Rell/Sejuani/Senna/Sett/Taliyah,5,5,0.62
+Aphelios/Rell/Sejuani/Senna/Sett/Twitch,5,6,0.71
+Aphelios/Rell/Sejuani/Senna/Sett/Varus,5,5,0.62
+Aphelios/Rell/Sejuani/Senna/Sett/Vladimir,5,5,0.62
+Aphelios/Rell/Sejuani/Senna/Sett/Volibear,6,6,0.86
+Aphelios/Rell/Sejuani/Senna/Sett/Wukong,5,5,0.62
+Aphelios/Rell/Sejuani/Senna/Sett/Yone,5,5,0.62
+Aphelios/Rell/Sejuani/Senna/Sett/Zac,5,5,0.62
+Aphelios/Rell/Sejuani/Senna/Sett/Zeri,5,5,0.71
+Aphelios/Rell/Sejuani/Senna/Sett/Zyra,5,5,0.62
+Aphelios/Rell/Sejuani/Senna/Skarner/Sylas,5,5,0.56
+Aphelios/Rell/Sejuani/Senna/Sylas/Zyra,5,5,0.56
+Aphelios/Rell/Sejuani/Senna/Twitch/Varus,5,6,0.71
+Aphelios/Rell/Sejuani/Senna/Wukong/Yone,5,5,0.62
+Aphelios/Rell/Sejuani/Seraphine/Taliyah/Zeri,5,5,0.62
+Aphelios/Rell/Sejuani/Seraphine/Zac/Zeri,5,5,0.62
+Aphelios/Rell/Sejuani/Seraphine/Zeri/Zyra,5,5,0.62
+Aphelios/Rell/Sejuani/Sett/Volibear/Zeri,5,5,0.62
+Aphelios/Rell/Sejuani/Skarner/Sylas/Zeri,5,5,0.56
+Aphelios/Rell/Sejuani/Sylas/Zeri/Zyra,5,5,0.56
+Aphelios/Rell/Sejuani/Taliyah/Zac/Zeri,5,5,0.71
+Aphelios/Rell/Sejuani/Twitch/Varus/Zeri,5,6,0.71
+Aphelios/Rell/Sejuani/Wukong/Yone/Zeri,5,5,0.62
+Braum/Diana/Ezreal/Jax/Qiyana/Twitch,5,5,0.56
+Braum/Diana/Ezreal/Lee Sin/Leona/Twitch,5,5,0.62
+Braum/Diana/Ezreal/Lee Sin/Nasus/Twitch,5,5,0.62
+Braum/Diana/Ezreal/Lee Sin/Rakan/Sett,5,5,0.62
+Braum/Diana/Ezreal/Lee Sin/Rakan/Twitch,5,5,0.56
+Braum/Diana/Ezreal/Lee Sin/Twitch/Zac,5,5,0.62
+Braum/Diana/Ezreal/Leona/Nunu/Qiyana,5,5,0.71
+Braum/Diana/Ezreal/Leona/Nunu/Sejuani,5,5,0.62
+Braum/Diana/Ezreal/Leona/Nunu/Twitch,5,5,0.62
+Braum/Diana/Ezreal/Leona/Qiyana/Sejuani,5,5,0.62
+Braum/Diana/Ezreal/Leona/Qiyana/Twitch,6,6,0.86
+Braum/Diana/Ezreal/Leona/Qiyana/Varus,5,5,0.71
+Braum/Diana/Ezreal/Leona/Qiyana/Yone,5,5,0.71
+Braum/Diana/Ezreal/Leona/Rengar/Twitch,5,5,0.62
+Braum/Diana/Ezreal/Leona/Twitch/Yone,5,5,0.62
+Braum/Diana/Ezreal/Lillia/Qiyana/Sejuani,5,5,0.62
+Braum/Diana/Ezreal/Malphite/Qiyana/Twitch,5,5,0.62
+Braum/Diana/Ezreal/Nasus/Qiyana/Sejuani,5,5,0.62
+Braum/Diana/Ezreal/Nasus/Qiyana/Twitch,6,6,0.86
+Braum/Diana/Ezreal/Nasus/Qiyana/Varus,5,5,0.71
+Braum/Diana/Ezreal/Nasus/Rengar/Twitch,5,5,0.62
+Braum/Diana/Ezreal/Nunu/Qiyana/Sejuani,5,5,0.62
+Braum/Diana/Ezreal/Nunu/Qiyana/Twitch,5,5,0.62
+Braum/Diana/Ezreal/Qiyana/Rakan/Sejuani,5,5,0.56
+Braum/Diana/Ezreal/Qiyana/Rakan/Senna,5,5,0.62
+Braum/Diana/Ezreal/Qiyana/Rakan/Seraphine,5,5,0.56
+Braum/Diana/Ezreal/Qiyana/Rakan/Sett,5,5,0.62
+Braum/Diana/Ezreal/Qiyana/Rakan/Twitch,6,6,0.75
+Braum/Diana/Ezreal/Qiyana/Rakan/Varus,5,5,0.62
+Braum/Diana/Ezreal/Qiyana/Rell/Sejuani,5,5,0.62
+Braum/Diana/Ezreal/Qiyana/Rell/Twitch,5,5,0.62
+Braum/Diana/Ezreal/Qiyana/Sejuani/Twitch,5,6,0.71
+Braum/Diana/Ezreal/Qiyana/Sejuani/Varus,5,5,0.62
+Braum/Diana/Ezreal/Qiyana/Sejuani/Zac,5,5,0.62
+Braum/Diana/Ezreal/Qiyana/Skarner/Twitch,5,5,0.62
+Braum/Diana/Ezreal/Qiyana/Twitch/Vladimir,5,5,0.62
+Braum/Diana/Ezreal/Qiyana/Twitch/Zac,6,6,0.86
+Braum/Diana/Ezreal/Qiyana/Varus/Zac,5,5,0.71
+Braum/Diana/Ezreal/Rakan/Rengar/Twitch,5,5,0.56
+Braum/Diana/Ezreal/Rakan/Senna/Twitch,5,5,0.56
+Braum/Diana/Ezreal/Rakan/Seraphine/Twitch,5,5,0.5
+Braum/Diana/Ezreal/Rakan/Sett/Twitch,5,5,0.56
+Braum/Diana/Ezreal/Rell/Rengar/Sejuani,5,5,0.62
+Braum/Diana/Ezreal/Rell/Rengar/Twitch,5,5,0.62
+Braum/Diana/Ezreal/Rengar/Twitch/Zac,5,5,0.62
+Braum/Diana/Gnar/Leona/Nunu/Sejuani,5,5,0.62
+Braum/Diana/Gnar/Rell/Rengar/Sejuani,5,5,0.62
+Braum/Diana/Jax/Leona/Olaf/Yone,5,5,0.62
+Braum/Diana/Jax/Rell/Rengar/Sejuani,5,5,0.56
+Braum/Diana/Kai'sa/Lee Sin/Leona/Qiyana,5,5,0.71
+Braum/Diana/Kai'sa/Lee Sin/Nasus/Qiyana,5,5,0.71
+Braum/Diana/Kai'sa/Lee Sin/Qiyana/Rakan,5,5,0.62
+Braum/Diana/Kai'sa/Lee Sin/Qiyana/Sejuani,5,5,0.62
+Braum/Diana/Kai'sa/Lee Sin/Qiyana/Zac,5,5,0.83
+Braum/Diana/Kai'sa/Leona/Nunu/Sejuani,5,5,0.62
+Braum/Diana/Kai'sa/Qiyana/Rakan/Sett,5,5,0.62
+Braum/Diana/Kai'sa/Rakan/Rengar/Sett,5,5,0.62
+Braum/Diana/Kai'sa/Rakan/Sejuani/Sett,5,5,0.56
+Braum/Diana/Kai'sa/Rakan/Seraphine/Sett,5,5,0.62
+Braum/Diana/Kai'sa/Rakan/Sett/Twitch,5,5,0.56
+Braum/Diana/Kai'sa/Rell/Rengar/Sejuani,5,5,0.62
+Braum/Diana/Karma/Lee Sin/Leona/Qiyana,5,5,0.71
+Braum/Diana/Karma/Lee Sin/Nasus/Qiyana,5,5,0.71
+Braum/Diana/Karma/Lee Sin/Qiyana/Rakan,5,5,0.62
+Braum/Diana/Karma/Lee Sin/Qiyana/Sejuani,5,5,0.62
+Braum/Diana/Karma/Lee Sin/Qiyana/Zac,5,5,0.71
+Braum/Diana/Karma/Leona/Nunu/Sejuani,5,5,0.62
+Braum/Diana/Karma/Qiyana/Rakan/Sett,5,5,0.62
+Braum/Diana/Karma/Rakan/Rengar/Sett,5,5,0.62
+Braum/Diana/Karma/Rakan/Sejuani/Sett,5,5,0.56
+Braum/Diana/Karma/Rakan/Seraphine/Sett,5,5,0.56
+Braum/Diana/Karma/Rakan/Sett/Twitch,5,5,0.56
+Braum/Diana/Karma/Rell/Rengar/Sejuani,5,5,0.62
+Braum/Diana/Lee Sin/Leona/Nunu/Qiyana,5,5,0.71
+Braum/Diana/Lee Sin/Leona/Nunu/Sejuani,5,5,0.62
+Braum/Diana/Lee Sin/Leona/Qiyana/Sejuani,5,5,0.62
+Braum/Diana/Lee Sin/Leona/Qiyana/Sett,5,5,0.71
+Braum/Diana/Lee Sin/Leona/Qiyana/Twitch,5,5,0.62
+Braum/Diana/Lee Sin/Leona/Qiyana/Volibear,5,5,0.71
+Braum/Diana/Lee Sin/Leona/Qiyana/Yone,5,5,0.71
+Braum/Diana/Lee Sin/Lillia/Qiyana/Sejuani,5,5,0.62
+Braum/Diana/Lee Sin/Nasus/Qiyana/Sejuani,5,5,0.62
+Braum/Diana/Lee Sin/Nasus/Qiyana/Sett,5,5,0.71
+Braum/Diana/Lee Sin/Nasus/Qiyana/Twitch,5,5,0.62
+Braum/Diana/Lee Sin/Nasus/Qiyana/Volibear,5,5,0.83
+Braum/Diana/Lee Sin/Nunu/Qiyana/Sejuani,5,5,0.62
+Braum/Diana/Lee Sin/Qiyana/Rakan/Sejuani,5,5,0.56
+Braum/Diana/Lee Sin/Qiyana/Rakan/Senna,5,5,0.62
+Braum/Diana/Lee Sin/Qiyana/Rakan/Seraphine,5,5,0.56
+Braum/Diana/Lee Sin/Qiyana/Rakan/Sett,6,6,0.86
+Braum/Diana/Lee Sin/Qiyana/Rakan/Twitch,5,5,0.56
+Braum/Diana/Lee Sin/Qiyana/Rakan/Volibear,5,5,0.62
+Braum/Diana/Lee Sin/Qiyana/Rell/Sejuani,5,5,0.62
+Braum/Diana/Lee Sin/Qiyana/Sejuani/Sett,5,5,0.62
+Braum/Diana/Lee Sin/Qiyana/Sejuani/Volibear,5,5,0.62
+Braum/Diana/Lee Sin/Qiyana/Sejuani/Zac,5,5,0.62
+Braum/Diana/Lee Sin/Qiyana/Sett/Zac,5,5,0.71
+Braum/Diana/Lee Sin/Qiyana/Twitch/Zac,5,5,0.62
+Braum/Diana/Lee Sin/Qiyana/Volibear/Zac,5,5,0.71
+Braum/Diana/Lee Sin/Rakan/Rengar/Sett,5,5,0.62
+Braum/Diana/Lee Sin/Rakan/Sejuani/Sett,5,5,0.56
+Braum/Diana/Lee Sin/Rakan/Seraphine/Sett,5,5,0.56
+Braum/Diana/Lee Sin/Rakan/Sett/Twitch,5,5,0.56
+Braum/Diana/Lee Sin/Rell/Rengar/Sejuani,5,5,0.62
+Braum/Diana/Leona/Lillia/Nunu/Qiyana,5,5,0.71
+Braum/Diana/Leona/Lillia/Nunu/Rengar,5,5,0.71
+Braum/Diana/Leona/Lillia/Nunu/Sejuani,5,6,0.71
+Braum/Diana/Leona/Lillia/Nunu/Twitch,5,5,0.62
+Braum/Diana/Leona/Lillia/Qiyana/Sejuani,5,5,0.62
+Braum/Diana/Leona/Lillia/Rell/Rengar,5,5,0.71
+Braum/Diana/Leona/Lillia/Rengar/Sejuani,5,5,0.62
+Braum/Diana/Leona/Lillia/Sejuani/Yone,5,5,0.62
+Braum/Diana/Leona/Lux/Nunu/Sejuani,5,5,0.62
+Braum/Diana/Leona/Malphite/Olaf/Yone,5,5,0.71
+Braum/Diana/Leona/Nidalee/Nunu/Sejuani,5,5,0.62
+Braum/Diana/Leona/Nunu/Olaf/Sejuani,5,5,0.62
+Braum/Diana/Leona/Nunu/Rell/Rengar,6,6,1.0
+Braum/Diana/Leona/Nunu/Rengar/Sejuani,6,6,0.86
+Braum/Diana/Leona/Nunu/Rengar/Twitch,5,5,0.62
+Braum/Diana/Leona/Nunu/Sejuani/Senna,5,5,0.62
+Braum/Diana/Leona/Nunu/Sejuani/Taliyah,5,5,0.62
+Braum/Diana/Leona/Nunu/Sejuani/Varus,5,5,0.62
+Braum/Diana/Leona/Nunu/Sejuani/Volibear,5,5,0.62
+Braum/Diana/Leona/Nunu/Sejuani/Yone,5,5,0.71
+Braum/Diana/Leona/Nunu/Sejuani/Zeri,5,5,0.62
+Braum/Diana/Leona/Nunu/Twitch/Varus,5,5,0.62
+Braum/Diana/Leona/Olaf/Qiyana/Yone,5,5,0.71
+Braum/Diana/Leona/Olaf/Rengar/Yone,5,5,0.71
+Braum/Diana/Leona/Olaf/Sejuani/Yone,5,5,0.62
+Braum/Diana/Leona/Olaf/Skarner/Yone,5,5,0.71
+Braum/Diana/Leona/Olaf/Sylas/Yone,5,5,0.62
+Braum/Diana/Leona/Olaf/Twitch/Yone,5,5,0.62
+Braum/Diana/Leona/Qiyana/Sejuani/Yone,5,5,0.62
+Braum/Diana/Leona/Qiyana/Twitch/Varus,5,5,0.62
+Braum/Diana/Leona/Qiyana/Twitch/Yone,5,5,0.62
+Braum/Diana/Leona/Qiyana/Wukong/Yone,5,5,0.71
+Braum/Diana/Leona/Rell/Rengar/Sejuani,6,6,0.86
+Braum/Diana/Leona/Rell/Rengar/Twitch,5,5,0.62
+Braum/Diana/Leona/Rell/Rengar/Yone,5,5,0.71
+Braum/Diana/Leona/Rell/Sejuani/Yone,5,5,0.62
+Braum/Diana/Leona/Rengar/Sejuani/Yone,5,5,0.62
+Braum/Diana/Leona/Rengar/Twitch/Varus,5,5,0.62
+Braum/Diana/Leona/Rengar/Twitch/Yone,5,5,0.62
+Braum/Diana/Leona/Rengar/Wukong/Yone,5,5,0.71
+Braum/Diana/Leona/Sejuani/Wukong/Yone,5,5,0.62
+Braum/Diana/Leona/Twitch/Varus/Yone,5,5,0.62
+Braum/Diana/Leona/Twitch/Wukong/Yone,5,5,0.62
+Braum/Diana/Lillia/Nasus/Qiyana/Sejuani,5,5,0.62
+Braum/Diana/Lillia/Nasus/Rell/Rengar,5,5,0.71
+Braum/Diana/Lillia/Nasus/Rengar/Sejuani,5,5,0.62
+Braum/Diana/Lillia/Qiyana/Rakan/Sejuani,5,5,0.56
+Braum/Diana/Lillia/Qiyana/Sejuani/Zac,5,5,0.62
+Braum/Diana/Lillia/Rakan/Rell/Rengar,5,5,0.62
+Braum/Diana/Lillia/Rakan/Rengar/Sejuani,5,5,0.56
+Braum/Diana/Lillia/Rakan/Sejuani/Senna,5,5,0.56
+Braum/Diana/Lillia/Rakan/Sejuani/Seraphine,5,5,0.5
+Braum/Diana/Lillia/Rakan/Sejuani/Sett,5,5,0.56
+Braum/Diana/Lillia/Rell/Rengar/Sejuani,5,6,0.71
+Braum/Diana/Lillia/Rell/Rengar/Twitch,5,5,0.62
+Braum/Diana/Lillia/Rell/Rengar/Zac,5,5,0.71
+Braum/Diana/Lillia/Rengar/Sejuani/Zac,5,5,0.62
+Braum/Diana/Lux/Rell/Rengar/Sejuani,5,5,0.62
+Braum/Diana/Malphite/Rell/Rengar/Sejuani,5,5,0.62
+Braum/Diana/Nasus/Nunu/Rell/Rengar,5,5,0.71
+Braum/Diana/Nasus/Nunu/Rengar/Sejuani,5,5,0.62
+Braum/Diana/Nasus/Nunu/Sejuani/Yone,5,5,0.62
+Braum/Diana/Nasus/Qiyana/Twitch/Varus,5,5,0.62
+Braum/Diana/Nasus/Rell/Rengar/Sejuani,6,6,0.86
+Braum/Diana/Nasus/Rell/Rengar/Twitch,5,5,0.62
+Braum/Diana/Nasus/Rengar/Twitch/Varus,5,5,0.62
+Braum/Diana/Nidalee/Rell/Rengar/Sejuani,5,5,0.62
+Braum/Diana/Nunu/Olaf/Sejuani/Yone,5,5,0.62
+Braum/Diana/Nunu/Qiyana/Sejuani/Yone,5,5,0.62
+Braum/Diana/Nunu/Rakan/Rell/Rengar,5,5,0.62
+Braum/Diana/Nunu/Rakan/Rengar/Sejuani,5,5,0.56
+Braum/Diana/Nunu/Rakan/Sejuani/Senna,5,5,0.56
+Braum/Diana/Nunu/Rakan/Sejuani/Yone,5,5,0.56
+Braum/Diana/Nunu/Rell/Rengar/Sejuani,5,6,0.71
+Braum/Diana/Nunu/Rell/Rengar/Twitch,5,5,0.62
+Braum/Diana/Nunu/Rell/Rengar/Yone,5,5,0.71
+Braum/Diana/Nunu/Rell/Rengar/Zac,5,5,0.71
+Braum/Diana/Nunu/Rengar/Sejuani/Yone,5,5,0.62
+Braum/Diana/Nunu/Rengar/Sejuani/Zac,5,5,0.62
+Braum/Diana/Nunu/Sejuani/Wukong/Yone,5,5,0.62
+Braum/Diana/Nunu/Sejuani/Yone/Zac,5,5,0.62
+Braum/Diana/Olaf/Rell/Rengar/Sejuani,5,5,0.62
+Braum/Diana/Qiyana/Rakan/Sejuani/Senna,5,5,0.56
+Braum/Diana/Qiyana/Rakan/Senna/Seraphine,5,5,0.56
+Braum/Diana/Qiyana/Rakan/Senna/Twitch,5,5,0.56
+Braum/Diana/Qiyana/Rakan/Senna/Zeri,5,5,0.62
+Braum/Diana/Qiyana/Rakan/Sett/Volibear,5,5,0.62
+Braum/Diana/Qiyana/Rakan/Twitch/Varus,5,5,0.56
+Braum/Diana/Qiyana/Rell/Rengar/Sejuani,5,5,0.71
+Braum/Diana/Qiyana/Twitch/Varus/Zac,5,5,0.62
+Braum/Diana/Rakan/Rell/Rengar/Sejuani,6,6,0.75
+Braum/Diana/Rakan/Rell/Rengar/Senna,5,5,0.62
+Braum/Diana/Rakan/Rell/Rengar/Seraphine,5,5,0.56
+Braum/Diana/Rakan/Rell/Rengar/Sett,5,5,0.62
+Braum/Diana/Rakan/Rell/Rengar/Twitch,5,5,0.56
+Braum/Diana/Rakan/Rell/Sejuani/Senna,5,5,0.56
+Braum/Diana/Rakan/Rengar/Sejuani/Senna,5,5,0.56
+Braum/Diana/Rakan/Rengar/Sejuani/Seraphine,5,5,0.5
+Braum/Diana/Rakan/Rengar/Sejuani/Sett,5,5,0.56
+Braum/Diana/Rakan/Rengar/Senna/Seraphine,5,5,0.56
+Braum/Diana/Rakan/Rengar/Senna/Twitch,5,5,0.56
+Braum/Diana/Rakan/Rengar/Senna/Zeri,5,5,0.62
+Braum/Diana/Rakan/Rengar/Seraphine/Sett,5,5,0.56
+Braum/Diana/Rakan/Rengar/Seraphine/Twitch,5,5,0.5
+Braum/Diana/Rakan/Rengar/Seraphine/Zyra,5,5,0.56
+Braum/Diana/Rakan/Rengar/Sett/Twitch,5,5,0.56
+Braum/Diana/Rakan/Rengar/Sett/Volibear,5,5,0.62
+Braum/Diana/Rakan/Rengar/Twitch/Varus,5,5,0.56
+Braum/Diana/Rakan/Sejuani/Senna/Seraphine,5,5,0.5
+Braum/Diana/Rakan/Sejuani/Senna/Zeri,5,5,0.56
+Braum/Diana/Rakan/Sejuani/Sett/Volibear,5,5,0.56
+Braum/Diana/Rakan/Senna/Seraphine/Twitch,5,5,0.5
+Braum/Diana/Rakan/Senna/Seraphine/Zeri,5,5,0.62
+Braum/Diana/Rakan/Senna/Seraphine/Zyra,5,5,0.56
+Braum/Diana/Rakan/Senna/Twitch/Varus,5,5,0.56
+Braum/Diana/Rakan/Senna/Twitch/Zeri,5,5,0.56
+Braum/Diana/Rakan/Seraphine/Sett/Volibear,5,5,0.56
+Braum/Diana/Rakan/Seraphine/Twitch/Varus,5,5,0.5
+Braum/Diana/Rakan/Sett/Twitch/Varus,5,5,0.56
+Braum/Diana/Rakan/Sett/Twitch/Volibear,5,5,0.56
+Braum/Diana/Rell/Rengar/Sejuani/Senna,5,5,0.62
+Braum/Diana/Rell/Rengar/Sejuani/Seraphine,5,5,0.56
+Braum/Diana/Rell/Rengar/Sejuani/Sett,5,5,0.62
+Braum/Diana/Rell/Rengar/Sejuani/Skarner,5,5,0.62
+Braum/Diana/Rell/Rengar/Sejuani/Sylas,5,5,0.56
+Braum/Diana/Rell/Rengar/Sejuani/Taliyah,5,5,0.62
+Braum/Diana/Rell/Rengar/Sejuani/Twitch,5,6,0.71
+Braum/Diana/Rell/Rengar/Sejuani/Varus,5,5,0.62
+Braum/Diana/Rell/Rengar/Sejuani/Vladimir,5,5,0.62
+Braum/Diana/Rell/Rengar/Sejuani/Volibear,5,5,0.62
+Braum/Diana/Rell/Rengar/Sejuani/Wukong,5,5,0.62
+Braum/Diana/Rell/Rengar/Sejuani/Yone,5,5,0.62
+Braum/Diana/Rell/Rengar/Sejuani/Zac,6,6,0.86
+Braum/Diana/Rell/Rengar/Sejuani/Zeri,5,5,0.62
+Braum/Diana/Rell/Rengar/Sejuani/Zyra,5,5,0.62
+Braum/Diana/Rell/Rengar/Twitch/Varus,5,5,0.62
+Braum/Diana/Rell/Rengar/Twitch/Zac,5,5,0.62
+Braum/Diana/Rengar/Twitch/Varus/Zac,5,5,0.62
+Braum/Ezreal/Jax/Lee Sin/Olaf/Twitch,5,5,0.5
+Braum/Ezreal/Jax/Leona/Olaf/Twitch,5,5,0.5
+Braum/Ezreal/Jax/Leona/Olaf/Yone,5,5,0.56
+Braum/Ezreal/Jax/Nasus/Olaf/Twitch,5,5,0.56
+Braum/Ezreal/Jax/Olaf/Qiyana/Twitch,5,5,0.5
+Braum/Ezreal/Jax/Olaf/Rakan/Twitch,5,5,0.45
+Braum/Ezreal/Jax/Olaf/Twitch/Wukong,5,5,0.56
+Braum/Ezreal/Jax/Olaf/Twitch/Yone,5,5,0.5
+Braum/Ezreal/Jax/Olaf/Twitch/Zac,5,5,0.5
+Braum/Ezreal/Kai'sa/Lee Sin/Leona/Twitch,5,5,0.62
+Braum/Ezreal/Kai'sa/Lee Sin/Lillia/Sejuani,5,5,0.56
+Braum/Ezreal/Kai'sa/Lee Sin/Nasus/Twitch,5,5,0.62
+Braum/Ezreal/Kai'sa/Lee Sin/Rakan/Twitch,5,5,0.56
+Braum/Ezreal/Kai'sa/Lee Sin/Twitch/Zac,5,5,0.71
+Braum/Ezreal/Kai'sa/Rakan/Sett/Twitch,5,5,0.56
+Braum/Ezreal/Karma/Lee Sin/Leona/Twitch,5,5,0.62
+Braum/Ezreal/Karma/Lee Sin/Lillia/Sejuani,5,5,0.56
+Braum/Ezreal/Karma/Lee Sin/Nasus/Twitch,5,5,0.62
+Braum/Ezreal/Karma/Lee Sin/Rakan/Twitch,5,5,0.56
+Braum/Ezreal/Karma/Lee Sin/Twitch/Zac,5,5,0.62
+Braum/Ezreal/Karma/Rakan/Sett/Twitch,5,5,0.56
+Braum/Ezreal/Lee Sin/Leona/Lillia/Nunu,5,5,0.62
+Braum/Ezreal/Lee Sin/Leona/Lillia/Sejuani,5,5,0.56
+Braum/Ezreal/Lee Sin/Leona/Lillia/Twitch,5,5,0.56
+Braum/Ezreal/Lee Sin/Leona/Nunu/Sejuani,5,5,0.62
+Braum/Ezreal/Lee Sin/Leona/Nunu/Twitch,5,5,0.62
+Braum/Ezreal/Lee Sin/Leona/Olaf/Twitch,5,5,0.56
+Braum/Ezreal/Lee Sin/Leona/Olaf/Yone,5,5,0.62
+Braum/Ezreal/Lee Sin/Leona/Sett/Twitch,5,5,0.62
+Braum/Ezreal/Lee Sin/Leona/Twitch/Volibear,5,5,0.62
+Braum/Ezreal/Lee Sin/Leona/Twitch/Yone,5,5,0.62
+Braum/Ezreal/Lee Sin/Lillia/Nasus/Sejuani,5,5,0.56
+Braum/Ezreal/Lee Sin/Lillia/Nasus/Twitch,5,5,0.56
+Braum/Ezreal/Lee Sin/Lillia/Nunu/Twitch,5,5,0.56
+Braum/Ezreal/Lee Sin/Lillia/Rakan/Sejuani,5,5,0.5
+Braum/Ezreal/Lee Sin/Lillia/Rakan/Sett,5,5,0.56
+Braum/Ezreal/Lee Sin/Lillia/Rakan/Twitch,5,5,0.5
+Braum/Ezreal/Lee Sin/Lillia/Rell/Twitch,5,5,0.56
+Braum/Ezreal/Lee Sin/Lillia/Sejuani/Sett,5,5,0.56
+Braum/Ezreal/Lee Sin/Lillia/Sejuani/Twitch,5,6,0.62
+Braum/Ezreal/Lee Sin/Lillia/Sejuani/Varus,5,5,0.56
+Braum/Ezreal/Lee Sin/Lillia/Sejuani/Volibear,5,5,0.56
+Braum/Ezreal/Lee Sin/Lillia/Sejuani/Zac,5,5,0.56
+Braum/Ezreal/Lee Sin/Lillia/Twitch/Zac,5,5,0.56
+Braum/Ezreal/Lee Sin/Malphite/Olaf/Twitch,5,5,0.56
+Braum/Ezreal/Lee Sin/Nasus/Olaf/Twitch,5,5,0.56
+Braum/Ezreal/Lee Sin/Nasus/Sett/Twitch,5,5,0.62
+Braum/Ezreal/Lee Sin/Nasus/Twitch/Volibear,5,5,0.71
+Braum/Ezreal/Lee Sin/Olaf/Rakan/Sett,5,5,0.56
+Braum/Ezreal/Lee Sin/Olaf/Rakan/Twitch,5,5,0.5
+Braum/Ezreal/Lee Sin/Olaf/Skarner/Twitch,5,5,0.56
+Braum/Ezreal/Lee Sin/Olaf/Twitch/Zac,5,5,0.56
+Braum/Ezreal/Lee Sin/Rakan/Sejuani/Sett,5,5,0.56
+Braum/Ezreal/Lee Sin/Rakan/Senna/Twitch,5,5,0.56
+Braum/Ezreal/Lee Sin/Rakan/Seraphine/Sett,5,5,0.56
+Braum/Ezreal/Lee Sin/Rakan/Seraphine/Twitch,5,5,0.5
+Braum/Ezreal/Lee Sin/Rakan/Sett/Twitch,6,6,0.75
+Braum/Ezreal/Lee Sin/Rakan/Sett/Varus,5,5,0.62
+Braum/Ezreal/Lee Sin/Rakan/Twitch/Volibear,5,5,0.56
+Braum/Ezreal/Lee Sin/Sett/Twitch/Zac,5,5,0.62
+Braum/Ezreal/Lee Sin/Twitch/Volibear/Zac,5,5,0.62
+Braum/Ezreal/Leona/Lillia/Nunu/Qiyana,5,5,0.62
+Braum/Ezreal/Leona/Lillia/Nunu/Sejuani,5,6,0.62
+Braum/Ezreal/Leona/Lillia/Nunu/Twitch,6,6,0.75
+Braum/Ezreal/Leona/Lillia/Nunu/Varus,5,5,0.62
+Braum/Ezreal/Leona/Lillia/Qiyana/Sejuani,5,5,0.56
+Braum/Ezreal/Leona/Lillia/Qiyana/Twitch,5,5,0.56
+Braum/Ezreal/Leona/Lillia/Rell/Twitch,5,5,0.56
+Braum/Ezreal/Leona/Lillia/Sejuani/Twitch,5,6,0.62
+Braum/Ezreal/Leona/Lillia/Sejuani/Varus,5,5,0.56
+Braum/Ezreal/Leona/Lillia/Sejuani/Yone,5,5,0.56
+Braum/Ezreal/Leona/Lillia/Twitch/Yone,5,5,0.56
+Braum/Ezreal/Leona/Malphite/Olaf/Twitch,5,5,0.56
+Braum/Ezreal/Leona/Malphite/Olaf/Yone,5,5,0.62
+Braum/Ezreal/Leona/Nunu/Olaf/Sejuani,5,5,0.56
+Braum/Ezreal/Leona/Nunu/Olaf/Twitch,5,5,0.56
+Braum/Ezreal/Leona/Nunu/Sejuani/Varus,5,5,0.62
+Braum/Ezreal/Leona/Olaf/Qiyana/Twitch,5,5,0.56
+Braum/Ezreal/Leona/Olaf/Qiyana/Yone,5,5,0.62
+Braum/Ezreal/Leona/Olaf/Sejuani/Yone,5,5,0.56
+Braum/Ezreal/Leona/Olaf/Skarner/Twitch,5,5,0.56
+Braum/Ezreal/Leona/Olaf/Skarner/Yone,5,5,0.62
+Braum/Ezreal/Leona/Olaf/Sylas/Twitch,5,5,0.5
+Braum/Ezreal/Leona/Olaf/Sylas/Yone,5,5,0.56
+Braum/Ezreal/Leona/Olaf/Twitch/Wukong,5,5,0.56
+Braum/Ezreal/Leona/Olaf/Twitch/Yone,6,6,0.75
+Braum/Ezreal/Leona/Olaf/Varus/Yone,5,5,0.62
+Braum/Ezreal/Leona/Qiyana/Rengar/Twitch,5,5,0.62
+Braum/Ezreal/Leona/Qiyana/Twitch/Yone,5,5,0.62
+Braum/Ezreal/Leona/Twitch/Wukong/Yone,5,5,0.62
+Braum/Ezreal/Lillia/Nasus/Nunu/Twitch,5,5,0.56
+Braum/Ezreal/Lillia/Nasus/Qiyana/Sejuani,5,5,0.56
+Braum/Ezreal/Lillia/Nasus/Qiyana/Twitch,5,5,0.56
+Braum/Ezreal/Lillia/Nasus/Rell/Twitch,5,5,0.56
+Braum/Ezreal/Lillia/Nasus/Sejuani/Twitch,5,6,0.62
+Braum/Ezreal/Lillia/Nasus/Sejuani/Varus,5,5,0.56
+Braum/Ezreal/Lillia/Nunu/Qiyana/Twitch,5,5,0.56
+Braum/Ezreal/Lillia/Nunu/Rakan/Twitch,5,5,0.5
+Braum/Ezreal/Lillia/Nunu/Twitch/Yone,5,5,0.56
+Braum/Ezreal/Lillia/Nunu/Twitch/Zac,5,5,0.56
+Braum/Ezreal/Lillia/Qiyana/Rakan/Sejuani,5,5,0.5
+Braum/Ezreal/Lillia/Qiyana/Rakan/Twitch,5,5,0.5
+Braum/Ezreal/Lillia/Qiyana/Rell/Rengar,5,5,0.62
+Braum/Ezreal/Lillia/Qiyana/Rell/Twitch,5,5,0.56
+Braum/Ezreal/Lillia/Qiyana/Rengar/Sejuani,5,5,0.56
+Braum/Ezreal/Lillia/Qiyana/Sejuani/Twitch,5,6,0.62
+Braum/Ezreal/Lillia/Qiyana/Sejuani/Varus,5,5,0.56
+Braum/Ezreal/Lillia/Qiyana/Sejuani/Zac,5,5,0.56
+Braum/Ezreal/Lillia/Qiyana/Twitch/Zac,5,5,0.56
+Braum/Ezreal/Lillia/Rakan/Rell/Twitch,5,5,0.5
+Braum/Ezreal/Lillia/Rakan/Sejuani/Senna,5,5,0.5
+Braum/Ezreal/Lillia/Rakan/Sejuani/Seraphine,5,5,0.45
+Braum/Ezreal/Lillia/Rakan/Sejuani/Sett,5,5,0.5
+Braum/Ezreal/Lillia/Rakan/Sejuani/Twitch,5,6,0.56
+Braum/Ezreal/Lillia/Rakan/Sejuani/Varus,5,5,0.5
+Braum/Ezreal/Lillia/Rakan/Senna/Twitch,5,5,0.5
+Braum/Ezreal/Lillia/Rakan/Seraphine/Twitch,5,5,0.45
+Braum/Ezreal/Lillia/Rakan/Sett/Twitch,5,5,0.5
+Braum/Ezreal/Lillia/Rell/Rengar/Twitch,5,5,0.56
+Braum/Ezreal/Lillia/Rell/Twitch/Zac,5,5,0.56
+Braum/Ezreal/Lillia/Sejuani/Twitch/Zac,5,6,0.62
+Braum/Ezreal/Lillia/Sejuani/Varus/Zac,5,5,0.56
+Braum/Ezreal/Malphite/Nasus/Olaf/Twitch,5,5,0.56
+Braum/Ezreal/Malphite/Olaf/Qiyana/Twitch,5,5,0.56
+Braum/Ezreal/Malphite/Olaf/Rakan/Twitch,5,5,0.5
+Braum/Ezreal/Malphite/Olaf/Twitch/Wukong,5,5,0.56
+Braum/Ezreal/Malphite/Olaf/Twitch/Yone,5,5,0.56
+Braum/Ezreal/Malphite/Olaf/Twitch/Zac,5,5,0.62
+Braum/Ezreal/Nasus/Olaf/Qiyana/Twitch,5,5,0.56
+Braum/Ezreal/Nasus/Olaf/Skarner/Twitch,5,5,0.56
+Braum/Ezreal/Nasus/Olaf/Sylas/Twitch,5,5,0.5
+Braum/Ezreal/Nasus/Olaf/Twitch/Wukong,5,5,0.56
+Braum/Ezreal/Nasus/Olaf/Twitch/Yone,5,5,0.56
+Braum/Ezreal/Nasus/Qiyana/Rengar/Twitch,5,5,0.62
+Braum/Ezreal/Nunu/Olaf/Sejuani/Yone,5,5,0.56
+Braum/Ezreal/Nunu/Olaf/Twitch/Yone,5,5,0.56
+Braum/Ezreal/Olaf/Qiyana/Rakan/Twitch,5,5,0.5
+Braum/Ezreal/Olaf/Qiyana/Skarner/Twitch,5,5,0.56
+Braum/Ezreal/Olaf/Qiyana/Twitch/Zac,5,5,0.56
+Braum/Ezreal/Olaf/Rakan/Senna/Twitch,5,5,0.5
+Braum/Ezreal/Olaf/Rakan/Seraphine/Twitch,5,5,0.45
+Braum/Ezreal/Olaf/Rakan/Sett/Twitch,5,5,0.5
+Braum/Ezreal/Olaf/Rakan/Skarner/Twitch,5,5,0.5
+Braum/Ezreal/Olaf/Rakan/Sylas/Twitch,5,5,0.45
+Braum/Ezreal/Olaf/Rakan/Twitch/Wukong,5,5,0.5
+Braum/Ezreal/Olaf/Rakan/Twitch/Yone,5,5,0.5
+Braum/Ezreal/Olaf/Skarner/Twitch/Wukong,5,5,0.56
+Braum/Ezreal/Olaf/Skarner/Twitch/Yone,5,5,0.56
+Braum/Ezreal/Olaf/Skarner/Twitch/Zac,5,5,0.56
+Braum/Ezreal/Olaf/Sylas/Twitch/Zac,5,5,0.5
+Braum/Ezreal/Olaf/Twitch/Wukong/Zac,5,5,0.56
+Braum/Ezreal/Olaf/Twitch/Yone/Zac,5,5,0.56
+Braum/Ezreal/Qiyana/Rakan/Rengar/Twitch,5,5,0.56
+Braum/Ezreal/Qiyana/Rakan/Senna/Twitch,5,5,0.56
+Braum/Ezreal/Qiyana/Rell/Rengar/Sejuani,5,5,0.62
+Braum/Ezreal/Qiyana/Rell/Rengar/Twitch,5,5,0.62
+Braum/Ezreal/Qiyana/Rengar/Twitch/Zac,5,5,0.62
+Braum/Ezreal/Rakan/Senna/Seraphine/Twitch,5,5,0.5
+Braum/Ezreal/Rakan/Senna/Twitch/Zeri,5,5,0.56
+Braum/Ezreal/Rakan/Sett/Twitch/Volibear,5,5,0.56
+Braum/Gnar/Jax/Leona/Olaf/Wukong,5,5,0.62
+Braum/Gnar/Jax/Leona/Olaf/Yone,5,5,0.62
+Braum/Gnar/Jax/Nasus/Olaf/Wukong,5,5,0.71
+Braum/Gnar/Jax/Nidalee/Olaf/Wukong,5,5,0.62
+Braum/Gnar/Jax/Olaf/Rakan/Wukong,5,5,0.56
+Braum/Gnar/Jax/Olaf/Sejuani/Wukong,5,5,0.56
+Braum/Gnar/Jax/Olaf/Twitch/Wukong,5,5,0.56
+Braum/Gnar/Jax/Olaf/Wukong/Zac,5,5,0.62
+Braum/Gnar/Leona/Lillia/Nidalee/Nunu,5,5,0.62
+Braum/Gnar/Leona/Lillia/Nidalee/Sejuani,5,5,0.56
+Braum/Gnar/Leona/Lillia/Nunu/Sejuani,5,6,0.62
+Braum/Gnar/Leona/Lillia/Nunu/Twitch,5,5,0.56
+Braum/Gnar/Leona/Lillia/Sejuani/Yone,5,5,0.56
+Braum/Gnar/Leona/Malphite/Olaf/Yone,5,5,0.62
+Braum/Gnar/Leona/Nidalee/Nunu/Sejuani,5,5,0.62
+Braum/Gnar/Leona/Nidalee/Olaf/Yone,5,5,0.62
+Braum/Gnar/Leona/Nunu/Olaf/Sejuani,5,5,0.56
+Braum/Gnar/Leona/Olaf/Sejuani/Yone,5,5,0.56
+Braum/Gnar/Leona/Olaf/Skarner/Yone,5,5,0.62
+Braum/Gnar/Leona/Olaf/Sylas/Yone,5,5,0.56
+Braum/Gnar/Leona/Olaf/Twitch/Yone,5,5,0.56
+Braum/Gnar/Lillia/Nasus/Nidalee/Sejuani,5,5,0.56
+Braum/Gnar/Lillia/Nidalee/Rakan/Sejuani,5,5,0.5
+Braum/Gnar/Lillia/Nidalee/Sejuani/Zac,5,5,0.56
+Braum/Gnar/Lillia/Rakan/Sejuani/Senna,5,5,0.5
+Braum/Gnar/Lillia/Rakan/Sejuani/Seraphine,5,5,0.45
+Braum/Gnar/Lillia/Rakan/Sejuani/Sett,5,5,0.5
+Braum/Gnar/Nunu/Olaf/Sejuani/Yone,5,5,0.56
+Braum/Jax/Kai'sa/Karma/Olaf/Wukong,5,5,0.62
+Braum/Jax/Kai'sa/Leona/Olaf/Yone,5,5,0.56
+Braum/Jax/Kai'sa/Nasus/Olaf/Volibear,5,5,0.62
+Braum/Jax/Kai'sa/Olaf/Rakan/Sett,5,5,0.5
+Braum/Jax/Karma/Lee Sin/Olaf/Wukong,5,5,0.62
+Braum/Jax/Karma/Leona/Olaf/Wukong,5,5,0.62
+Braum/Jax/Karma/Leona/Olaf/Yone,5,5,0.62
+Braum/Jax/Karma/Nasus/Olaf/Volibear,5,5,0.71
+Braum/Jax/Karma/Nasus/Olaf/Wukong,5,5,0.71
+Braum/Jax/Karma/Olaf/Rakan/Sett,5,5,0.56
+Braum/Jax/Karma/Olaf/Rakan/Wukong,5,5,0.56
+Braum/Jax/Karma/Olaf/Sejuani/Wukong,5,5,0.56
+Braum/Jax/Karma/Olaf/Sett/Wukong,5,5,0.62
+Braum/Jax/Karma/Olaf/Twitch/Wukong,5,5,0.56
+Braum/Jax/Karma/Olaf/Volibear/Wukong,5,5,0.71
+Braum/Jax/Karma/Olaf/Wukong/Zac,5,5,0.62
+Braum/Jax/Lee Sin/Leona/Olaf/Yone,5,5,0.56
+Braum/Jax/Lee Sin/Nasus/Olaf/Volibear,5,5,0.62
+Braum/Jax/Lee Sin/Olaf/Rakan/Sett,5,5,0.5
+Braum/Jax/Leona/Lillia/Nunu/Olaf,5,5,0.56
+Braum/Jax/Leona/Lillia/Olaf/Sejuani,5,5,0.5
+Braum/Jax/Leona/Lillia/Olaf/Yone,5,5,0.56
+Braum/Jax/Leona/Lillia/Sejuani/Yone,5,5,0.5
+Braum/Jax/Leona/Lux/Olaf/Yone,5,5,0.56
+Braum/Jax/Leona/Malphite/Olaf/Yone,5,5,0.62
+Braum/Jax/Leona/Nasus/Olaf/Yone,5,5,0.71
+Braum/Jax/Leona/Nidalee/Olaf/Yone,5,5,0.56
+Braum/Jax/Leona/Nunu/Olaf/Yone,5,5,0.62
+Braum/Jax/Leona/Olaf/Qiyana/Yone,5,5,0.56
+Braum/Jax/Leona/Olaf/Rakan/Yone,5,5,0.56
+Braum/Jax/Leona/Olaf/Rell/Yone,5,5,0.56
+Braum/Jax/Leona/Olaf/Rengar/Yone,5,5,0.56
+Braum/Jax/Leona/Olaf/Sejuani/Yone,6,6,0.67
+Braum/Jax/Leona/Olaf/Senna/Yone,5,5,0.56
+Braum/Jax/Leona/Olaf/Seraphine/Yone,5,5,0.5
+Braum/Jax/Leona/Olaf/Sett/Yone,5,5,0.56
+Braum/Jax/Leona/Olaf/Skarner/Yone,5,5,0.62
+Braum/Jax/Leona/Olaf/Sylas/Yone,5,5,0.56
+Braum/Jax/Leona/Olaf/Taliyah/Yone,5,5,0.56
+Braum/Jax/Leona/Olaf/Twitch/Varus,5,5,0.5
+Braum/Jax/Leona/Olaf/Twitch/Yone,6,6,0.67
+Braum/Jax/Leona/Olaf/Varus/Yone,5,5,0.56
+Braum/Jax/Leona/Olaf/Vladimir/Yone,5,5,0.56
+Braum/Jax/Leona/Olaf/Volibear/Yone,5,5,0.62
+Braum/Jax/Leona/Olaf/Wukong/Yone,5,5,0.71
+Braum/Jax/Leona/Olaf/Yone/Zac,5,5,0.62
+Braum/Jax/Leona/Olaf/Yone/Zeri,5,5,0.56
+Braum/Jax/Leona/Olaf/Yone/Zyra,5,5,0.56
+Braum/Jax/Lillia/Lux/Sejuani/Sylas,5,5,0.5
+Braum/Jax/Lillia/Nasus/Olaf/Sejuani,5,5,0.56
+Braum/Jax/Lillia/Nasus/Sejuani/Volibear,5,5,0.56
+Braum/Jax/Lillia/Nunu/Olaf/Yone,5,5,0.56
+Braum/Jax/Lillia/Olaf/Rakan/Sejuani,5,5,0.45
+Braum/Jax/Lillia/Olaf/Sejuani/Wukong,5,5,0.56
+Braum/Jax/Lillia/Olaf/Sejuani/Yone,5,5,0.5
+Braum/Jax/Lillia/Olaf/Sejuani/Zac,5,5,0.5
+Braum/Jax/Lillia/Rakan/Sejuani/Senna,5,5,0.45
+Braum/Jax/Lillia/Sejuani/Sylas/Taliyah,5,5,0.5
+Braum/Jax/Nasus/Nunu/Olaf/Yone,5,5,0.62
+Braum/Jax/Nasus/Olaf/Sejuani/Volibear,5,5,0.56
+Braum/Jax/Nasus/Olaf/Sejuani/Yone,5,5,0.56
+Braum/Jax/Nasus/Olaf/Sett/Volibear,5,5,0.62
+Braum/Jax/Nasus/Olaf/Twitch/Varus,5,5,0.56
+Braum/Jax/Nasus/Olaf/Twitch/Volibear,5,5,0.56
+Braum/Jax/Nasus/Olaf/Twitch/Yone,5,5,0.56
+Braum/Jax/Nasus/Olaf/Volibear/Wukong,5,5,0.71
+Braum/Jax/Nasus/Olaf/Volibear/Yone,5,5,0.62
+Braum/Jax/Nunu/Olaf/Rakan/Yone,5,5,0.5
+Braum/Jax/Nunu/Olaf/Rell/Yone,5,5,0.56
+Braum/Jax/Nunu/Olaf/Sejuani/Yone,6,6,0.67
+Braum/Jax/Nunu/Olaf/Twitch/Yone,5,5,0.5
+Braum/Jax/Nunu/Olaf/Yone/Zac,5,5,0.56
+Braum/Jax/Olaf/Rakan/Sejuani/Senna,5,5,0.45
+Braum/Jax/Olaf/Rakan/Sejuani/Yone,5,5,0.45
+Braum/Jax/Olaf/Rakan/Senna/Seraphine,5,5,0.45
+Braum/Jax/Olaf/Rakan/Senna/Twitch,5,5,0.45
+Braum/Jax/Olaf/Rakan/Senna/Wukong,5,5,0.56
+Braum/Jax/Olaf/Rakan/Senna/Yone,5,5,0.5
+Braum/Jax/Olaf/Rakan/Senna/Zeri,5,5,0.5
+Braum/Jax/Olaf/Rakan/Seraphine/Yone,5,5,0.45
+Braum/Jax/Olaf/Rakan/Sett/Volibear,5,5,0.56
+Braum/Jax/Olaf/Rakan/Sett/Yone,5,5,0.5
+Braum/Jax/Olaf/Rakan/Twitch/Varus,5,5,0.45
+Braum/Jax/Olaf/Rakan/Twitch/Yone,5,5,0.45
+Braum/Jax/Olaf/Rell/Rengar/Sejuani,5,5,0.5
+Braum/Jax/Olaf/Rell/Sejuani/Yone,5,5,0.5
+Braum/Jax/Olaf/Sejuani/Yone/Zac,5,5,0.5
+Braum/Jax/Olaf/Twitch/Varus/Wukong,5,5,0.56
+Braum/Jax/Olaf/Twitch/Varus/Yone,5,5,0.5
+Braum/Jax/Olaf/Twitch/Varus/Zac,5,5,0.5
+Braum/Jax/Olaf/Twitch/Yone/Zac,5,5,0.5
+Braum/Kai'sa/Karma/Leona/Lillia/Nunu,5,5,0.62
+Braum/Kai'sa/Karma/Leona/Lillia/Sejuani,5,5,0.56
+Braum/Kai'sa/Karma/Leona/Nunu/Sejuani,5,5,0.62
+Braum/Kai'sa/Karma/Leona/Olaf/Yone,5,5,0.62
+Braum/Kai'sa/Karma/Lillia/Nasus/Sejuani,5,5,0.56
+Braum/Kai'sa/Karma/Lillia/Rakan/Sejuani,5,5,0.5
+Braum/Kai'sa/Karma/Lillia/Sejuani/Zac,5,5,0.62
+Braum/Kai'sa/Karma/Malphite/Olaf/Zac,5,5,0.71
+Braum/Kai'sa/Lee Sin/Leona/Lillia/Nunu,5,5,0.62
+Braum/Kai'sa/Lee Sin/Leona/Lillia/Sejuani,5,5,0.56
+Braum/Kai'sa/Lee Sin/Leona/Nunu/Sejuani,5,5,0.62
+Braum/Kai'sa/Lee Sin/Leona/Olaf/Yone,5,5,0.62
+Braum/Kai'sa/Lee Sin/Lillia/Nasus/Sejuani,5,5,0.56
+Braum/Kai'sa/Lee Sin/Lillia/Qiyana/Sejuani,5,5,0.56
+Braum/Kai'sa/Lee Sin/Lillia/Rakan/Sejuani,5,5,0.5
+Braum/Kai'sa/Lee Sin/Lillia/Sejuani/Zac,5,5,0.62
+Braum/Kai'sa/Lee Sin/Malphite/Olaf/Zac,5,5,0.71
+Braum/Kai'sa/Leona/Lillia/Nunu/Sejuani,5,6,0.62
+Braum/Kai'sa/Leona/Lillia/Nunu/Sett,5,5,0.62
+Braum/Kai'sa/Leona/Lillia/Nunu/Twitch,5,5,0.56
+Braum/Kai'sa/Leona/Lillia/Nunu/Volibear,5,5,0.62
+Braum/Kai'sa/Leona/Lillia/Sejuani/Sett,5,5,0.56
+Braum/Kai'sa/Leona/Lillia/Sejuani/Volibear,5,5,0.56
+Braum/Kai'sa/Leona/Lillia/Sejuani/Yone,5,5,0.56
+Braum/Kai'sa/Leona/Malphite/Olaf/Yone,5,5,0.71
+Braum/Kai'sa/Leona/Nunu/Olaf/Sejuani,5,5,0.56
+Braum/Kai'sa/Leona/Nunu/Sejuani/Volibear,5,5,0.62
+Braum/Kai'sa/Leona/Olaf/Sejuani/Yone,5,5,0.56
+Braum/Kai'sa/Leona/Olaf/Sett/Yone,5,5,0.62
+Braum/Kai'sa/Leona/Olaf/Skarner/Yone,5,5,0.62
+Braum/Kai'sa/Leona/Olaf/Sylas/Yone,5,5,0.56
+Braum/Kai'sa/Leona/Olaf/Twitch/Yone,5,5,0.56
+Braum/Kai'sa/Leona/Olaf/Volibear/Yone,5,5,0.62
+Braum/Kai'sa/Lillia/Malphite/Sejuani/Zac,5,5,0.62
+Braum/Kai'sa/Lillia/Nasus/Sejuani/Sett,5,5,0.56
+Braum/Kai'sa/Lillia/Nasus/Sejuani/Volibear,5,5,0.62
+Braum/Kai'sa/Lillia/Nunu/Rakan/Sett,5,5,0.56
+Braum/Kai'sa/Lillia/Rakan/Rell/Sett,5,5,0.56
+Braum/Kai'sa/Lillia/Rakan/Sejuani/Senna,5,5,0.5
+Braum/Kai'sa/Lillia/Rakan/Sejuani/Seraphine,5,5,0.5
+Braum/Kai'sa/Lillia/Rakan/Sejuani/Sett,6,6,0.67
+Braum/Kai'sa/Lillia/Rakan/Sejuani/Volibear,5,5,0.5
+Braum/Kai'sa/Lillia/Rakan/Seraphine/Sett,5,5,0.56
+Braum/Kai'sa/Lillia/Rakan/Sett/Twitch,5,5,0.5
+Braum/Kai'sa/Lillia/Sejuani/Senna/Sett,5,5,0.56
+Braum/Kai'sa/Lillia/Sejuani/Seraphine/Zac,5,5,0.56
+Braum/Kai'sa/Lillia/Sejuani/Sett/Zac,5,5,0.62
+Braum/Kai'sa/Lillia/Sejuani/Taliyah/Zac,5,5,0.71
+Braum/Kai'sa/Lillia/Sejuani/Volibear/Zac,5,5,0.62
+Braum/Kai'sa/Lillia/Sejuani/Zac/Zeri,5,5,0.62
+Braum/Kai'sa/Malphite/Olaf/Rakan/Seraphine,5,5,0.56
+Braum/Kai'sa/Malphite/Olaf/Rakan/Sett,5,5,0.62
+Braum/Kai'sa/Malphite/Olaf/Sejuani/Zac,5,5,0.62
+Braum/Kai'sa/Malphite/Olaf/Sett/Zac,5,5,0.71
+Braum/Kai'sa/Malphite/Olaf/Twitch/Zac,5,5,0.62
+Braum/Kai'sa/Malphite/Olaf/Volibear/Zac,5,5,0.71
+Braum/Kai'sa/Malphite/Olaf/Wukong/Zac,5,5,0.71
+Braum/Kai'sa/Malphite/Olaf/Yone/Zac,5,5,0.71
+Braum/Kai'sa/Nunu/Olaf/Sejuani/Yone,5,5,0.56
+Braum/Kai'sa/Olaf/Rakan/Sejuani/Sett,5,5,0.5
+Braum/Kai'sa/Olaf/Rakan/Seraphine/Sett,5,5,0.56
+Braum/Kai'sa/Olaf/Rakan/Sett/Skarner,5,5,0.56
+Braum/Kai'sa/Olaf/Rakan/Sett/Sylas,5,5,0.5
+Braum/Kai'sa/Olaf/Rakan/Sett/Twitch,5,5,0.5
+Braum/Kai'sa/Olaf/Rakan/Sett/Wukong,5,5,0.56
+Braum/Kai'sa/Olaf/Rakan/Sett/Yone,5,5,0.56
+Braum/Kai'sa/Rakan/Senna/Seraphine/Zeri,5,5,0.62
+Braum/Kai'sa/Rakan/Seraphine/Sett/Taliyah,5,5,0.62
+Braum/Kai'sa/Rakan/Seraphine/Sett/Zeri,5,5,0.62
+Braum/Kai'sa/Rakan/Sett/Twitch/Varus,5,5,0.56
+Braum/Kai'sa/Senna/Sett/Zac/Zeri,5,5,0.83
+Braum/Karma/Lee Sin/Leona/Lillia/Nunu,5,5,0.62
+Braum/Karma/Lee Sin/Leona/Lillia/Sejuani,5,5,0.56
+Braum/Karma/Lee Sin/Leona/Nunu/Sejuani,5,5,0.62
+Braum/Karma/Lee Sin/Leona/Olaf/Yone,5,5,0.62
+Braum/Karma/Lee Sin/Lillia/Nasus/Sejuani,5,5,0.56
+Braum/Karma/Lee Sin/Lillia/Qiyana/Sejuani,5,5,0.56
+Braum/Karma/Lee Sin/Lillia/Rakan/Sejuani,5,5,0.5
+Braum/Karma/Lee Sin/Lillia/Sejuani/Zac,5,5,0.56
+Braum/Karma/Leona/Lillia/Nunu/Sejuani,5,6,0.62
+Braum/Karma/Leona/Lillia/Nunu/Sett,5,5,0.62
+Braum/Karma/Leona/Lillia/Nunu/Twitch,5,5,0.56
+Braum/Karma/Leona/Lillia/Nunu/Volibear,5,5,0.62
+Braum/Karma/Leona/Lillia/Sejuani/Sett,5,5,0.56
+Braum/Karma/Leona/Lillia/Sejuani/Volibear,5,5,0.56
+Braum/Karma/Leona/Lillia/Sejuani/Yone,5,5,0.56
+Braum/Karma/Leona/Malphite/Olaf/Yone,5,5,0.62
+Braum/Karma/Leona/Nunu/Olaf/Sejuani,5,5,0.56
+Braum/Karma/Leona/Nunu/Sejuani/Volibear,5,5,0.62
+Braum/Karma/Leona/Olaf/Sejuani/Yone,5,5,0.56
+Braum/Karma/Leona/Olaf/Sett/Yone,5,5,0.62
+Braum/Karma/Leona/Olaf/Skarner/Yone,5,5,0.62
+Braum/Karma/Leona/Olaf/Sylas/Yone,5,5,0.56
+Braum/Karma/Leona/Olaf/Twitch/Yone,5,5,0.56
+Braum/Karma/Leona/Olaf/Volibear/Yone,5,5,0.62
+Braum/Karma/Lillia/Nasus/Sejuani/Sett,5,5,0.56
+Braum/Karma/Lillia/Nasus/Sejuani/Volibear,5,5,0.62
+Braum/Karma/Lillia/Nunu/Rakan/Sett,5,5,0.56
+Braum/Karma/Lillia/Rakan/Rell/Sett,5,5,0.56
+Braum/Karma/Lillia/Rakan/Sejuani/Senna,5,5,0.5
+Braum/Karma/Lillia/Rakan/Sejuani/Seraphine,5,5,0.45
+Braum/Karma/Lillia/Rakan/Sejuani/Sett,6,6,0.67
+Braum/Karma/Lillia/Rakan/Sejuani/Volibear,5,5,0.5
+Braum/Karma/Lillia/Rakan/Seraphine/Sett,5,5,0.5
+Braum/Karma/Lillia/Rakan/Sett/Twitch,5,5,0.5
+Braum/Karma/Lillia/Sejuani/Senna/Sett,5,5,0.56
+Braum/Karma/Lillia/Sejuani/Sett/Zac,5,5,0.56
+Braum/Karma/Lillia/Sejuani/Volibear/Zac,5,5,0.56
+Braum/Karma/Malphite/Olaf/Rakan/Sett,5,5,0.56
+Braum/Karma/Nunu/Olaf/Sejuani/Yone,5,5,0.56
+Braum/Karma/Olaf/Rakan/Sejuani/Sett,5,5,0.5
+Braum/Karma/Olaf/Rakan/Seraphine/Sett,5,5,0.5
+Braum/Karma/Olaf/Rakan/Sett/Skarner,5,5,0.56
+Braum/Karma/Olaf/Rakan/Sett/Sylas,5,5,0.5
+Braum/Karma/Olaf/Rakan/Sett/Twitch,5,5,0.5
+Braum/Karma/Olaf/Rakan/Sett/Wukong,5,5,0.62
+Braum/Karma/Olaf/Rakan/Sett/Yone,5,5,0.56
+Braum/Karma/Rakan/Sett/Twitch/Varus,5,5,0.56
+Braum/Lee Sin/Leona/Lillia/Nunu/Qiyana,5,5,0.62
+Braum/Lee Sin/Leona/Lillia/Nunu/Sejuani,5,6,0.62
+Braum/Lee Sin/Leona/Lillia/Nunu/Sett,5,5,0.62
+Braum/Lee Sin/Leona/Lillia/Nunu/Twitch,5,5,0.56
+Braum/Lee Sin/Leona/Lillia/Nunu/Volibear,5,5,0.62
+Braum/Lee Sin/Leona/Lillia/Qiyana/Sejuani,5,5,0.56
+Braum/Lee Sin/Leona/Lillia/Sejuani/Sett,5,5,0.56
+Braum/Lee Sin/Leona/Lillia/Sejuani/Volibear,5,5,0.56
+Braum/Lee Sin/Leona/Lillia/Sejuani/Yone,5,5,0.56
+Braum/Lee Sin/Leona/Malphite/Olaf/Yone,5,5,0.62
+Braum/Lee Sin/Leona/Nunu/Olaf/Sejuani,5,5,0.56
+Braum/Lee Sin/Leona/Nunu/Sejuani/Volibear,5,5,0.62
+Braum/Lee Sin/Leona/Olaf/Qiyana/Yone,5,5,0.62
+Braum/Lee Sin/Leona/Olaf/Sejuani/Yone,5,5,0.56
+Braum/Lee Sin/Leona/Olaf/Sett/Yone,5,5,0.62
+Braum/Lee Sin/Leona/Olaf/Skarner/Yone,5,5,0.62
+Braum/Lee Sin/Leona/Olaf/Sylas/Yone,5,5,0.56
+Braum/Lee Sin/Leona/Olaf/Twitch/Yone,5,5,0.56
+Braum/Lee Sin/Leona/Olaf/Volibear/Yone,5,5,0.62
+Braum/Lee Sin/Lillia/Nasus/Qiyana/Sejuani,5,5,0.56
+Braum/Lee Sin/Lillia/Nasus/Sejuani/Sett,5,5,0.56
+Braum/Lee Sin/Lillia/Nasus/Sejuani/Volibear,5,5,0.62
+Braum/Lee Sin/Lillia/Nunu/Rakan/Sett,5,5,0.56
+Braum/Lee Sin/Lillia/Qiyana/Rakan/Sejuani,5,5,0.5
+Braum/Lee Sin/Lillia/Qiyana/Rakan/Sett,5,5,0.56
+Braum/Lee Sin/Lillia/Qiyana/Rell/Rengar,5,5,0.62
+Braum/Lee Sin/Lillia/Qiyana/Rengar/Sejuani,5,5,0.56
+Braum/Lee Sin/Lillia/Qiyana/Sejuani/Sett,5,5,0.56
+Braum/Lee Sin/Lillia/Qiyana/Sejuani/Volibear,5,5,0.56
+Braum/Lee Sin/Lillia/Qiyana/Sejuani/Zac,5,5,0.56
+Braum/Lee Sin/Lillia/Rakan/Rell/Sett,5,5,0.56
+Braum/Lee Sin/Lillia/Rakan/Sejuani/Senna,5,5,0.5
+Braum/Lee Sin/Lillia/Rakan/Sejuani/Seraphine,5,5,0.45
+Braum/Lee Sin/Lillia/Rakan/Sejuani/Sett,6,6,0.67
+Braum/Lee Sin/Lillia/Rakan/Sejuani/Volibear,5,5,0.5
+Braum/Lee Sin/Lillia/Rakan/Seraphine/Sett,5,5,0.5
+Braum/Lee Sin/Lillia/Rakan/Sett/Twitch,5,5,0.5
+Braum/Lee Sin/Lillia/Sejuani/Senna/Sett,5,5,0.56
+Braum/Lee Sin/Lillia/Sejuani/Sett/Zac,5,5,0.56
+Braum/Lee Sin/Lillia/Sejuani/Volibear/Zac,5,5,0.56
+Braum/Lee Sin/Malphite/Olaf/Rakan/Sett,5,5,0.56
+Braum/Lee Sin/Nunu/Olaf/Sejuani/Yone,5,5,0.56
+Braum/Lee Sin/Olaf/Qiyana/Rakan/Sett,5,5,0.56
+Braum/Lee Sin/Olaf/Rakan/Sejuani/Sett,5,5,0.5
+Braum/Lee Sin/Olaf/Rakan/Seraphine/Sett,5,5,0.5
+Braum/Lee Sin/Olaf/Rakan/Sett/Skarner,5,5,0.56
+Braum/Lee Sin/Olaf/Rakan/Sett/Sylas,5,5,0.5
+Braum/Lee Sin/Olaf/Rakan/Sett/Twitch,5,5,0.5
+Braum/Lee Sin/Olaf/Rakan/Sett/Wukong,5,5,0.56
+Braum/Lee Sin/Olaf/Rakan/Sett/Yone,5,5,0.56
+Braum/Lee Sin/Qiyana/Rakan/Rengar/Sett,5,5,0.62
+Braum/Lee Sin/Qiyana/Rell/Rengar/Sejuani,5,5,0.62
+Braum/Lee Sin/Rakan/Sett/Twitch/Varus,5,5,0.56
+Braum/Leona/Lillia/Lux/Nunu/Sejuani,5,6,0.71
+Braum/Leona/Lillia/Lux/Nunu/Sylas,5,5,0.62
+Braum/Leona/Lillia/Lux/Nunu/Taliyah,5,5,0.71
+Braum/Leona/Lillia/Lux/Nunu/Twitch,5,5,0.62
+Braum/Leona/Lillia/Lux/Nunu/Vladimir,5,5,0.83
+Braum/Leona/Lillia/Lux/Sejuani/Sylas,5,5,0.56
+Braum/Leona/Lillia/Lux/Sejuani/Taliyah,5,5,0.62
+Braum/Leona/Lillia/Lux/Sejuani/Vladimir,5,5,0.71
+Braum/Leona/Lillia/Lux/Sejuani/Yone,5,5,0.62
+Braum/Leona/Lillia/Malphite/Nunu/Olaf,5,5,0.62
+Braum/Leona/Lillia/Malphite/Olaf/Sejuani,5,5,0.56
+Braum/Leona/Lillia/Malphite/Olaf/Yone,5,5,0.62
+Braum/Leona/Lillia/Malphite/Sejuani/Yone,5,5,0.56
+Braum/Leona/Lillia/Nasus/Sejuani/Yone,5,5,0.62
+Braum/Leona/Lillia/Nidalee/Nunu/Sejuani,5,6,0.62
+Braum/Leona/Lillia/Nidalee/Nunu/Twitch,5,5,0.56
+Braum/Leona/Lillia/Nidalee/Sejuani/Yone,5,5,0.56
+Braum/Leona/Lillia/Nunu/Olaf/Sejuani,5,6,0.62
+Braum/Leona/Lillia/Nunu/Olaf/Skarner,5,5,0.62
+Braum/Leona/Lillia/Nunu/Olaf/Sylas,5,5,0.62
+Braum/Leona/Lillia/Nunu/Olaf/Twitch,5,5,0.56
+Braum/Leona/Lillia/Nunu/Olaf/Wukong,5,5,0.62
+Braum/Leona/Lillia/Nunu/Olaf/Yone,5,5,0.71
+Braum/Leona/Lillia/Nunu/Qiyana/Rengar,5,5,0.62
+Braum/Leona/Lillia/Nunu/Rakan/Senna,5,5,0.62
+Braum/Leona/Lillia/Nunu/Rell/Rengar,5,6,0.71
+Braum/Leona/Lillia/Nunu/Rengar/Sejuani,5,6,0.62
+Braum/Leona/Lillia/Nunu/Rengar/Twitch,5,5,0.56
+Braum/Leona/Lillia/Nunu/Sejuani/Senna,5,6,0.62
+Braum/Leona/Lillia/Nunu/Sejuani/Taliyah,5,6,0.71
+Braum/Leona/Lillia/Nunu/Sejuani/Varus,5,6,0.62
+Braum/Leona/Lillia/Nunu/Sejuani/Volibear,5,6,0.62
+Braum/Leona/Lillia/Nunu/Sejuani/Yone,5,6,0.71
+Braum/Leona/Lillia/Nunu/Sejuani/Zeri,5,6,0.62
+Braum/Leona/Lillia/Nunu/Senna/Sett,5,5,0.62
+Braum/Leona/Lillia/Nunu/Senna/Twitch,5,5,0.56
+Braum/Leona/Lillia/Nunu/Senna/Zeri,5,5,0.62
+Braum/Leona/Lillia/Nunu/Sett/Volibear,5,5,0.62
+Braum/Leona/Lillia/Nunu/Sylas/Taliyah,5,5,0.62
+Braum/Leona/Lillia/Nunu/Taliyah/Twitch,5,5,0.62
+Braum/Leona/Lillia/Nunu/Taliyah/Vladimir,5,5,0.71
+Braum/Leona/Lillia/Nunu/Twitch/Varus,6,6,0.75
+Braum/Leona/Lillia/Nunu/Twitch/Volibear,5,5,0.56
+Braum/Leona/Lillia/Nunu/Twitch/Yone,5,5,0.62
+Braum/Leona/Lillia/Nunu/Twitch/Zeri,5,5,0.56
+Braum/Leona/Lillia/Nunu/Wukong/Yone,5,5,0.71
+Braum/Leona/Lillia/Olaf/Rell/Yone,5,5,0.62
+Braum/Leona/Lillia/Olaf/Sejuani/Skarner,5,5,0.56
+Braum/Leona/Lillia/Olaf/Sejuani/Sylas,5,5,0.56
+Braum/Leona/Lillia/Olaf/Sejuani/Wukong,5,5,0.56
+Braum/Leona/Lillia/Olaf/Sejuani/Yone,6,6,0.75
+Braum/Leona/Lillia/Olaf/Skarner/Yone,5,5,0.62
+Braum/Leona/Lillia/Olaf/Sylas/Yone,5,5,0.62
+Braum/Leona/Lillia/Olaf/Twitch/Yone,5,5,0.56
+Braum/Leona/Lillia/Qiyana/Rell/Rengar,5,5,0.62
+Braum/Leona/Lillia/Qiyana/Rengar/Sejuani,5,5,0.56
+Braum/Leona/Lillia/Qiyana/Sejuani/Yone,5,5,0.56
+Braum/Leona/Lillia/Rakan/Sejuani/Senna,5,5,0.56
+Braum/Leona/Lillia/Rakan/Sejuani/Yone,5,5,0.56
+Braum/Leona/Lillia/Rell/Rengar/Sejuani,5,6,0.62
+Braum/Leona/Lillia/Rell/Rengar/Twitch,5,5,0.56
+Braum/Leona/Lillia/Rell/Rengar/Yone,5,5,0.62
+Braum/Leona/Lillia/Rell/Sejuani/Yone,5,6,0.62
+Braum/Leona/Lillia/Rell/Twitch/Varus,5,5,0.56
+Braum/Leona/Lillia/Rell/Twitch/Yone,5,5,0.56
+Braum/Leona/Lillia/Rell/Wukong/Yone,5,5,0.62
+Braum/Leona/Lillia/Rengar/Sejuani/Yone,5,5,0.56
+Braum/Leona/Lillia/Sejuani/Senna/Sett,5,5,0.56
+Braum/Leona/Lillia/Sejuani/Senna/Yone,5,5,0.56
+Braum/Leona/Lillia/Sejuani/Senna/Zeri,5,5,0.56
+Braum/Leona/Lillia/Sejuani/Seraphine/Yone,5,5,0.5
+Braum/Leona/Lillia/Sejuani/Sett/Volibear,5,5,0.56
+Braum/Leona/Lillia/Sejuani/Sett/Yone,5,5,0.56
+Braum/Leona/Lillia/Sejuani/Skarner/Yone,5,5,0.56
+Braum/Leona/Lillia/Sejuani/Sylas/Taliyah,5,5,0.56
+Braum/Leona/Lillia/Sejuani/Sylas/Yone,5,5,0.56
+Braum/Leona/Lillia/Sejuani/Taliyah/Vladimir,5,5,0.62
+Braum/Leona/Lillia/Sejuani/Taliyah/Yone,5,5,0.62
+Braum/Leona/Lillia/Sejuani/Twitch/Varus,5,6,0.62
+Braum/Leona/Lillia/Sejuani/Twitch/Yone,5,6,0.62
+Braum/Leona/Lillia/Sejuani/Varus/Yone,5,5,0.56
+Braum/Leona/Lillia/Sejuani/Vladimir/Yone,5,5,0.62
+Braum/Leona/Lillia/Sejuani/Volibear/Yone,5,5,0.56
+Braum/Leona/Lillia/Sejuani/Wukong/Yone,6,6,0.75
+Braum/Leona/Lillia/Sejuani/Yone/Zac,5,5,0.62
+Braum/Leona/Lillia/Sejuani/Yone/Zeri,5,5,0.56
+Braum/Leona/Lillia/Sejuani/Yone/Zyra,5,5,0.56
+Braum/Leona/Lillia/Twitch/Varus/Yone,5,5,0.56
+Braum/Leona/Lillia/Twitch/Wukong/Yone,5,5,0.56
+Braum/Leona/Lux/Malphite/Olaf/Yone,5,5,0.62
+Braum/Leona/Lux/Nunu/Olaf/Sejuani,5,5,0.56
+Braum/Leona/Lux/Olaf/Sejuani/Yone,5,5,0.56
+Braum/Leona/Lux/Olaf/Skarner/Yone,5,5,0.71
+Braum/Leona/Lux/Olaf/Sylas/Yone,5,5,0.62
+Braum/Leona/Lux/Olaf/Twitch/Yone,5,5,0.56
+Braum/Leona/Malphite/Nasus/Olaf/Yone,5,5,0.71
+Braum/Leona/Malphite/Nidalee/Olaf/Yone,5,5,0.62
+Braum/Leona/Malphite/Nunu/Olaf/Yone,5,5,0.71
+Braum/Leona/Malphite/Olaf/Qiyana/Yone,5,5,0.62
+Braum/Leona/Malphite/Olaf/Rakan/Yone,5,5,0.62
+Braum/Leona/Malphite/Olaf/Rell/Yone,5,5,0.62
+Braum/Leona/Malphite/Olaf/Rengar/Yone,5,5,0.62
+Braum/Leona/Malphite/Olaf/Sejuani/Yone,6,6,0.75
+Braum/Leona/Malphite/Olaf/Senna/Yone,5,5,0.62
+Braum/Leona/Malphite/Olaf/Seraphine/Yone,5,5,0.62
+Braum/Leona/Malphite/Olaf/Sett/Yone,5,5,0.62
+Braum/Leona/Malphite/Olaf/Skarner/Yone,5,5,0.71
+Braum/Leona/Malphite/Olaf/Sylas/Yone,5,5,0.62
+Braum/Leona/Malphite/Olaf/Taliyah/Yone,5,5,0.71
+Braum/Leona/Malphite/Olaf/Twitch/Varus,5,5,0.56
+Braum/Leona/Malphite/Olaf/Twitch/Yone,6,6,0.75
+Braum/Leona/Malphite/Olaf/Varus/Yone,5,5,0.62
+Braum/Leona/Malphite/Olaf/Vladimir/Yone,5,5,0.62
+Braum/Leona/Malphite/Olaf/Volibear/Yone,5,5,0.62
+Braum/Leona/Malphite/Olaf/Wukong/Yone,5,5,0.71
+Braum/Leona/Malphite/Olaf/Yone/Zac,5,5,0.83
+Braum/Leona/Malphite/Olaf/Yone/Zeri,5,5,0.71
+Braum/Leona/Malphite/Olaf/Yone/Zyra,5,5,0.62
+Braum/Leona/Nasus/Olaf/Sejuani/Yone,5,5,0.62
+Braum/Leona/Nasus/Olaf/Skarner/Yone,5,5,0.71
+Braum/Leona/Nasus/Olaf/Sylas/Yone,5,5,0.62
+Braum/Leona/Nasus/Olaf/Twitch/Yone,5,5,0.62
+Braum/Leona/Nidalee/Nunu/Olaf/Sejuani,5,5,0.56
+Braum/Leona/Nidalee/Olaf/Sejuani/Yone,5,5,0.56
+Braum/Leona/Nidalee/Olaf/Skarner/Yone,5,5,0.71
+Braum/Leona/Nidalee/Olaf/Sylas/Yone,5,5,0.56
+Braum/Leona/Nidalee/Olaf/Twitch/Yone,5,5,0.56
+Braum/Leona/Nunu/Olaf/Rell/Rengar,5,5,0.62
+Braum/Leona/Nunu/Olaf/Rell/Yone,5,5,0.71
+Braum/Leona/Nunu/Olaf/Rengar/Sejuani,5,5,0.56
+Braum/Leona/Nunu/Olaf/Sejuani/Senna,5,5,0.56
+Braum/Leona/Nunu/Olaf/Sejuani/Taliyah,5,5,0.56
+Braum/Leona/Nunu/Olaf/Sejuani/Varus,5,5,0.56
+Braum/Leona/Nunu/Olaf/Sejuani/Volibear,5,5,0.56
+Braum/Leona/Nunu/Olaf/Sejuani/Yone,6,6,0.86
+Braum/Leona/Nunu/Olaf/Sejuani/Zeri,5,5,0.56
+Braum/Leona/Nunu/Olaf/Skarner/Yone,5,5,0.71
+Braum/Leona/Nunu/Olaf/Sylas/Yone,5,5,0.62
+Braum/Leona/Nunu/Olaf/Twitch/Varus,5,5,0.56
+Braum/Leona/Nunu/Olaf/Twitch/Yone,5,5,0.62
+Braum/Leona/Nunu/Sejuani/Senna/Zeri,5,5,0.62
+Braum/Leona/Olaf/Qiyana/Rengar/Yone,5,5,0.62
+Braum/Leona/Olaf/Qiyana/Sejuani/Yone,5,5,0.56
+Braum/Leona/Olaf/Qiyana/Skarner/Yone,5,5,0.62
+Braum/Leona/Olaf/Qiyana/Sylas/Yone,5,5,0.56
+Braum/Leona/Olaf/Qiyana/Twitch/Yone,5,5,0.56
+Braum/Leona/Olaf/Rakan/Sejuani/Yone,5,5,0.56
+Braum/Leona/Olaf/Rakan/Senna/Yone,5,5,0.62
+Braum/Leona/Olaf/Rakan/Seraphine/Yone,5,5,0.56
+Braum/Leona/Olaf/Rakan/Sett/Yone,5,5,0.62
+Braum/Leona/Olaf/Rakan/Skarner/Yone,5,5,0.62
+Braum/Leona/Olaf/Rakan/Sylas/Yone,5,5,0.56
+Braum/Leona/Olaf/Rakan/Twitch/Yone,5,5,0.56
+Braum/Leona/Olaf/Rell/Rengar/Sejuani,5,5,0.56
+Braum/Leona/Olaf/Rell/Rengar/Yone,5,5,0.62
+Braum/Leona/Olaf/Rell/Sejuani/Yone,6,6,0.75
+Braum/Leona/Olaf/Rell/Skarner/Yone,5,5,0.62
+Braum/Leona/Olaf/Rell/Sylas/Yone,5,5,0.56
+Braum/Leona/Olaf/Rell/Twitch/Yone,5,5,0.56
+Braum/Leona/Olaf/Rengar/Sejuani/Yone,5,5,0.56
+Braum/Leona/Olaf/Rengar/Skarner/Yone,5,5,0.62
+Braum/Leona/Olaf/Rengar/Sylas/Yone,5,5,0.56
+Braum/Leona/Olaf/Rengar/Twitch/Yone,5,5,0.56
+Braum/Leona/Olaf/Sejuani/Senna/Yone,5,5,0.56
+Braum/Leona/Olaf/Sejuani/Seraphine/Yone,5,5,0.5
+Braum/Leona/Olaf/Sejuani/Sett/Yone,5,5,0.56
+Braum/Leona/Olaf/Sejuani/Skarner/Yone,6,6,0.75
+Braum/Leona/Olaf/Sejuani/Sylas/Yone,6,6,0.67
+Braum/Leona/Olaf/Sejuani/Taliyah/Yone,5,5,0.56
+Braum/Leona/Olaf/Sejuani/Twitch/Yone,5,6,0.62
+Braum/Leona/Olaf/Sejuani/Varus/Yone,5,5,0.56
+Braum/Leona/Olaf/Sejuani/Vladimir/Yone,5,5,0.56
+Braum/Leona/Olaf/Sejuani/Volibear/Yone,5,5,0.56
+Braum/Leona/Olaf/Sejuani/Wukong/Yone,5,5,0.62
+Braum/Leona/Olaf/Sejuani/Yone/Zac,5,5,0.62
+Braum/Leona/Olaf/Sejuani/Yone/Zeri,5,5,0.56
+Braum/Leona/Olaf/Sejuani/Yone/Zyra,5,5,0.56
+Braum/Leona/Olaf/Senna/Sett/Yone,5,5,0.62
+Braum/Leona/Olaf/Senna/Skarner/Yone,5,5,0.62
+Braum/Leona/Olaf/Senna/Sylas/Yone,5,5,0.56
+Braum/Leona/Olaf/Senna/Twitch/Yone,5,5,0.56
+Braum/Leona/Olaf/Senna/Yone/Zeri,5,5,0.62
+Braum/Leona/Olaf/Seraphine/Skarner/Yone,5,5,0.56
+Braum/Leona/Olaf/Seraphine/Sylas/Yone,5,5,0.5
+Braum/Leona/Olaf/Seraphine/Twitch/Yone,5,5,0.5
+Braum/Leona/Olaf/Seraphine/Yone/Zyra,5,5,0.56
+Braum/Leona/Olaf/Sett/Skarner/Yone,5,5,0.62
+Braum/Leona/Olaf/Sett/Sylas/Yone,5,5,0.56
+Braum/Leona/Olaf/Sett/Twitch/Yone,5,5,0.56
+Braum/Leona/Olaf/Sett/Volibear/Yone,5,5,0.62
+Braum/Leona/Olaf/Skarner/Sylas/Yone,5,5,0.62
+Braum/Leona/Olaf/Skarner/Taliyah/Yone,5,5,0.62
+Braum/Leona/Olaf/Skarner/Twitch/Varus,5,5,0.62
+Braum/Leona/Olaf/Skarner/Twitch/Yone,6,6,0.75
+Braum/Leona/Olaf/Skarner/Varus/Yone,5,5,0.71
+Braum/Leona/Olaf/Skarner/Vladimir/Yone,5,5,0.71
+Braum/Leona/Olaf/Skarner/Volibear/Yone,5,5,0.62
+Braum/Leona/Olaf/Skarner/Wukong/Yone,5,5,0.71
+Braum/Leona/Olaf/Skarner/Yone/Zac,5,5,0.71
+Braum/Leona/Olaf/Skarner/Yone/Zeri,5,5,0.62
+Braum/Leona/Olaf/Skarner/Yone/Zyra,5,5,0.62
+Braum/Leona/Olaf/Sylas/Taliyah/Yone,5,5,0.62
+Braum/Leona/Olaf/Sylas/Twitch/Varus,5,5,0.5
+Braum/Leona/Olaf/Sylas/Twitch/Yone,6,6,0.67
+Braum/Leona/Olaf/Sylas/Varus/Yone,5,5,0.56
+Braum/Leona/Olaf/Sylas/Vladimir/Yone,5,5,0.62
+Braum/Leona/Olaf/Sylas/Volibear/Yone,5,5,0.56
+Braum/Leona/Olaf/Sylas/Wukong/Yone,5,5,0.62
+Braum/Leona/Olaf/Sylas/Yone/Zac,5,5,0.62
+Braum/Leona/Olaf/Sylas/Yone/Zeri,5,5,0.56
+Braum/Leona/Olaf/Sylas/Yone/Zyra,6,6,0.75
+Braum/Leona/Olaf/Taliyah/Twitch/Yone,5,5,0.56
+Braum/Leona/Olaf/Twitch/Varus/Wukong,5,5,0.56
+Braum/Leona/Olaf/Twitch/Varus/Yone,6,6,0.75
+Braum/Leona/Olaf/Twitch/Vladimir/Yone,5,5,0.56
+Braum/Leona/Olaf/Twitch/Volibear/Yone,5,5,0.56
+Braum/Leona/Olaf/Twitch/Wukong/Yone,5,5,0.62
+Braum/Leona/Olaf/Twitch/Yone/Zac,5,5,0.62
+Braum/Leona/Olaf/Twitch/Yone/Zeri,5,5,0.56
+Braum/Leona/Olaf/Twitch/Yone/Zyra,5,5,0.56
+Braum/Leona/Rell/Rengar/Sejuani/Yone,5,5,0.62
+Braum/Leona/Twitch/Varus/Wukong/Yone,5,5,0.62
+Braum/Lillia/Lux/Malphite/Sejuani/Sylas,5,5,0.56
+Braum/Lillia/Lux/Nasus/Sejuani/Sylas,5,5,0.56
+Braum/Lillia/Lux/Nasus/Sejuani/Taliyah,5,5,0.62
+Braum/Lillia/Lux/Nasus/Sejuani/Vladimir,5,5,0.71
+Braum/Lillia/Lux/Nidalee/Sejuani/Vladimir,5,5,0.71
+Braum/Lillia/Lux/Olaf/Sejuani/Sylas,5,5,0.56
+Braum/Lillia/Lux/Rakan/Sejuani/Senna,5,5,0.56
+Braum/Lillia/Lux/Rakan/Sejuani/Seraphine,5,5,0.5
+Braum/Lillia/Lux/Rakan/Sejuani/Sett,5,5,0.56
+Braum/Lillia/Lux/Rakan/Sejuani/Sylas,5,5,0.5
+Braum/Lillia/Lux/Rakan/Sejuani/Taliyah,5,5,0.56
+Braum/Lillia/Lux/Rakan/Sejuani/Vladimir,5,5,0.62
+Braum/Lillia/Lux/Sejuani/Skarner/Sylas,5,5,0.62
+Braum/Lillia/Lux/Sejuani/Skarner/Vladimir,5,5,0.71
+Braum/Lillia/Lux/Sejuani/Sylas/Zac,5,5,0.56
+Braum/Lillia/Lux/Sejuani/Sylas/Zyra,5,5,0.56
+Braum/Lillia/Lux/Sejuani/Taliyah/Zac,5,5,0.71
+Braum/Lillia/Lux/Sejuani/Varus/Vladimir,5,5,0.71
+Braum/Lillia/Lux/Sejuani/Vladimir/Zac,5,5,0.71
+Braum/Lillia/Lux/Twitch/Varus/Vladimir,5,5,0.71
+Braum/Lillia/Malphite/Nasus/Olaf/Sejuani,5,5,0.56
+Braum/Lillia/Malphite/Nunu/Olaf/Yone,5,5,0.62
+Braum/Lillia/Malphite/Olaf/Rakan/Sejuani,5,5,0.5
+Braum/Lillia/Malphite/Olaf/Sejuani/Wukong,5,5,0.56
+Braum/Lillia/Malphite/Olaf/Sejuani/Yone,5,5,0.56
+Braum/Lillia/Malphite/Olaf/Sejuani/Zac,5,5,0.62
+Braum/Lillia/Malphite/Rakan/Sejuani/Senna,5,5,0.5
+Braum/Lillia/Malphite/Sejuani/Sylas/Taliyah,5,5,0.62
+Braum/Lillia/Malphite/Sejuani/Taliyah/Zac,5,5,0.71
+Braum/Lillia/Malphite/Sejuani/Zac/Zeri,5,5,0.62
+Braum/Lillia/Malphite/Sylas/Taliyah/Zac,5,5,0.71
+Braum/Lillia/Nasus/Nunu/Olaf/Yone,5,5,0.62
+Braum/Lillia/Nasus/Nunu/Sejuani/Yone,5,6,0.62
+Braum/Lillia/Nasus/Nunu/Twitch/Varus,5,5,0.56
+Braum/Lillia/Nasus/Nunu/Twitch/Yone,5,5,0.56
+Braum/Lillia/Nasus/Nunu/Wukong/Yone,5,5,0.62
+Braum/Lillia/Nasus/Olaf/Sejuani/Skarner,5,5,0.56
+Braum/Lillia/Nasus/Olaf/Sejuani/Sylas,5,5,0.56
+Braum/Lillia/Nasus/Olaf/Sejuani/Wukong,5,5,0.56
+Braum/Lillia/Nasus/Olaf/Sejuani/Yone,5,5,0.56
+Braum/Lillia/Nasus/Qiyana/Rell/Rengar,5,5,0.62
+Braum/Lillia/Nasus/Qiyana/Rengar/Sejuani,5,5,0.56
+Braum/Lillia/Nasus/Rakan/Sejuani/Senna,5,5,0.56
+Braum/Lillia/Nasus/Rell/Rengar/Sejuani,5,6,0.62
+Braum/Lillia/Nasus/Rell/Rengar/Twitch,5,5,0.56
+Braum/Lillia/Nasus/Rell/Twitch/Varus,5,5,0.56
+Braum/Lillia/Nasus/Sejuani/Senna/Sett,5,5,0.56
+Braum/Lillia/Nasus/Sejuani/Senna/Zeri,5,5,0.56
+Braum/Lillia/Nasus/Sejuani/Sett/Volibear,5,5,0.62
+Braum/Lillia/Nasus/Sejuani/Sylas/Taliyah,5,5,0.56
+Braum/Lillia/Nasus/Sejuani/Taliyah/Vladimir,5,5,0.62
+Braum/Lillia/Nasus/Sejuani/Twitch/Varus,5,6,0.62
+Braum/Lillia/Nasus/Sejuani/Wukong/Yone,5,5,0.56
+Braum/Lillia/Nidalee/Rakan/Sejuani/Senna,5,5,0.5
+Braum/Lillia/Nidalee/Rakan/Sejuani/Seraphine,5,5,0.45
+Braum/Lillia/Nidalee/Rakan/Sejuani/Sett,5,5,0.5
+Braum/Lillia/Nunu/Olaf/Rakan/Yone,5,5,0.56
+Braum/Lillia/Nunu/Olaf/Sejuani/Yone,5,6,0.62
+Braum/Lillia/Nunu/Olaf/Skarner/Yone,5,5,0.62
+Braum/Lillia/Nunu/Olaf/Sylas/Yone,5,5,0.62
+Braum/Lillia/Nunu/Olaf/Twitch/Yone,5,5,0.56
+Braum/Lillia/Nunu/Olaf/Yone/Zac,5,5,0.62
+Braum/Lillia/Nunu/Rakan/Sejuani/Senna,5,6,0.56
+Braum/Lillia/Nunu/Rakan/Sejuani/Yone,5,6,0.56
+Braum/Lillia/Nunu/Rakan/Senna/Seraphine,5,5,0.5
+Braum/Lillia/Nunu/Rakan/Senna/Twitch,5,5,0.5
+Braum/Lillia/Nunu/Rakan/Senna/Yone,5,5,0.56
+Braum/Lillia/Nunu/Rakan/Senna/Zeri,5,5,0.56
+Braum/Lillia/Nunu/Rakan/Seraphine/Yone,5,5,0.5
+Braum/Lillia/Nunu/Rakan/Sett/Volibear,5,5,0.56
+Braum/Lillia/Nunu/Rakan/Sett/Yone,5,5,0.56
+Braum/Lillia/Nunu/Rakan/Twitch/Varus,5,5,0.5
+Braum/Lillia/Nunu/Rakan/Twitch/Yone,5,5,0.5
+Braum/Lillia/Nunu/Rakan/Wukong/Yone,5,5,0.56
+Braum/Lillia/Nunu/Sejuani/Wukong/Yone,5,6,0.62
+Braum/Lillia/Nunu/Sejuani/Yone/Zac,5,6,0.62
+Braum/Lillia/Nunu/Twitch/Varus/Yone,5,5,0.56
+Braum/Lillia/Nunu/Twitch/Varus/Zac,5,5,0.56
+Braum/Lillia/Nunu/Twitch/Wukong/Yone,5,5,0.56
+Braum/Lillia/Nunu/Twitch/Yone/Zac,5,5,0.56
+Braum/Lillia/Nunu/Wukong/Yone/Zac,5,5,0.62
+Braum/Lillia/Olaf/Rakan/Sejuani/Senna,5,5,0.5
+Braum/Lillia/Olaf/Rakan/Sejuani/Seraphine,5,5,0.45
+Braum/Lillia/Olaf/Rakan/Sejuani/Sett,5,5,0.5
+Braum/Lillia/Olaf/Rakan/Sejuani/Skarner,5,5,0.5
+Braum/Lillia/Olaf/Rakan/Sejuani/Sylas,5,5,0.5
+Braum/Lillia/Olaf/Rakan/Sejuani/Wukong,5,5,0.5
+Braum/Lillia/Olaf/Rakan/Sejuani/Yone,5,5,0.5
+Braum/Lillia/Olaf/Sejuani/Skarner/Wukong,5,5,0.56
+Braum/Lillia/Olaf/Sejuani/Skarner/Yone,5,5,0.56
+Braum/Lillia/Olaf/Sejuani/Skarner/Zac,5,5,0.56
+Braum/Lillia/Olaf/Sejuani/Sylas/Taliyah,5,5,0.56
+Braum/Lillia/Olaf/Sejuani/Sylas/Vladimir,5,5,0.56
+Braum/Lillia/Olaf/Sejuani/Sylas/Wukong,5,5,0.56
+Braum/Lillia/Olaf/Sejuani/Sylas/Yone,5,5,0.56
+Braum/Lillia/Olaf/Sejuani/Sylas/Zac,5,5,0.56
+Braum/Lillia/Olaf/Sejuani/Sylas/Zyra,5,5,0.56
+Braum/Lillia/Olaf/Sejuani/Wukong/Zac,5,5,0.56
+Braum/Lillia/Olaf/Sejuani/Yone/Zac,5,5,0.56
+Braum/Lillia/Qiyana/Rakan/Rell/Rengar,5,5,0.56
+Braum/Lillia/Qiyana/Rakan/Rengar/Sejuani,5,5,0.5
+Braum/Lillia/Qiyana/Rakan/Sejuani/Senna,5,5,0.5
+Braum/Lillia/Qiyana/Rell/Rengar/Sejuani,5,6,0.62
+Braum/Lillia/Qiyana/Rell/Rengar/Twitch,5,5,0.56
+Braum/Lillia/Qiyana/Rell/Rengar/Zac,5,5,0.62
+Braum/Lillia/Qiyana/Rengar/Sejuani/Zac,5,5,0.56
+Braum/Lillia/Rakan/Rell/Rengar/Sejuani,5,6,0.56
+Braum/Lillia/Rakan/Rell/Rengar/Senna,5,5,0.56
+Braum/Lillia/Rakan/Rell/Rengar/Seraphine,5,5,0.5
+Braum/Lillia/Rakan/Rell/Rengar/Sett,5,5,0.56
+Braum/Lillia/Rakan/Rell/Rengar/Twitch,5,5,0.5
+Braum/Lillia/Rakan/Rell/Sejuani/Senna,5,6,0.56
+Braum/Lillia/Rakan/Rell/Senna/Seraphine,5,5,0.5
+Braum/Lillia/Rakan/Rell/Senna/Twitch,5,5,0.5
+Braum/Lillia/Rakan/Rell/Senna/Zeri,5,5,0.56
+Braum/Lillia/Rakan/Rell/Sett/Volibear,5,5,0.56
+Braum/Lillia/Rakan/Rell/Twitch/Varus,5,5,0.5
+Braum/Lillia/Rakan/Rengar/Sejuani/Senna,5,5,0.5
+Braum/Lillia/Rakan/Rengar/Sejuani/Seraphine,5,5,0.45
+Braum/Lillia/Rakan/Rengar/Sejuani/Sett,5,5,0.5
+Braum/Lillia/Rakan/Sejuani/Senna/Seraphine,6,6,0.6
+Braum/Lillia/Rakan/Sejuani/Senna/Sett,5,5,0.56
+Braum/Lillia/Rakan/Sejuani/Senna/Skarner,5,5,0.5
+Braum/Lillia/Rakan/Sejuani/Senna/Sylas,5,5,0.5
+Braum/Lillia/Rakan/Sejuani/Senna/Taliyah,5,5,0.56
+Braum/Lillia/Rakan/Sejuani/Senna/Twitch,5,6,0.56
+Braum/Lillia/Rakan/Sejuani/Senna/Varus,5,5,0.5
+Braum/Lillia/Rakan/Sejuani/Senna/Vladimir,5,5,0.56
+Braum/Lillia/Rakan/Sejuani/Senna/Volibear,5,5,0.5
+Braum/Lillia/Rakan/Sejuani/Senna/Wukong,5,5,0.5
+Braum/Lillia/Rakan/Sejuani/Senna/Yone,5,5,0.5
+Braum/Lillia/Rakan/Sejuani/Senna/Zac,5,5,0.56
+Braum/Lillia/Rakan/Sejuani/Senna/Zeri,6,6,0.67
+Braum/Lillia/Rakan/Sejuani/Senna/Zyra,5,5,0.5
+Braum/Lillia/Rakan/Sejuani/Seraphine/Taliyah,5,5,0.56
+Braum/Lillia/Rakan/Sejuani/Seraphine/Varus,5,5,0.45
+Braum/Lillia/Rakan/Sejuani/Seraphine/Volibear,5,5,0.45
+Braum/Lillia/Rakan/Sejuani/Seraphine/Yone,5,5,0.45
+Braum/Lillia/Rakan/Sejuani/Seraphine/Zeri,5,5,0.5
+Braum/Lillia/Rakan/Sejuani/Sett/Taliyah,5,5,0.56
+Braum/Lillia/Rakan/Sejuani/Sett/Varus,5,5,0.5
+Braum/Lillia/Rakan/Sejuani/Sett/Volibear,6,6,0.67
+Braum/Lillia/Rakan/Sejuani/Sett/Yone,5,5,0.5
+Braum/Lillia/Rakan/Sejuani/Sett/Zeri,5,5,0.5
+Braum/Lillia/Rakan/Sejuani/Sylas/Taliyah,5,5,0.5
+Braum/Lillia/Rakan/Sejuani/Taliyah/Vladimir,5,5,0.56
+Braum/Lillia/Rakan/Sejuani/Twitch/Varus,5,6,0.56
+Braum/Lillia/Rakan/Sejuani/Wukong/Yone,5,5,0.5
+Braum/Lillia/Rakan/Senna/Seraphine/Twitch,5,5,0.45
+Braum/Lillia/Rakan/Senna/Seraphine/Zeri,5,5,0.56
+Braum/Lillia/Rakan/Senna/Seraphine/Zyra,5,5,0.5
+Braum/Lillia/Rakan/Senna/Twitch/Varus,5,5,0.5
+Braum/Lillia/Rakan/Senna/Twitch/Zeri,5,5,0.5
+Braum/Lillia/Rakan/Seraphine/Sett/Volibear,5,5,0.5
+Braum/Lillia/Rakan/Seraphine/Twitch/Varus,5,5,0.45
+Braum/Lillia/Rakan/Sett/Twitch/Varus,5,5,0.5
+Braum/Lillia/Rakan/Sett/Twitch/Volibear,5,5,0.5
+Braum/Lillia/Rell/Rengar/Sejuani/Zac,5,6,0.62
+Braum/Lillia/Rell/Rengar/Twitch/Varus,5,5,0.56
+Braum/Lillia/Rell/Rengar/Twitch/Zac,5,5,0.56
+Braum/Lillia/Rell/Twitch/Varus/Zac,5,5,0.56
+Braum/Lillia/Sejuani/Senna/Sett/Volibear,5,5,0.56
+Braum/Lillia/Sejuani/Senna/Sett/Zac,5,5,0.56
+Braum/Lillia/Sejuani/Senna/Sett/Zeri,5,5,0.56
+Braum/Lillia/Sejuani/Senna/Zac/Zeri,5,5,0.62
+Braum/Lillia/Sejuani/Seraphine/Taliyah/Zac,5,5,0.62
+Braum/Lillia/Sejuani/Seraphine/Zac/Zeri,5,5,0.56
+Braum/Lillia/Sejuani/Sett/Volibear/Zac,5,5,0.56
+Braum/Lillia/Sejuani/Skarner/Sylas/Taliyah,5,5,0.56
+Braum/Lillia/Sejuani/Sylas/Taliyah/Zac,5,5,0.62
+Braum/Lillia/Sejuani/Sylas/Taliyah/Zyra,5,5,0.56
+Braum/Lillia/Sejuani/Taliyah/Vladimir/Zac,5,5,0.71
+Braum/Lillia/Sejuani/Taliyah/Zac/Zeri,5,5,0.71
+Braum/Lillia/Sejuani/Twitch/Varus/Zac,5,6,0.62
+Braum/Lillia/Sejuani/Wukong/Yone/Zac,5,5,0.56
+Braum/Lux/Nunu/Olaf/Sejuani/Yone,5,5,0.56
+Braum/Lux/Olaf/Skarner/Twitch/Varus,5,5,0.62
+Braum/Malphite/Nasus/Nunu/Olaf/Yone,5,5,0.62
+Braum/Malphite/Nasus/Olaf/Sejuani/Yone,5,5,0.56
+Braum/Malphite/Nasus/Olaf/Twitch/Varus,5,5,0.56
+Braum/Malphite/Nasus/Olaf/Twitch/Yone,5,5,0.56
+Braum/Malphite/Nunu/Olaf/Rakan/Yone,5,5,0.56
+Braum/Malphite/Nunu/Olaf/Rell/Yone,5,5,0.62
+Braum/Malphite/Nunu/Olaf/Sejuani/Yone,6,6,0.75
+Braum/Malphite/Nunu/Olaf/Twitch/Yone,5,5,0.56
+Braum/Malphite/Nunu/Olaf/Yone/Zac,5,5,0.71
+Braum/Malphite/Olaf/Rakan/Sejuani/Senna,5,5,0.5
+Braum/Malphite/Olaf/Rakan/Sejuani/Yone,5,5,0.5
+Braum/Malphite/Olaf/Rakan/Senna/Seraphine,5,5,0.56
+Braum/Malphite/Olaf/Rakan/Senna/Twitch,5,5,0.5
+Braum/Malphite/Olaf/Rakan/Senna/Wukong,5,5,0.56
+Braum/Malphite/Olaf/Rakan/Senna/Yone,5,5,0.56
+Braum/Malphite/Olaf/Rakan/Senna/Zeri,5,5,0.62
+Braum/Malphite/Olaf/Rakan/Seraphine/Taliyah,5,5,0.56
+Braum/Malphite/Olaf/Rakan/Seraphine/Yone,5,5,0.56
+Braum/Malphite/Olaf/Rakan/Seraphine/Zeri,5,5,0.56
+Braum/Malphite/Olaf/Rakan/Sett/Volibear,5,5,0.56
+Braum/Malphite/Olaf/Rakan/Sett/Yone,5,5,0.56
+Braum/Malphite/Olaf/Rakan/Twitch/Varus,5,5,0.5
+Braum/Malphite/Olaf/Rakan/Twitch/Yone,5,5,0.5
+Braum/Malphite/Olaf/Rell/Rengar/Sejuani,5,5,0.56
+Braum/Malphite/Olaf/Rell/Sejuani/Yone,5,5,0.56
+Braum/Malphite/Olaf/Sejuani/Taliyah/Zac,5,5,0.62
+Braum/Malphite/Olaf/Sejuani/Yone/Zac,5,5,0.62
+Braum/Malphite/Olaf/Sejuani/Zac/Zeri,5,5,0.62
+Braum/Malphite/Olaf/Senna/Zac/Zeri,5,5,0.71
+Braum/Malphite/Olaf/Seraphine/Yone/Zac,5,5,0.62
+Braum/Malphite/Olaf/Taliyah/Twitch/Zac,5,5,0.62
+Braum/Malphite/Olaf/Taliyah/Wukong/Zac,5,5,0.71
+Braum/Malphite/Olaf/Taliyah/Yone/Zac,5,5,0.71
+Braum/Malphite/Olaf/Twitch/Varus/Wukong,5,5,0.56
+Braum/Malphite/Olaf/Twitch/Varus/Yone,5,5,0.56
+Braum/Malphite/Olaf/Twitch/Varus/Zac,5,5,0.62
+Braum/Malphite/Olaf/Twitch/Yone/Zac,5,5,0.62
+Braum/Malphite/Olaf/Twitch/Zac/Zeri,5,5,0.62
+Braum/Malphite/Olaf/Wukong/Zac/Zeri,5,5,0.71
+Braum/Malphite/Olaf/Yone/Zac/Zeri,5,5,0.71
+Braum/Malphite/Rakan/Senna/Seraphine/Zeri,5,5,0.62
+Braum/Nasus/Nunu/Olaf/Rell/Yone,5,5,0.62
+Braum/Nasus/Nunu/Olaf/Sejuani/Yone,6,6,0.75
+Braum/Nasus/Nunu/Olaf/Skarner/Yone,5,5,0.62
+Braum/Nasus/Nunu/Olaf/Sylas/Yone,5,5,0.56
+Braum/Nasus/Nunu/Olaf/Twitch/Yone,5,5,0.56
+Braum/Nasus/Olaf/Rell/Rengar/Sejuani,5,5,0.56
+Braum/Nasus/Olaf/Rell/Sejuani/Yone,5,5,0.56
+Braum/Nasus/Olaf/Sejuani/Skarner/Yone,5,5,0.56
+Braum/Nasus/Olaf/Sejuani/Sylas/Yone,5,5,0.5
+Braum/Nasus/Olaf/Skarner/Twitch/Varus,5,5,0.62
+Braum/Nasus/Olaf/Skarner/Twitch/Yone,5,5,0.56
+Braum/Nasus/Olaf/Sylas/Twitch/Varus,5,5,0.5
+Braum/Nasus/Olaf/Sylas/Twitch/Yone,5,5,0.5
+Braum/Nasus/Olaf/Sylas/Yone/Zyra,5,5,0.56
+Braum/Nasus/Olaf/Twitch/Varus/Wukong,5,5,0.56
+Braum/Nasus/Olaf/Twitch/Varus/Yone,5,5,0.56
+Braum/Nidalee/Nunu/Olaf/Sejuani/Yone,5,5,0.56
+Braum/Nidalee/Olaf/Skarner/Twitch/Varus,5,5,0.62
+Braum/Nunu/Olaf/Qiyana/Sejuani/Yone,5,5,0.56
+Braum/Nunu/Olaf/Rakan/Rell/Yone,5,5,0.56
+Braum/Nunu/Olaf/Rakan/Sejuani/Senna,5,5,0.5
+Braum/Nunu/Olaf/Rakan/Sejuani/Yone,6,6,0.67
+Braum/Nunu/Olaf/Rakan/Senna/Yone,5,5,0.56
+Braum/Nunu/Olaf/Rakan/Seraphine/Yone,5,5,0.5
+Braum/Nunu/Olaf/Rakan/Sett/Yone,5,5,0.56
+Braum/Nunu/Olaf/Rakan/Skarner/Yone,5,5,0.56
+Braum/Nunu/Olaf/Rakan/Sylas/Yone,5,5,0.5
+Braum/Nunu/Olaf/Rakan/Twitch/Yone,5,5,0.5
+Braum/Nunu/Olaf/Rell/Rengar/Yone,5,5,0.62
+Braum/Nunu/Olaf/Rell/Sejuani/Yone,5,6,0.62
+Braum/Nunu/Olaf/Rell/Skarner/Yone,5,5,0.62
+Braum/Nunu/Olaf/Rell/Sylas/Yone,5,5,0.56
+Braum/Nunu/Olaf/Rell/Twitch/Yone,5,5,0.56
+Braum/Nunu/Olaf/Rell/Yone/Zac,5,5,0.62
+Braum/Nunu/Olaf/Rengar/Sejuani/Yone,5,5,0.56
+Braum/Nunu/Olaf/Sejuani/Senna/Yone,5,5,0.56
+Braum/Nunu/Olaf/Sejuani/Seraphine/Yone,5,5,0.5
+Braum/Nunu/Olaf/Sejuani/Sett/Yone,5,5,0.56
+Braum/Nunu/Olaf/Sejuani/Skarner/Yone,6,6,0.75
+Braum/Nunu/Olaf/Sejuani/Sylas/Yone,6,6,0.67
+Braum/Nunu/Olaf/Sejuani/Taliyah/Yone,5,5,0.56
+Braum/Nunu/Olaf/Sejuani/Twitch/Yone,5,6,0.62
+Braum/Nunu/Olaf/Sejuani/Varus/Yone,5,5,0.56
+Braum/Nunu/Olaf/Sejuani/Vladimir/Yone,5,5,0.56
+Braum/Nunu/Olaf/Sejuani/Volibear/Yone,5,5,0.56
+Braum/Nunu/Olaf/Sejuani/Wukong/Yone,5,5,0.62
+Braum/Nunu/Olaf/Sejuani/Yone/Zac,6,6,0.75
+Braum/Nunu/Olaf/Sejuani/Yone/Zeri,5,5,0.56
+Braum/Nunu/Olaf/Sejuani/Yone/Zyra,5,5,0.56
+Braum/Nunu/Olaf/Skarner/Twitch/Yone,5,5,0.56
+Braum/Nunu/Olaf/Skarner/Yone/Zac,5,5,0.62
+Braum/Nunu/Olaf/Sylas/Twitch/Yone,5,5,0.5
+Braum/Nunu/Olaf/Sylas/Yone/Zac,5,5,0.56
+Braum/Nunu/Olaf/Sylas/Yone/Zyra,5,5,0.56
+Braum/Nunu/Olaf/Twitch/Varus/Yone,5,5,0.56
+Braum/Nunu/Olaf/Twitch/Yone/Zac,5,5,0.56
+Braum/Nunu/Rakan/Sejuani/Senna/Yone,5,5,0.56
+Braum/Nunu/Rakan/Sejuani/Senna/Zeri,5,5,0.56
+Braum/Olaf/Qiyana/Rell/Rengar/Sejuani,5,5,0.56
+Braum/Olaf/Rakan/Rell/Rengar/Sejuani,5,5,0.5
+Braum/Olaf/Rakan/Rell/Sejuani/Senna,5,5,0.5
+Braum/Olaf/Rakan/Rell/Sejuani/Yone,5,5,0.5
+Braum/Olaf/Rakan/Sejuani/Senna/Seraphine,5,5,0.45
+Braum/Olaf/Rakan/Sejuani/Senna/Skarner,5,5,0.5
+Braum/Olaf/Rakan/Sejuani/Senna/Sylas,5,5,0.45
+Braum/Olaf/Rakan/Sejuani/Senna/Wukong,5,5,0.5
+Braum/Olaf/Rakan/Sejuani/Senna/Yone,5,5,0.5
+Braum/Olaf/Rakan/Sejuani/Senna/Zeri,5,5,0.5
+Braum/Olaf/Rakan/Sejuani/Seraphine/Yone,5,5,0.45
+Braum/Olaf/Rakan/Sejuani/Sett/Volibear,5,5,0.5
+Braum/Olaf/Rakan/Sejuani/Sett/Yone,5,5,0.5
+Braum/Olaf/Rakan/Sejuani/Skarner/Yone,5,5,0.5
+Braum/Olaf/Rakan/Sejuani/Sylas/Yone,5,5,0.45
+Braum/Olaf/Rakan/Senna/Seraphine/Skarner,5,5,0.5
+Braum/Olaf/Rakan/Senna/Seraphine/Sylas,5,5,0.45
+Braum/Olaf/Rakan/Senna/Seraphine/Twitch,5,5,0.45
+Braum/Olaf/Rakan/Senna/Seraphine/Wukong,5,5,0.5
+Braum/Olaf/Rakan/Senna/Seraphine/Yone,5,5,0.5
+Braum/Olaf/Rakan/Senna/Seraphine/Zeri,5,5,0.56
+Braum/Olaf/Rakan/Senna/Seraphine/Zyra,5,5,0.5
+Braum/Olaf/Rakan/Senna/Skarner/Twitch,5,5,0.5
+Braum/Olaf/Rakan/Senna/Skarner/Wukong,5,5,0.56
+Braum/Olaf/Rakan/Senna/Skarner/Yone,5,5,0.56
+Braum/Olaf/Rakan/Senna/Skarner/Zeri,5,5,0.56
+Braum/Olaf/Rakan/Senna/Sylas/Twitch,5,5,0.45
+Braum/Olaf/Rakan/Senna/Sylas/Wukong,5,5,0.5
+Braum/Olaf/Rakan/Senna/Sylas/Yone,5,5,0.5
+Braum/Olaf/Rakan/Senna/Sylas/Zeri,5,5,0.5
+Braum/Olaf/Rakan/Senna/Sylas/Zyra,5,5,0.5
+Braum/Olaf/Rakan/Senna/Twitch/Varus,5,5,0.5
+Braum/Olaf/Rakan/Senna/Twitch/Wukong,5,5,0.5
+Braum/Olaf/Rakan/Senna/Twitch/Yone,5,5,0.5
+Braum/Olaf/Rakan/Senna/Twitch/Zeri,5,5,0.5
+Braum/Olaf/Rakan/Senna/Wukong/Zeri,5,5,0.56
+Braum/Olaf/Rakan/Senna/Yone/Zeri,5,5,0.56
+Braum/Olaf/Rakan/Seraphine/Sett/Volibear,5,5,0.5
+Braum/Olaf/Rakan/Seraphine/Sett/Yone,5,5,0.5
+Braum/Olaf/Rakan/Seraphine/Skarner/Yone,5,5,0.5
+Braum/Olaf/Rakan/Seraphine/Sylas/Yone,5,5,0.45
+Braum/Olaf/Rakan/Seraphine/Twitch/Varus,5,5,0.45
+Braum/Olaf/Rakan/Seraphine/Twitch/Yone,5,5,0.45
+Braum/Olaf/Rakan/Seraphine/Yone/Zyra,5,5,0.5
+Braum/Olaf/Rakan/Sett/Skarner/Volibear,5,5,0.56
+Braum/Olaf/Rakan/Sett/Skarner/Yone,5,5,0.56
+Braum/Olaf/Rakan/Sett/Sylas/Volibear,5,5,0.5
+Braum/Olaf/Rakan/Sett/Sylas/Yone,5,5,0.5
+Braum/Olaf/Rakan/Sett/Twitch/Varus,5,5,0.5
+Braum/Olaf/Rakan/Sett/Twitch/Volibear,5,5,0.5
+Braum/Olaf/Rakan/Sett/Twitch/Yone,5,5,0.5
+Braum/Olaf/Rakan/Sett/Volibear/Wukong,5,5,0.56
+Braum/Olaf/Rakan/Sett/Volibear/Yone,5,5,0.56
+Braum/Olaf/Rakan/Skarner/Twitch/Varus,5,5,0.56
+Braum/Olaf/Rakan/Skarner/Twitch/Yone,5,5,0.5
+Braum/Olaf/Rakan/Sylas/Twitch/Varus,5,5,0.45
+Braum/Olaf/Rakan/Sylas/Twitch/Yone,5,5,0.45
+Braum/Olaf/Rakan/Sylas/Yone/Zyra,5,5,0.5
+Braum/Olaf/Rakan/Twitch/Varus/Wukong,5,5,0.5
+Braum/Olaf/Rakan/Twitch/Varus/Yone,5,5,0.5
+Braum/Olaf/Rell/Rengar/Sejuani/Skarner,5,5,0.56
+Braum/Olaf/Rell/Rengar/Sejuani/Sylas,5,5,0.5
+Braum/Olaf/Rell/Rengar/Sejuani/Wukong,5,5,0.56
+Braum/Olaf/Rell/Rengar/Sejuani/Yone,5,5,0.56
+Braum/Olaf/Rell/Rengar/Sejuani/Zac,5,5,0.56
+Braum/Olaf/Rell/Sejuani/Skarner/Yone,5,5,0.56
+Braum/Olaf/Rell/Sejuani/Sylas/Yone,5,5,0.5
+Braum/Olaf/Rell/Sejuani/Yone/Zac,5,5,0.56
+Braum/Olaf/Sejuani/Skarner/Yone/Zac,5,5,0.56
+Braum/Olaf/Sejuani/Sylas/Yone/Zac,5,5,0.5
+Braum/Olaf/Sejuani/Sylas/Yone/Zyra,5,5,0.5
+Braum/Olaf/Skarner/Twitch/Varus/Vladimir,5,5,0.62
+Braum/Olaf/Skarner/Twitch/Varus/Wukong,5,5,0.62
+Braum/Olaf/Skarner/Twitch/Varus/Yone,5,5,0.62
+Braum/Olaf/Skarner/Twitch/Varus/Zac,5,5,0.62
+Braum/Olaf/Skarner/Twitch/Yone/Zac,5,5,0.56
+Braum/Olaf/Sylas/Twitch/Varus/Zac,5,5,0.5
+Braum/Olaf/Sylas/Twitch/Yone/Zac,5,5,0.5
+Braum/Olaf/Sylas/Yone/Zac/Zyra,5,5,0.56
+Braum/Olaf/Twitch/Varus/Wukong/Zac,5,5,0.56
+Braum/Olaf/Twitch/Varus/Yone/Zac,5,5,0.56
+Braum/Rakan/Rell/Rengar/Sejuani/Senna,5,5,0.56
+Braum/Rakan/Rell/Sejuani/Senna/Zeri,5,5,0.56
+Braum/Rakan/Sejuani/Senna/Seraphine/Zeri,5,5,0.56
+Braum/Rakan/Senna/Seraphine/Taliyah/Zeri,5,5,0.62
+Braum/Rakan/Senna/Seraphine/Twitch/Varus,5,5,0.5
+Braum/Rakan/Senna/Seraphine/Twitch/Zeri,5,5,0.56
+Braum/Rakan/Senna/Seraphine/Zac/Zeri,5,5,0.71
+Braum/Rakan/Senna/Seraphine/Zeri/Zyra,5,5,0.62
+Braum/Rakan/Senna/Twitch/Varus/Zeri,5,5,0.56
+Braum/Rakan/Sett/Twitch/Varus/Volibear,5,5,0.56
+Diana/Ezreal/Jax/Lillia/Qiyana/Sejuani,5,5,0.5
+Diana/Ezreal/Jax/Malphite/Qiyana/Twitch,5,5,0.56
+Diana/Ezreal/Jax/Olaf/Qiyana/Sejuani,5,5,0.5
+Diana/Ezreal/Jax/Qiyana/Skarner/Twitch,5,5,0.56
+Diana/Ezreal/Lee Sin/Rell/Rengar/Sejuani,5,5,0.62
+Diana/Ezreal/Leona/Lillia/Nunu/Qiyana,5,5,0.62
+Diana/Ezreal/Leona/Lillia/Nunu/Twitch,5,5,0.56
+Diana/Ezreal/Leona/Lillia/Qiyana/Sejuani,5,5,0.56
+Diana/Ezreal/Leona/Nasus/Qiyana/Twitch,5,5,0.62
+Diana/Ezreal/Leona/Nunu/Qiyana/Sejuani,5,5,0.62
+Diana/Ezreal/Leona/Nunu/Qiyana/Twitch,5,5,0.62
+Diana/Ezreal/Leona/Qiyana/Rakan/Twitch,5,5,0.56
+Diana/Ezreal/Leona/Qiyana/Twitch/Zac,5,5,0.62
+Diana/Ezreal/Lillia/Malphite/Qiyana/Sejuani,5,5,0.56
+Diana/Ezreal/Lillia/Nasus/Qiyana/Sejuani,5,5,0.56
+Diana/Ezreal/Lillia/Nunu/Qiyana/Sejuani,5,6,0.62
+Diana/Ezreal/Lillia/Qiyana/Rakan/Sejuani,5,5,0.5
+Diana/Ezreal/Lillia/Qiyana/Rell/Sejuani,5,6,0.62
+Diana/Ezreal/Lillia/Qiyana/Sejuani/Skarner,5,5,0.56
+Diana/Ezreal/Lillia/Qiyana/Sejuani/Vladimir,5,5,0.62
+Diana/Ezreal/Lillia/Qiyana/Sejuani/Zac,5,5,0.56
+Diana/Ezreal/Lillia/Rell/Rengar/Sejuani,5,6,0.62
+Diana/Ezreal/Malphite/Olaf/Qiyana/Sejuani,5,5,0.56
+Diana/Ezreal/Malphite/Qiyana/Skarner/Twitch,5,5,0.62
+Diana/Ezreal/Nasus/Qiyana/Rakan/Twitch,5,5,0.56
+Diana/Ezreal/Nasus/Qiyana/Twitch/Zac,5,5,0.62
+Diana/Ezreal/Nunu/Olaf/Qiyana/Sejuani,5,5,0.56
+Diana/Ezreal/Nunu/Olaf/Sejuani/Yone,5,5,0.56
+Diana/Ezreal/Nunu/Qiyana/Rell/Twitch,5,5,0.62
+Diana/Ezreal/Nunu/Qiyana/Sejuani/Twitch,5,6,0.71
+Diana/Ezreal/Nunu/Qiyana/Sejuani/Varus,5,5,0.62
+Diana/Ezreal/Nunu/Qiyana/Sejuani/Yone,5,5,0.62
+Diana/Ezreal/Nunu/Rell/Rengar/Twitch,5,5,0.62
+Diana/Ezreal/Olaf/Qiyana/Rell/Sejuani,5,5,0.56
+Diana/Ezreal/Olaf/Qiyana/Sejuani/Skarner,5,5,0.56
+Diana/Ezreal/Olaf/Rell/Rengar/Sejuani,5,5,0.56
+Diana/Ezreal/Qiyana/Rakan/Twitch/Zac,5,5,0.56
+Diana/Ezreal/Qiyana/Rell/Rengar/Sejuani,5,5,0.71
+Diana/Ezreal/Qiyana/Rell/Sejuani/Twitch,5,6,0.71
+Diana/Ezreal/Qiyana/Rell/Sejuani/Varus,5,5,0.62
+Diana/Ezreal/Rell/Rengar/Sejuani/Twitch,5,6,0.71
+Diana/Ezreal/Rell/Rengar/Sejuani/Varus,5,5,0.62
+Diana/Gnar/Jax/Olaf/Sejuani/Wukong,5,5,0.56
+Diana/Gnar/Lillia/Rell/Rengar/Sejuani,5,6,0.62
+Diana/Gnar/Nidalee/Rell/Rengar/Sejuani,5,5,0.62
+Diana/Gnar/Nunu/Olaf/Sejuani/Yone,5,5,0.56
+Diana/Gnar/Olaf/Rell/Rengar/Sejuani,5,5,0.56
+Diana/Jax/Karma/Olaf/Sejuani/Wukong,5,5,0.56
+Diana/Jax/Lee Sin/Lillia/Qiyana/Sejuani,5,5,0.5
+Diana/Jax/Lee Sin/Olaf/Qiyana/Sejuani,5,5,0.5
+Diana/Jax/Leona/Nasus/Olaf/Yone,5,5,0.62
+Diana/Jax/Leona/Nunu/Olaf/Sejuani,5,5,0.5
+Diana/Jax/Leona/Olaf/Qiyana/Yone,5,5,0.56
+Diana/Jax/Leona/Olaf/Rakan/Yone,5,5,0.5
+Diana/Jax/Leona/Olaf/Rengar/Yone,5,5,0.56
+Diana/Jax/Leona/Olaf/Sejuani/Yone,5,5,0.5
+Diana/Jax/Leona/Olaf/Twitch/Yone,5,5,0.5
+Diana/Jax/Leona/Olaf/Yone/Zac,5,5,0.56
+Diana/Jax/Lillia/Lux/Sejuani/Sylas,5,5,0.5
+Diana/Jax/Lillia/Malphite/Qiyana/Sejuani,5,5,0.5
+Diana/Jax/Lillia/Malphite/Rell/Rengar,5,5,0.56
+Diana/Jax/Lillia/Malphite/Rengar/Sejuani,5,5,0.5
+Diana/Jax/Lillia/Nunu/Olaf/Yone,5,5,0.56
+Diana/Jax/Lillia/Olaf/Qiyana/Sejuani,5,5,0.5
+Diana/Jax/Lillia/Olaf/Rell/Rengar,5,5,0.56
+Diana/Jax/Lillia/Olaf/Rengar/Sejuani,5,5,0.5
+Diana/Jax/Lillia/Olaf/Sejuani/Wukong,5,5,0.56
+Diana/Jax/Lillia/Olaf/Sejuani/Yone,5,5,0.5
+Diana/Jax/Lillia/Qiyana/Sejuani/Skarner,5,5,0.5
+Diana/Jax/Lillia/Qiyana/Sejuani/Sylas,5,5,0.5
+Diana/Jax/Lillia/Rell/Rengar/Sejuani,5,6,0.56
+Diana/Jax/Lillia/Rell/Rengar/Skarner,5,5,0.56
+Diana/Jax/Lillia/Rell/Rengar/Sylas,5,5,0.56
+Diana/Jax/Lillia/Rell/Rengar/Twitch,5,5,0.5
+Diana/Jax/Lillia/Rengar/Sejuani/Skarner,5,5,0.5
+Diana/Jax/Lillia/Rengar/Sejuani/Sylas,5,5,0.5
+Diana/Jax/Lillia/Sejuani/Sylas/Taliyah,5,5,0.5
+Diana/Jax/Lillia/Sejuani/Sylas/Vladimir,5,5,0.5
+Diana/Jax/Lillia/Sejuani/Sylas/Zyra,5,5,0.5
+Diana/Jax/Malphite/Rell/Rengar/Sejuani,5,5,0.56
+Diana/Jax/Nunu/Olaf/Qiyana/Sejuani,5,5,0.5
+Diana/Jax/Nunu/Olaf/Qiyana/Yone,5,5,0.56
+Diana/Jax/Nunu/Olaf/Rell/Rengar,5,5,0.56
+Diana/Jax/Nunu/Olaf/Rell/Yone,5,5,0.56
+Diana/Jax/Nunu/Olaf/Rengar/Sejuani,5,5,0.5
+Diana/Jax/Nunu/Olaf/Rengar/Yone,5,5,0.56
+Diana/Jax/Nunu/Olaf/Sejuani/Wukong,5,5,0.56
+Diana/Jax/Nunu/Olaf/Sejuani/Yone,6,6,0.67
+Diana/Jax/Nunu/Olaf/Twitch/Yone,5,5,0.5
+Diana/Jax/Olaf/Qiyana/Rell/Sejuani,5,5,0.5
+Diana/Jax/Olaf/Qiyana/Sejuani/Wukong,5,5,0.56
+Diana/Jax/Olaf/Qiyana/Sejuani/Yone,5,5,0.5
+Diana/Jax/Olaf/Rell/Rengar/Sejuani,6,6,0.67
+Diana/Jax/Olaf/Rell/Rengar/Twitch,5,5,0.5
+Diana/Jax/Olaf/Rell/Rengar/Wukong,5,5,0.62
+Diana/Jax/Olaf/Rell/Rengar/Yone,5,5,0.56
+Diana/Jax/Olaf/Rell/Sejuani/Wukong,5,5,0.56
+Diana/Jax/Olaf/Rell/Sejuani/Yone,5,5,0.5
+Diana/Jax/Olaf/Rengar/Sejuani/Wukong,5,5,0.56
+Diana/Jax/Olaf/Rengar/Sejuani/Yone,5,5,0.5
+Diana/Jax/Rell/Rengar/Sejuani/Skarner,5,5,0.56
+Diana/Jax/Rell/Rengar/Sejuani/Sylas,5,5,0.5
+Diana/Kai'sa/Karma/Rell/Rengar/Sejuani,5,5,0.62
+Diana/Kai'sa/Lee Sin/Nunu/Qiyana/Sejuani,5,5,0.62
+Diana/Kai'sa/Lee Sin/Qiyana/Rell/Sejuani,5,5,0.62
+Diana/Kai'sa/Lee Sin/Rell/Rengar/Sejuani,5,5,0.62
+Diana/Kai'sa/Lillia/Rakan/Sejuani/Sett,5,5,0.5
+Diana/Kai'sa/Lillia/Rell/Rengar/Sejuani,5,6,0.62
+Diana/Kai'sa/Nunu/Olaf/Sejuani/Yone,5,5,0.56
+Diana/Kai'sa/Olaf/Rell/Rengar/Sejuani,5,5,0.56
+Diana/Kai'sa/Rakan/Seraphine/Sett/Zac,5,5,0.62
+Diana/Kai'sa/Rell/Rengar/Sejuani/Sett,5,5,0.62
+Diana/Kai'sa/Rell/Rengar/Sejuani/Volibear,5,5,0.62
+Diana/Karma/Lee Sin/Nunu/Qiyana/Sejuani,5,5,0.62
+Diana/Karma/Lee Sin/Qiyana/Rell/Sejuani,5,5,0.62
+Diana/Karma/Lee Sin/Rell/Rengar/Sejuani,5,5,0.62
+Diana/Karma/Lillia/Rakan/Sejuani/Sett,5,5,0.5
+Diana/Karma/Lillia/Rell/Rengar/Sejuani,5,6,0.62
+Diana/Karma/Nunu/Olaf/Sejuani/Yone,5,5,0.56
+Diana/Karma/Olaf/Rell/Rengar/Sejuani,5,5,0.56
+Diana/Karma/Rell/Rengar/Sejuani/Sett,5,5,0.62
+Diana/Karma/Rell/Rengar/Sejuani/Volibear,5,5,0.62
+Diana/Lee Sin/Leona/Lillia/Nunu/Qiyana,5,5,0.62
+Diana/Lee Sin/Leona/Lillia/Qiyana/Sejuani,5,5,0.56
+Diana/Lee Sin/Leona/Nunu/Qiyana/Sejuani,5,5,0.62
+Diana/Lee Sin/Leona/Qiyana/Rakan/Sett,5,5,0.62
+Diana/Lee Sin/Lillia/Malphite/Qiyana/Sejuani,5,5,0.56
+Diana/Lee Sin/Lillia/Nasus/Qiyana/Sejuani,5,5,0.56
+Diana/Lee Sin/Lillia/Nunu/Qiyana/Sejuani,5,6,0.62
+Diana/Lee Sin/Lillia/Qiyana/Rakan/Sejuani,5,5,0.5
+Diana/Lee Sin/Lillia/Qiyana/Rell/Sejuani,5,6,0.62
+Diana/Lee Sin/Lillia/Qiyana/Sejuani/Skarner,5,5,0.56
+Diana/Lee Sin/Lillia/Qiyana/Sejuani/Vladimir,5,5,0.62
+Diana/Lee Sin/Lillia/Qiyana/Sejuani/Zac,5,5,0.56
+Diana/Lee Sin/Lillia/Rakan/Sejuani/Sett,5,5,0.5
+Diana/Lee Sin/Lillia/Rell/Rengar/Sejuani,5,6,0.62
+Diana/Lee Sin/Malphite/Olaf/Qiyana/Sejuani,5,5,0.56
+Diana/Lee Sin/Nasus/Qiyana/Rakan/Sett,5,5,0.62
+Diana/Lee Sin/Nunu/Olaf/Qiyana/Sejuani,5,5,0.56
+Diana/Lee Sin/Nunu/Olaf/Sejuani/Yone,5,5,0.56
+Diana/Lee Sin/Nunu/Qiyana/Sejuani/Sett,5,5,0.62
+Diana/Lee Sin/Nunu/Qiyana/Sejuani/Volibear,5,5,0.62
+Diana/Lee Sin/Nunu/Qiyana/Sejuani/Yone,5,5,0.62
+Diana/Lee Sin/Olaf/Qiyana/Rell/Sejuani,5,5,0.56
+Diana/Lee Sin/Olaf/Qiyana/Sejuani/Skarner,5,5,0.56
+Diana/Lee Sin/Olaf/Rell/Rengar/Sejuani,5,5,0.56
+Diana/Lee Sin/Qiyana/Rakan/Sejuani/Sett,5,5,0.56
+Diana/Lee Sin/Qiyana/Rakan/Sett/Zac,5,5,0.62
+Diana/Lee Sin/Qiyana/Rell/Rengar/Sejuani,5,5,0.71
+Diana/Lee Sin/Qiyana/Rell/Sejuani/Sett,5,5,0.62
+Diana/Lee Sin/Qiyana/Rell/Sejuani/Volibear,5,5,0.62
+Diana/Lee Sin/Rell/Rengar/Sejuani/Sett,5,5,0.62
+Diana/Lee Sin/Rell/Rengar/Sejuani/Volibear,5,5,0.62
+Diana/Leona/Lillia/Nasus/Nunu/Qiyana,5,5,0.62
+Diana/Leona/Lillia/Nasus/Nunu/Rengar,5,5,0.62
+Diana/Leona/Lillia/Nasus/Nunu/Sejuani,5,6,0.62
+Diana/Leona/Lillia/Nasus/Nunu/Twitch,5,5,0.56
+Diana/Leona/Lillia/Nasus/Qiyana/Sejuani,5,5,0.56
+Diana/Leona/Lillia/Nasus/Rell/Rengar,5,5,0.62
+Diana/Leona/Lillia/Nasus/Rengar/Sejuani,5,5,0.56
+Diana/Leona/Lillia/Nasus/Sejuani/Yone,5,5,0.56
+Diana/Leona/Lillia/Nunu/Qiyana/Rakan,5,5,0.56
+Diana/Leona/Lillia/Nunu/Qiyana/Sejuani,5,6,0.62
+Diana/Leona/Lillia/Nunu/Qiyana/Twitch,5,5,0.56
+Diana/Leona/Lillia/Nunu/Qiyana/Zac,5,5,0.62
+Diana/Leona/Lillia/Nunu/Rakan/Rengar,5,5,0.56
+Diana/Leona/Lillia/Nunu/Rakan/Sejuani,5,6,0.56
+Diana/Leona/Lillia/Nunu/Rakan/Senna,5,5,0.56
+Diana/Leona/Lillia/Nunu/Rakan/Seraphine,5,5,0.5
+Diana/Leona/Lillia/Nunu/Rakan/Sett,5,5,0.56
+Diana/Leona/Lillia/Nunu/Rakan/Twitch,5,5,0.5
+Diana/Leona/Lillia/Nunu/Rell/Rengar,5,6,0.71
+Diana/Leona/Lillia/Nunu/Rengar/Sejuani,5,6,0.62
+Diana/Leona/Lillia/Nunu/Rengar/Twitch,5,5,0.56
+Diana/Leona/Lillia/Nunu/Rengar/Zac,5,5,0.62
+Diana/Leona/Lillia/Nunu/Sejuani/Zac,5,6,0.62
+Diana/Leona/Lillia/Nunu/Twitch/Varus,5,5,0.56
+Diana/Leona/Lillia/Nunu/Twitch/Zac,5,5,0.56
+Diana/Leona/Lillia/Olaf/Sejuani/Yone,5,5,0.56
+Diana/Leona/Lillia/Qiyana/Rakan/Sejuani,5,5,0.5
+Diana/Leona/Lillia/Qiyana/Sejuani/Yone,5,5,0.56
+Diana/Leona/Lillia/Qiyana/Sejuani/Zac,5,5,0.56
+Diana/Leona/Lillia/Rakan/Rell/Rengar,5,5,0.56
+Diana/Leona/Lillia/Rakan/Rengar/Sejuani,5,5,0.5
+Diana/Leona/Lillia/Rakan/Sejuani/Senna,5,5,0.5
+Diana/Leona/Lillia/Rakan/Sejuani/Seraphine,5,5,0.45
+Diana/Leona/Lillia/Rakan/Sejuani/Sett,5,5,0.5
+Diana/Leona/Lillia/Rakan/Sejuani/Yone,5,5,0.5
+Diana/Leona/Lillia/Rell/Rengar/Sejuani,5,6,0.62
+Diana/Leona/Lillia/Rell/Rengar/Twitch,5,5,0.56
+Diana/Leona/Lillia/Rell/Rengar/Yone,5,5,0.62
+Diana/Leona/Lillia/Rell/Rengar/Zac,5,5,0.62
+Diana/Leona/Lillia/Rengar/Sejuani/Yone,5,5,0.56
+Diana/Leona/Lillia/Rengar/Sejuani/Zac,5,5,0.56
+Diana/Leona/Lillia/Sejuani/Wukong/Yone,5,5,0.56
+Diana/Leona/Lillia/Sejuani/Yone/Zac,5,5,0.56
+Diana/Leona/Malphite/Nasus/Olaf/Yone,5,5,0.62
+Diana/Leona/Malphite/Nunu/Olaf/Sejuani,5,5,0.56
+Diana/Leona/Malphite/Olaf/Qiyana/Yone,5,5,0.62
+Diana/Leona/Malphite/Olaf/Rakan/Yone,5,5,0.56
+Diana/Leona/Malphite/Olaf/Rengar/Yone,5,5,0.62
+Diana/Leona/Malphite/Olaf/Sejuani/Yone,5,5,0.56
+Diana/Leona/Malphite/Olaf/Twitch/Yone,5,5,0.56
+Diana/Leona/Malphite/Olaf/Yone/Zac,5,5,0.71
+Diana/Leona/Nasus/Nunu/Olaf/Sejuani,5,5,0.56
+Diana/Leona/Nasus/Nunu/Rell/Rengar,5,5,0.71
+Diana/Leona/Nasus/Nunu/Rengar/Sejuani,5,5,0.62
+Diana/Leona/Nasus/Olaf/Qiyana/Yone,5,5,0.62
+Diana/Leona/Nasus/Olaf/Rengar/Yone,5,5,0.62
+Diana/Leona/Nasus/Olaf/Sejuani/Yone,5,5,0.56
+Diana/Leona/Nasus/Olaf/Skarner/Yone,5,5,0.62
+Diana/Leona/Nasus/Olaf/Sylas/Yone,5,5,0.56
+Diana/Leona/Nasus/Olaf/Twitch/Yone,5,5,0.56
+Diana/Leona/Nasus/Rell/Rengar/Sejuani,5,5,0.62
+Diana/Leona/Nunu/Olaf/Qiyana/Sejuani,5,5,0.56
+Diana/Leona/Nunu/Olaf/Rakan/Sejuani,5,5,0.5
+Diana/Leona/Nunu/Olaf/Rell/Rengar,5,5,0.62
+Diana/Leona/Nunu/Olaf/Rengar/Sejuani,5,5,0.56
+Diana/Leona/Nunu/Olaf/Sejuani/Skarner,5,5,0.56
+Diana/Leona/Nunu/Olaf/Sejuani/Sylas,5,5,0.5
+Diana/Leona/Nunu/Olaf/Sejuani/Wukong,5,5,0.56
+Diana/Leona/Nunu/Olaf/Sejuani/Yone,5,5,0.62
+Diana/Leona/Nunu/Olaf/Sejuani/Zac,5,5,0.56
+Diana/Leona/Nunu/Rakan/Rell/Rengar,5,5,0.62
+Diana/Leona/Nunu/Rakan/Rengar/Sejuani,5,5,0.56
+Diana/Leona/Nunu/Rakan/Sejuani/Senna,5,5,0.56
+Diana/Leona/Nunu/Rell/Rengar/Sejuani,5,6,0.71
+Diana/Leona/Nunu/Rell/Rengar/Twitch,5,5,0.62
+Diana/Leona/Nunu/Rell/Rengar/Zac,5,5,0.71
+Diana/Leona/Nunu/Rengar/Sejuani/Zac,5,5,0.62
+Diana/Leona/Olaf/Qiyana/Rakan/Yone,5,5,0.56
+Diana/Leona/Olaf/Qiyana/Sejuani/Yone,5,5,0.56
+Diana/Leona/Olaf/Qiyana/Skarner/Yone,5,5,0.62
+Diana/Leona/Olaf/Qiyana/Yone/Zac,5,5,0.62
+Diana/Leona/Olaf/Rakan/Rengar/Yone,5,5,0.56
+Diana/Leona/Olaf/Rakan/Sejuani/Yone,5,5,0.5
+Diana/Leona/Olaf/Rakan/Senna/Yone,5,5,0.56
+Diana/Leona/Olaf/Rakan/Seraphine/Yone,5,5,0.5
+Diana/Leona/Olaf/Rakan/Sett/Yone,5,5,0.56
+Diana/Leona/Olaf/Rakan/Skarner/Yone,5,5,0.56
+Diana/Leona/Olaf/Rakan/Sylas/Yone,5,5,0.5
+Diana/Leona/Olaf/Rakan/Twitch/Yone,5,5,0.5
+Diana/Leona/Olaf/Rell/Rengar/Sejuani,5,5,0.56
+Diana/Leona/Olaf/Rell/Rengar/Yone,5,5,0.62
+Diana/Leona/Olaf/Rell/Sejuani/Yone,5,5,0.56
+Diana/Leona/Olaf/Rengar/Sejuani/Yone,5,5,0.56
+Diana/Leona/Olaf/Rengar/Skarner/Yone,5,5,0.62
+Diana/Leona/Olaf/Rengar/Yone/Zac,5,5,0.62
+Diana/Leona/Olaf/Sejuani/Skarner/Yone,5,5,0.56
+Diana/Leona/Olaf/Sejuani/Sylas/Yone,5,5,0.5
+Diana/Leona/Olaf/Sejuani/Yone/Zac,5,5,0.56
+Diana/Leona/Olaf/Skarner/Twitch/Yone,5,5,0.56
+Diana/Leona/Olaf/Skarner/Yone/Zac,5,5,0.62
+Diana/Leona/Olaf/Sylas/Yone/Zac,5,5,0.56
+Diana/Leona/Olaf/Twitch/Yone/Zac,5,5,0.56
+Diana/Leona/Rakan/Rell/Rengar/Sejuani,5,5,0.56
+Diana/Leona/Rell/Rengar/Sejuani/Yone,5,5,0.62
+Diana/Leona/Rell/Rengar/Sejuani/Zac,5,5,0.62
+Diana/Lillia/Lux/Malphite/Sejuani/Sylas,5,5,0.56
+Diana/Lillia/Lux/Nidalee/Sejuani/Vladimir,5,5,0.71
+Diana/Lillia/Lux/Qiyana/Sejuani/Vladimir,5,5,0.71
+Diana/Lillia/Lux/Rell/Rengar/Sejuani,5,6,0.71
+Diana/Lillia/Lux/Rell/Rengar/Vladimir,5,5,0.83
+Diana/Lillia/Lux/Rengar/Sejuani/Vladimir,5,5,0.71
+Diana/Lillia/Lux/Sejuani/Skarner/Sylas,5,5,0.62
+Diana/Lillia/Lux/Sejuani/Skarner/Vladimir,5,5,0.71
+Diana/Lillia/Lux/Sejuani/Varus/Vladimir,5,5,0.71
+Diana/Lillia/Malphite/Nunu/Olaf/Yone,5,5,0.62
+Diana/Lillia/Malphite/Olaf/Qiyana/Sejuani,5,5,0.56
+Diana/Lillia/Malphite/Olaf/Rell/Rengar,5,5,0.62
+Diana/Lillia/Malphite/Olaf/Rengar/Sejuani,5,5,0.56
+Diana/Lillia/Malphite/Olaf/Sejuani/Wukong,5,5,0.56
+Diana/Lillia/Malphite/Olaf/Sejuani/Yone,5,5,0.56
+Diana/Lillia/Malphite/Qiyana/Sejuani/Skarner,5,5,0.56
+Diana/Lillia/Malphite/Qiyana/Sejuani/Sylas,5,5,0.56
+Diana/Lillia/Malphite/Rell/Rengar/Sejuani,5,6,0.62
+Diana/Lillia/Malphite/Rell/Rengar/Skarner,5,5,0.62
+Diana/Lillia/Malphite/Rell/Rengar/Sylas,5,5,0.62
+Diana/Lillia/Malphite/Rell/Rengar/Twitch,5,5,0.56
+Diana/Lillia/Malphite/Rengar/Sejuani/Skarner,5,5,0.56
+Diana/Lillia/Malphite/Rengar/Sejuani/Sylas,5,5,0.56
+Diana/Lillia/Malphite/Sejuani/Sylas/Taliyah,5,5,0.62
+Diana/Lillia/Malphite/Sejuani/Sylas/Vladimir,5,5,0.56
+Diana/Lillia/Malphite/Sejuani/Sylas/Zyra,5,5,0.56
+Diana/Lillia/Nasus/Qiyana/Rakan/Sejuani,5,5,0.5
+Diana/Lillia/Nasus/Qiyana/Sejuani/Zac,5,5,0.56
+Diana/Lillia/Nasus/Rakan/Rell/Rengar,5,5,0.56
+Diana/Lillia/Nasus/Rakan/Rengar/Sejuani,5,5,0.5
+Diana/Lillia/Nasus/Rakan/Sejuani/Senna,5,5,0.5
+Diana/Lillia/Nasus/Rakan/Sejuani/Seraphine,5,5,0.45
+Diana/Lillia/Nasus/Rakan/Sejuani/Sett,5,5,0.5
+Diana/Lillia/Nasus/Rell/Rengar/Sejuani,5,6,0.62
+Diana/Lillia/Nasus/Rell/Rengar/Twitch,5,5,0.56
+Diana/Lillia/Nasus/Rell/Rengar/Zac,5,5,0.62
+Diana/Lillia/Nasus/Rengar/Sejuani/Zac,5,5,0.56
+Diana/Lillia/Nidalee/Rell/Rengar/Sejuani,5,6,0.62
+Diana/Lillia/Nunu/Olaf/Sejuani/Yone,5,6,0.62
+Diana/Lillia/Nunu/Olaf/Skarner/Yone,5,5,0.62
+Diana/Lillia/Nunu/Qiyana/Sejuani/Yone,5,6,0.62
+Diana/Lillia/Nunu/Rell/Rengar/Sejuani,5,7,0.71
+Diana/Lillia/Nunu/Rell/Rengar/Twitch,5,6,0.62
+Diana/Lillia/Nunu/Rell/Rengar/Yone,5,6,0.71
+Diana/Lillia/Nunu/Rengar/Sejuani/Yone,5,6,0.62
+Diana/Lillia/Nunu/Sejuani/Wukong/Yone,5,6,0.62
+Diana/Lillia/Olaf/Qiyana/Sejuani/Skarner,5,5,0.56
+Diana/Lillia/Olaf/Rell/Rengar/Sejuani,5,6,0.62
+Diana/Lillia/Olaf/Rell/Rengar/Skarner,5,5,0.62
+Diana/Lillia/Olaf/Rengar/Sejuani/Skarner,5,5,0.56
+Diana/Lillia/Olaf/Sejuani/Skarner/Wukong,5,5,0.56
+Diana/Lillia/Olaf/Sejuani/Skarner/Yone,5,5,0.56
+Diana/Lillia/Olaf/Sejuani/Sylas/Vladimir,5,5,0.56
+Diana/Lillia/Qiyana/Rakan/Sejuani/Senna,5,5,0.5
+Diana/Lillia/Qiyana/Rakan/Sejuani/Seraphine,5,5,0.45
+Diana/Lillia/Qiyana/Rakan/Sejuani/Sett,5,5,0.5
+Diana/Lillia/Qiyana/Rakan/Sejuani/Zac,5,5,0.5
+Diana/Lillia/Qiyana/Rell/Rengar/Sejuani,5,6,0.71
+Diana/Lillia/Qiyana/Sejuani/Skarner/Sylas,5,5,0.56
+Diana/Lillia/Qiyana/Sejuani/Sylas/Vladimir,5,5,0.56
+Diana/Lillia/Qiyana/Sejuani/Taliyah/Vladimir,5,5,0.62
+Diana/Lillia/Rakan/Rell/Rengar/Sejuani,5,6,0.56
+Diana/Lillia/Rakan/Rell/Rengar/Senna,5,5,0.56
+Diana/Lillia/Rakan/Rell/Rengar/Seraphine,5,5,0.5
+Diana/Lillia/Rakan/Rell/Rengar/Sett,5,5,0.56
+Diana/Lillia/Rakan/Rell/Rengar/Twitch,5,5,0.5
+Diana/Lillia/Rakan/Rell/Rengar/Zac,5,5,0.56
+Diana/Lillia/Rakan/Rengar/Sejuani/Senna,5,5,0.5
+Diana/Lillia/Rakan/Rengar/Sejuani/Seraphine,5,5,0.45
+Diana/Lillia/Rakan/Rengar/Sejuani/Sett,5,5,0.5
+Diana/Lillia/Rakan/Rengar/Sejuani/Zac,5,5,0.5
+Diana/Lillia/Rakan/Sejuani/Senna/Seraphine,5,5,0.45
+Diana/Lillia/Rakan/Sejuani/Senna/Zac,5,5,0.5
+Diana/Lillia/Rakan/Sejuani/Senna/Zeri,5,5,0.5
+Diana/Lillia/Rakan/Sejuani/Seraphine/Sett,5,5,0.45
+Diana/Lillia/Rakan/Sejuani/Seraphine/Zac,5,5,0.5
+Diana/Lillia/Rakan/Sejuani/Seraphine/Zyra,5,5,0.45
+Diana/Lillia/Rakan/Sejuani/Sett/Volibear,5,5,0.5
+Diana/Lillia/Rakan/Sejuani/Sett/Zac,5,5,0.5
+Diana/Lillia/Rell/Rengar/Sejuani/Senna,5,6,0.62
+Diana/Lillia/Rell/Rengar/Sejuani/Seraphine,5,6,0.56
+Diana/Lillia/Rell/Rengar/Sejuani/Sett,5,6,0.62
+Diana/Lillia/Rell/Rengar/Sejuani/Skarner,5,6,0.62
+Diana/Lillia/Rell/Rengar/Sejuani/Sylas,5,6,0.62
+Diana/Lillia/Rell/Rengar/Sejuani/Taliyah,5,6,0.71
+Diana/Lillia/Rell/Rengar/Sejuani/Twitch,5,7,0.71
+Diana/Lillia/Rell/Rengar/Sejuani/Varus,5,6,0.62
+Diana/Lillia/Rell/Rengar/Sejuani/Vladimir,5,6,0.71
+Diana/Lillia/Rell/Rengar/Sejuani/Volibear,5,6,0.62
+Diana/Lillia/Rell/Rengar/Sejuani/Wukong,5,6,0.62
+Diana/Lillia/Rell/Rengar/Sejuani/Yone,5,6,0.62
+Diana/Lillia/Rell/Rengar/Sejuani/Zac,5,6,0.62
+Diana/Lillia/Rell/Rengar/Sejuani/Zeri,5,6,0.62
+Diana/Lillia/Rell/Rengar/Sejuani/Zyra,5,6,0.62
+Diana/Lillia/Rell/Rengar/Skarner/Sylas,5,5,0.62
+Diana/Lillia/Rell/Rengar/Skarner/Twitch,5,5,0.56
+Diana/Lillia/Rell/Rengar/Sylas/Vladimir,5,5,0.62
+Diana/Lillia/Rell/Rengar/Taliyah/Vladimir,5,5,0.71
+Diana/Lillia/Rell/Rengar/Twitch/Vladimir,5,5,0.62
+Diana/Lillia/Rell/Rengar/Twitch/Zac,5,5,0.56
+Diana/Lillia/Rengar/Sejuani/Skarner/Sylas,5,5,0.56
+Diana/Lillia/Rengar/Sejuani/Sylas/Vladimir,5,5,0.56
+Diana/Lillia/Rengar/Sejuani/Taliyah/Vladimir,5,5,0.62
+Diana/Lillia/Sejuani/Skarner/Sylas/Taliyah,5,5,0.56
+Diana/Lillia/Sejuani/Skarner/Sylas/Vladimir,5,5,0.62
+Diana/Lillia/Sejuani/Skarner/Sylas/Zyra,5,5,0.56
+Diana/Lillia/Sejuani/Sylas/Vladimir/Zyra,5,5,0.56
+Diana/Lux/Nunu/Olaf/Sejuani/Yone,5,5,0.56
+Diana/Lux/Olaf/Rell/Rengar/Sejuani,5,5,0.56
+Diana/Malphite/Nunu/Olaf/Qiyana/Sejuani,5,5,0.56
+Diana/Malphite/Nunu/Olaf/Qiyana/Yone,5,5,0.62
+Diana/Malphite/Nunu/Olaf/Rell/Rengar,5,5,0.62
+Diana/Malphite/Nunu/Olaf/Rell/Yone,5,5,0.62
+Diana/Malphite/Nunu/Olaf/Rengar/Sejuani,5,5,0.56
+Diana/Malphite/Nunu/Olaf/Rengar/Yone,5,5,0.62
+Diana/Malphite/Nunu/Olaf/Sejuani/Wukong,5,5,0.56
+Diana/Malphite/Nunu/Olaf/Sejuani/Yone,6,6,0.75
+Diana/Malphite/Nunu/Olaf/Twitch/Yone,5,5,0.56
+Diana/Malphite/Olaf/Qiyana/Rell/Sejuani,5,5,0.56
+Diana/Malphite/Olaf/Qiyana/Sejuani/Wukong,5,5,0.56
+Diana/Malphite/Olaf/Qiyana/Sejuani/Yone,5,5,0.56
+Diana/Malphite/Olaf/Rakan/Seraphine/Zac,5,5,0.56
+Diana/Malphite/Olaf/Rell/Rengar/Sejuani,6,6,0.75
+Diana/Malphite/Olaf/Rell/Rengar/Twitch,5,5,0.56
+Diana/Malphite/Olaf/Rell/Rengar/Wukong,5,5,0.62
+Diana/Malphite/Olaf/Rell/Rengar/Yone,5,5,0.62
+Diana/Malphite/Olaf/Rell/Sejuani/Wukong,5,5,0.56
+Diana/Malphite/Olaf/Rell/Sejuani/Yone,5,5,0.56
+Diana/Malphite/Olaf/Rengar/Sejuani/Wukong,5,5,0.56
+Diana/Malphite/Olaf/Rengar/Sejuani/Yone,5,5,0.56
+Diana/Malphite/Rell/Rengar/Sejuani/Skarner,5,5,0.62
+Diana/Malphite/Rell/Rengar/Sejuani/Sylas,5,5,0.56
+Diana/Nasus/Nunu/Olaf/Sejuani/Yone,5,5,0.56
+Diana/Nasus/Olaf/Rell/Rengar/Sejuani,5,5,0.56
+Diana/Nasus/Rakan/Rell/Rengar/Sejuani,5,5,0.56
+Diana/Nasus/Rell/Rengar/Sejuani/Zac,5,5,0.62
+Diana/Nidalee/Nunu/Olaf/Sejuani/Yone,5,5,0.56
+Diana/Nidalee/Olaf/Rell/Rengar/Sejuani,5,5,0.56
+Diana/Nunu/Olaf/Qiyana/Rell/Yone,5,5,0.62
+Diana/Nunu/Olaf/Qiyana/Sejuani/Skarner,5,5,0.56
+Diana/Nunu/Olaf/Qiyana/Sejuani/Sylas,5,5,0.5
+Diana/Nunu/Olaf/Qiyana/Sejuani/Wukong,5,5,0.56
+Diana/Nunu/Olaf/Qiyana/Sejuani/Yone,6,6,0.75
+Diana/Nunu/Olaf/Qiyana/Skarner/Yone,5,5,0.62
+Diana/Nunu/Olaf/Rakan/Sejuani/Yone,5,5,0.5
+Diana/Nunu/Olaf/Rell/Rengar/Sejuani,5,6,0.62
+Diana/Nunu/Olaf/Rell/Rengar/Skarner,5,5,0.62
+Diana/Nunu/Olaf/Rell/Rengar/Sylas,5,5,0.56
+Diana/Nunu/Olaf/Rell/Rengar/Twitch,5,5,0.56
+Diana/Nunu/Olaf/Rell/Rengar/Wukong,5,5,0.62
+Diana/Nunu/Olaf/Rell/Rengar/Yone,6,6,0.86
+Diana/Nunu/Olaf/Rell/Sejuani/Yone,5,6,0.62
+Diana/Nunu/Olaf/Rell/Skarner/Yone,5,5,0.62
+Diana/Nunu/Olaf/Rell/Sylas/Yone,5,5,0.56
+Diana/Nunu/Olaf/Rell/Twitch/Yone,5,5,0.56
+Diana/Nunu/Olaf/Rengar/Sejuani/Skarner,5,5,0.56
+Diana/Nunu/Olaf/Rengar/Sejuani/Sylas,5,5,0.5
+Diana/Nunu/Olaf/Rengar/Sejuani/Wukong,5,5,0.56
+Diana/Nunu/Olaf/Rengar/Sejuani/Yone,6,6,0.75
+Diana/Nunu/Olaf/Rengar/Skarner/Yone,5,5,0.62
+Diana/Nunu/Olaf/Sejuani/Senna/Yone,5,5,0.56
+Diana/Nunu/Olaf/Sejuani/Seraphine/Yone,5,5,0.5
+Diana/Nunu/Olaf/Sejuani/Sett/Yone,5,5,0.56
+Diana/Nunu/Olaf/Sejuani/Skarner/Wukong,5,5,0.56
+Diana/Nunu/Olaf/Sejuani/Skarner/Yone,6,6,0.75
+Diana/Nunu/Olaf/Sejuani/Sylas/Wukong,5,5,0.5
+Diana/Nunu/Olaf/Sejuani/Sylas/Yone,6,6,0.67
+Diana/Nunu/Olaf/Sejuani/Sylas/Zyra,5,5,0.5
+Diana/Nunu/Olaf/Sejuani/Taliyah/Yone,5,5,0.56
+Diana/Nunu/Olaf/Sejuani/Twitch/Yone,5,6,0.62
+Diana/Nunu/Olaf/Sejuani/Varus/Yone,5,5,0.56
+Diana/Nunu/Olaf/Sejuani/Vladimir/Yone,5,5,0.56
+Diana/Nunu/Olaf/Sejuani/Volibear/Yone,5,5,0.56
+Diana/Nunu/Olaf/Sejuani/Wukong/Yone,5,5,0.62
+Diana/Nunu/Olaf/Sejuani/Yone/Zac,5,5,0.56
+Diana/Nunu/Olaf/Sejuani/Yone/Zeri,5,5,0.56
+Diana/Nunu/Olaf/Sejuani/Yone/Zyra,5,5,0.56
+Diana/Nunu/Olaf/Skarner/Twitch/Yone,5,5,0.56
+Diana/Nunu/Qiyana/Sejuani/Wukong/Yone,5,5,0.62
+Diana/Nunu/Rell/Rengar/Sejuani/Yone,5,6,0.71
+Diana/Nunu/Rell/Rengar/Twitch/Varus,5,5,0.62
+Diana/Nunu/Rell/Rengar/Twitch/Yone,5,5,0.62
+Diana/Nunu/Rell/Rengar/Wukong/Yone,5,5,0.71
+Diana/Nunu/Rengar/Sejuani/Wukong/Yone,5,5,0.62
+Diana/Olaf/Qiyana/Rell/Rengar/Sejuani,5,5,0.62
+Diana/Olaf/Qiyana/Rell/Sejuani/Skarner,5,5,0.56
+Diana/Olaf/Qiyana/Rell/Sejuani/Sylas,5,5,0.5
+Diana/Olaf/Qiyana/Rell/Sejuani/Wukong,5,5,0.56
+Diana/Olaf/Qiyana/Rell/Sejuani/Yone,5,5,0.56
+Diana/Olaf/Qiyana/Sejuani/Skarner/Wukong,5,5,0.56
+Diana/Olaf/Qiyana/Sejuani/Skarner/Yone,5,5,0.56
+Diana/Olaf/Rakan/Rell/Rengar/Sejuani,5,5,0.5
+Diana/Olaf/Rell/Rengar/Sejuani/Senna,5,5,0.56
+Diana/Olaf/Rell/Rengar/Sejuani/Seraphine,5,5,0.5
+Diana/Olaf/Rell/Rengar/Sejuani/Sett,5,5,0.56
+Diana/Olaf/Rell/Rengar/Sejuani/Skarner,6,6,0.75
+Diana/Olaf/Rell/Rengar/Sejuani/Sylas,6,6,0.67
+Diana/Olaf/Rell/Rengar/Sejuani/Taliyah,5,5,0.56
+Diana/Olaf/Rell/Rengar/Sejuani/Twitch,5,6,0.62
+Diana/Olaf/Rell/Rengar/Sejuani/Varus,5,5,0.56
+Diana/Olaf/Rell/Rengar/Sejuani/Vladimir,5,5,0.56
+Diana/Olaf/Rell/Rengar/Sejuani/Volibear,5,5,0.56
+Diana/Olaf/Rell/Rengar/Sejuani/Wukong,6,6,0.75
+Diana/Olaf/Rell/Rengar/Sejuani/Yone,6,6,0.75
+Diana/Olaf/Rell/Rengar/Sejuani/Zac,5,5,0.56
+Diana/Olaf/Rell/Rengar/Sejuani/Zeri,5,5,0.56
+Diana/Olaf/Rell/Rengar/Sejuani/Zyra,5,5,0.56
+Diana/Olaf/Rell/Rengar/Skarner/Twitch,5,5,0.56
+Diana/Olaf/Rell/Rengar/Skarner/Wukong,5,5,0.62
+Diana/Olaf/Rell/Rengar/Skarner/Yone,5,5,0.62
+Diana/Olaf/Rell/Sejuani/Skarner/Wukong,5,5,0.56
+Diana/Olaf/Rell/Sejuani/Skarner/Yone,5,5,0.56
+Diana/Olaf/Rell/Sejuani/Sylas/Wukong,5,5,0.5
+Diana/Olaf/Rell/Sejuani/Sylas/Yone,5,5,0.5
+Diana/Olaf/Rell/Sejuani/Sylas/Zyra,5,5,0.5
+Diana/Olaf/Rengar/Sejuani/Skarner/Wukong,5,5,0.56
+Diana/Olaf/Rengar/Sejuani/Skarner/Yone,5,5,0.56
+Diana/Olaf/Skarner/Twitch/Varus/Vladimir,5,5,0.62
+Diana/Rakan/Rell/Rengar/Sejuani/Senna,5,5,0.56
+Diana/Rakan/Rell/Rengar/Sejuani/Seraphine,5,5,0.5
+Diana/Rakan/Rell/Rengar/Sejuani/Sett,5,5,0.56
+Diana/Rakan/Rell/Rengar/Sejuani/Zac,5,5,0.56
+Diana/Rakan/Senna/Seraphine/Zac/Zeri,5,5,0.62
+Diana/Rell/Rengar/Sejuani/Senna/Sett,5,5,0.62
+Diana/Rell/Rengar/Sejuani/Senna/Zeri,5,5,0.62
+Diana/Rell/Rengar/Sejuani/Seraphine/Zyra,5,5,0.56
+Diana/Rell/Rengar/Sejuani/Sett/Volibear,5,5,0.62
+Diana/Rell/Rengar/Sejuani/Skarner/Sylas,5,5,0.56
+Diana/Rell/Rengar/Sejuani/Sylas/Zyra,5,5,0.56
+Diana/Rell/Rengar/Sejuani/Twitch/Varus,5,6,0.71
+Diana/Rell/Rengar/Sejuani/Wukong/Yone,5,5,0.62
+Ezreal/Gnar/Qiyana/Rell/Rengar/Sejuani,5,5,0.62
+Ezreal/Jax/Kai'sa/Lee Sin/Malphite/Twitch,5,5,0.62
+Ezreal/Jax/Kai'sa/Lee Sin/Skarner/Twitch,5,5,0.56
+Ezreal/Jax/Karma/Lee Sin/Malphite/Twitch,5,5,0.62
+Ezreal/Jax/Karma/Lee Sin/Skarner/Twitch,5,5,0.62
+Ezreal/Jax/Lee Sin/Lillia/Olaf/Sejuani,5,5,0.45
+Ezreal/Jax/Lee Sin/Malphite/Sett/Twitch,5,5,0.56
+Ezreal/Jax/Lee Sin/Malphite/Twitch/Volibear,5,5,0.62
+Ezreal/Jax/Lee Sin/Nasus/Twitch/Volibear,5,5,0.62
+Ezreal/Jax/Lee Sin/Rakan/Sett/Twitch,5,5,0.5
+Ezreal/Jax/Lee Sin/Sett/Skarner/Twitch,5,5,0.56
+Ezreal/Jax/Lee Sin/Skarner/Twitch/Volibear,5,5,0.62
+Ezreal/Jax/Leona/Olaf/Twitch/Yone,5,5,0.5
+Ezreal/Jax/Lillia/Nunu/Olaf/Twitch,5,5,0.45
+Ezreal/Jax/Lillia/Nunu/Olaf/Yone,5,5,0.5
+Ezreal/Jax/Lillia/Olaf/Qiyana/Sejuani,5,5,0.45
+Ezreal/Jax/Lillia/Olaf/Rell/Twitch,5,5,0.45
+Ezreal/Jax/Lillia/Olaf/Sejuani/Twitch,5,6,0.5
+Ezreal/Jax/Lillia/Olaf/Sejuani/Varus,5,5,0.45
+Ezreal/Jax/Lillia/Olaf/Sejuani/Wukong,5,5,0.5
+Ezreal/Jax/Lillia/Olaf/Sejuani/Yone,5,5,0.45
+Ezreal/Jax/Malphite/Qiyana/Rengar/Twitch,5,5,0.56
+Ezreal/Jax/Nunu/Olaf/Sejuani/Yone,5,5,0.5
+Ezreal/Jax/Nunu/Olaf/Twitch/Yone,5,5,0.5
+Ezreal/Jax/Qiyana/Rell/Rengar/Sejuani,5,5,0.56
+Ezreal/Jax/Qiyana/Rell/Rengar/Twitch,5,5,0.56
+Ezreal/Jax/Qiyana/Rengar/Skarner/Twitch,5,5,0.56
+Ezreal/Kai'sa/Lee Sin/Leona/Nasus/Twitch,5,5,0.62
+Ezreal/Kai'sa/Lee Sin/Leona/Nunu/Sejuani,5,5,0.62
+Ezreal/Kai'sa/Lee Sin/Leona/Nunu/Twitch,5,5,0.62
+Ezreal/Kai'sa/Lee Sin/Leona/Rakan/Twitch,5,5,0.56
+Ezreal/Kai'sa/Lee Sin/Leona/Twitch/Zac,5,5,0.71
+Ezreal/Kai'sa/Lee Sin/Malphite/Skarner/Twitch,5,5,0.71
+Ezreal/Kai'sa/Lee Sin/Malphite/Twitch/Zac,5,5,0.71
+Ezreal/Kai'sa/Lee Sin/Nasus/Rakan/Twitch,5,5,0.56
+Ezreal/Kai'sa/Lee Sin/Nasus/Twitch/Zac,5,5,0.71
+Ezreal/Kai'sa/Lee Sin/Nunu/Rell/Twitch,5,5,0.62
+Ezreal/Kai'sa/Lee Sin/Nunu/Sejuani/Twitch,5,6,0.71
+Ezreal/Kai'sa/Lee Sin/Nunu/Sejuani/Varus,5,5,0.62
+Ezreal/Kai'sa/Lee Sin/Nunu/Sejuani/Yone,5,5,0.62
+Ezreal/Kai'sa/Lee Sin/Rakan/Seraphine/Zac,5,5,0.62
+Ezreal/Kai'sa/Lee Sin/Rakan/Twitch/Zac,5,5,0.62
+Ezreal/Kai'sa/Lee Sin/Rell/Rengar/Sejuani,5,5,0.62
+Ezreal/Kai'sa/Lee Sin/Rell/Sejuani/Twitch,5,6,0.71
+Ezreal/Kai'sa/Lee Sin/Rell/Sejuani/Varus,5,5,0.62
+Ezreal/Kai'sa/Leona/Rakan/Sett/Twitch,5,5,0.56
+Ezreal/Kai'sa/Nasus/Rakan/Sett/Twitch,5,5,0.56
+Ezreal/Kai'sa/Qiyana/Rell/Rengar/Sejuani,5,5,0.62
+Ezreal/Kai'sa/Rakan/Seraphine/Sett/Zac,5,5,0.62
+Ezreal/Kai'sa/Rakan/Seraphine/Twitch/Zac,5,5,0.56
+Ezreal/Kai'sa/Rakan/Sett/Twitch/Zac,5,5,0.62
+Ezreal/Karma/Lee Sin/Leona/Nasus/Twitch,5,5,0.62
+Ezreal/Karma/Lee Sin/Leona/Nunu/Sejuani,5,5,0.62
+Ezreal/Karma/Lee Sin/Leona/Nunu/Twitch,5,5,0.62
+Ezreal/Karma/Lee Sin/Leona/Rakan/Twitch,5,5,0.56
+Ezreal/Karma/Lee Sin/Leona/Twitch/Zac,5,5,0.62
+Ezreal/Karma/Lee Sin/Malphite/Skarner/Twitch,5,5,0.62
+Ezreal/Karma/Lee Sin/Nasus/Rakan/Twitch,5,5,0.56
+Ezreal/Karma/Lee Sin/Nasus/Twitch/Zac,5,5,0.62
+Ezreal/Karma/Lee Sin/Nunu/Rell/Twitch,5,5,0.62
+Ezreal/Karma/Lee Sin/Nunu/Sejuani/Twitch,5,6,0.71
+Ezreal/Karma/Lee Sin/Nunu/Sejuani/Varus,5,5,0.62
+Ezreal/Karma/Lee Sin/Nunu/Sejuani/Yone,5,5,0.62
+Ezreal/Karma/Lee Sin/Rakan/Twitch/Zac,5,5,0.56
+Ezreal/Karma/Lee Sin/Rell/Rengar/Sejuani,5,5,0.62
+Ezreal/Karma/Lee Sin/Rell/Sejuani/Twitch,5,6,0.71
+Ezreal/Karma/Lee Sin/Rell/Sejuani/Varus,5,5,0.62
+Ezreal/Karma/Leona/Rakan/Sett/Twitch,5,5,0.56
+Ezreal/Karma/Nasus/Rakan/Sett/Twitch,5,5,0.56
+Ezreal/Karma/Qiyana/Rell/Rengar/Sejuani,5,5,0.62
+Ezreal/Karma/Rakan/Sett/Twitch/Zac,5,5,0.56
+Ezreal/Lee Sin/Leona/Lillia/Nunu/Twitch,5,5,0.56
+Ezreal/Lee Sin/Leona/Nasus/Nunu/Sejuani,5,5,0.62
+Ezreal/Lee Sin/Leona/Nasus/Nunu/Twitch,5,5,0.62
+Ezreal/Lee Sin/Leona/Nasus/Sett/Twitch,5,5,0.62
+Ezreal/Lee Sin/Leona/Nasus/Twitch/Volibear,5,5,0.71
+Ezreal/Lee Sin/Leona/Nasus/Twitch/Yone,5,5,0.62
+Ezreal/Lee Sin/Leona/Nunu/Rakan/Sejuani,5,5,0.56
+Ezreal/Lee Sin/Leona/Nunu/Rakan/Sett,5,5,0.62
+Ezreal/Lee Sin/Leona/Nunu/Rakan/Twitch,5,5,0.56
+Ezreal/Lee Sin/Leona/Nunu/Rell/Twitch,5,5,0.62
+Ezreal/Lee Sin/Leona/Nunu/Sejuani/Sett,5,5,0.62
+Ezreal/Lee Sin/Leona/Nunu/Sejuani/Twitch,5,6,0.71
+Ezreal/Lee Sin/Leona/Nunu/Sejuani/Varus,5,5,0.62
+Ezreal/Lee Sin/Leona/Nunu/Sejuani/Volibear,5,5,0.62
+Ezreal/Lee Sin/Leona/Nunu/Sejuani/Zac,5,5,0.62
+Ezreal/Lee Sin/Leona/Nunu/Sett/Twitch,5,5,0.62
+Ezreal/Lee Sin/Leona/Nunu/Twitch/Volibear,5,5,0.62
+Ezreal/Lee Sin/Leona/Nunu/Twitch/Zac,5,5,0.62
+Ezreal/Lee Sin/Leona/Rakan/Sejuani/Sett,5,5,0.56
+Ezreal/Lee Sin/Leona/Rakan/Senna/Twitch,5,5,0.56
+Ezreal/Lee Sin/Leona/Rakan/Seraphine/Sett,5,5,0.56
+Ezreal/Lee Sin/Leona/Rakan/Seraphine/Twitch,5,5,0.5
+Ezreal/Lee Sin/Leona/Rakan/Sett/Twitch,6,6,0.75
+Ezreal/Lee Sin/Leona/Rakan/Sett/Varus,5,5,0.62
+Ezreal/Lee Sin/Leona/Rakan/Sett/Yone,5,5,0.62
+Ezreal/Lee Sin/Leona/Rakan/Twitch/Volibear,5,5,0.56
+Ezreal/Lee Sin/Leona/Rakan/Twitch/Yone,5,5,0.56
+Ezreal/Lee Sin/Leona/Sett/Twitch/Zac,5,5,0.62
+Ezreal/Lee Sin/Leona/Twitch/Volibear/Zac,5,5,0.62
+Ezreal/Lee Sin/Leona/Twitch/Yone/Zac,5,5,0.62
+Ezreal/Lee Sin/Lillia/Malphite/Olaf/Sejuani,5,5,0.5
+Ezreal/Lee Sin/Lillia/Olaf/Sejuani/Skarner,5,5,0.5
+Ezreal/Lee Sin/Lillia/Rakan/Sejuani/Sett,5,5,0.5
+Ezreal/Lee Sin/Malphite/Rakan/Sett/Twitch,5,5,0.56
+Ezreal/Lee Sin/Malphite/Sett/Skarner/Twitch,5,5,0.62
+Ezreal/Lee Sin/Malphite/Skarner/Twitch/Volibear,5,5,0.62
+Ezreal/Lee Sin/Nasus/Rakan/Sejuani/Sett,5,5,0.56
+Ezreal/Lee Sin/Nasus/Rakan/Senna/Twitch,5,5,0.56
+Ezreal/Lee Sin/Nasus/Rakan/Seraphine/Sett,5,5,0.56
+Ezreal/Lee Sin/Nasus/Rakan/Seraphine/Twitch,5,5,0.5
+Ezreal/Lee Sin/Nasus/Rakan/Sett/Twitch,6,6,0.75
+Ezreal/Lee Sin/Nasus/Rakan/Sett/Varus,5,5,0.62
+Ezreal/Lee Sin/Nasus/Rakan/Twitch/Volibear,5,5,0.62
+Ezreal/Lee Sin/Nasus/Sett/Twitch/Zac,5,5,0.62
+Ezreal/Lee Sin/Nasus/Twitch/Volibear/Zac,5,5,0.71
+Ezreal/Lee Sin/Nunu/Olaf/Sejuani/Yone,5,5,0.56
+Ezreal/Lee Sin/Nunu/Rakan/Sejuani/Sett,5,5,0.56
+Ezreal/Lee Sin/Nunu/Rakan/Sett/Twitch,5,5,0.56
+Ezreal/Lee Sin/Nunu/Rell/Rengar/Twitch,5,5,0.62
+Ezreal/Lee Sin/Nunu/Rell/Sett/Twitch,5,5,0.62
+Ezreal/Lee Sin/Nunu/Rell/Twitch/Volibear,5,5,0.62
+Ezreal/Lee Sin/Nunu/Rell/Twitch/Yone,5,5,0.62
+Ezreal/Lee Sin/Nunu/Sejuani/Senna/Sett,5,5,0.62
+Ezreal/Lee Sin/Nunu/Sejuani/Sett/Twitch,5,6,0.71
+Ezreal/Lee Sin/Nunu/Sejuani/Sett/Varus,5,5,0.62
+Ezreal/Lee Sin/Nunu/Sejuani/Sett/Yone,5,5,0.62
+Ezreal/Lee Sin/Nunu/Sejuani/Twitch/Volibear,5,6,0.71
+Ezreal/Lee Sin/Nunu/Sejuani/Twitch/Yone,5,6,0.71
+Ezreal/Lee Sin/Nunu/Sejuani/Varus/Volibear,5,5,0.62
+Ezreal/Lee Sin/Nunu/Sejuani/Varus/Yone,5,5,0.62
+Ezreal/Lee Sin/Nunu/Sejuani/Volibear/Yone,5,5,0.62
+Ezreal/Lee Sin/Nunu/Sejuani/Wukong/Yone,5,5,0.62
+Ezreal/Lee Sin/Qiyana/Rell/Rengar/Sejuani,5,5,0.71
+Ezreal/Lee Sin/Rakan/Rell/Sejuani/Sett,5,5,0.56
+Ezreal/Lee Sin/Rakan/Rell/Sett/Twitch,5,5,0.56
+Ezreal/Lee Sin/Rakan/Sejuani/Seraphine/Sett,5,5,0.5
+Ezreal/Lee Sin/Rakan/Sejuani/Sett/Twitch,5,6,0.62
+Ezreal/Lee Sin/Rakan/Sejuani/Sett/Varus,5,5,0.56
+Ezreal/Lee Sin/Rakan/Sejuani/Sett/Zac,5,5,0.56
+Ezreal/Lee Sin/Rakan/Senna/Twitch/Zac,5,5,0.56
+Ezreal/Lee Sin/Rakan/Seraphine/Sett/Zac,5,5,0.62
+Ezreal/Lee Sin/Rakan/Seraphine/Twitch/Zac,5,5,0.56
+Ezreal/Lee Sin/Rakan/Sett/Skarner/Twitch,5,5,0.56
+Ezreal/Lee Sin/Rakan/Sett/Twitch/Vladimir,5,5,0.56
+Ezreal/Lee Sin/Rakan/Sett/Twitch/Zac,6,6,0.75
+Ezreal/Lee Sin/Rakan/Sett/Varus/Zac,5,5,0.62
+Ezreal/Lee Sin/Rakan/Twitch/Volibear/Zac,5,5,0.56
+Ezreal/Lee Sin/Rell/Rengar/Sejuani/Sett,5,5,0.62
+Ezreal/Lee Sin/Rell/Rengar/Sejuani/Twitch,5,6,0.71
+Ezreal/Lee Sin/Rell/Rengar/Sejuani/Varus,5,5,0.62
+Ezreal/Lee Sin/Rell/Rengar/Sejuani/Volibear,5,5,0.62
+Ezreal/Lee Sin/Rell/Sejuani/Senna/Sett,5,5,0.62
+Ezreal/Lee Sin/Rell/Sejuani/Sett/Twitch,5,6,0.71
+Ezreal/Lee Sin/Rell/Sejuani/Sett/Varus,5,5,0.62
+Ezreal/Lee Sin/Rell/Sejuani/Twitch/Volibear,5,6,0.71
+Ezreal/Lee Sin/Rell/Sejuani/Varus/Volibear,5,5,0.62
+Ezreal/Leona/Lillia/Nasus/Nunu/Twitch,5,5,0.56
+Ezreal/Leona/Lillia/Nunu/Olaf/Twitch,5,5,0.5
+Ezreal/Leona/Lillia/Nunu/Qiyana/Twitch,5,5,0.56
+Ezreal/Leona/Lillia/Nunu/Rakan/Twitch,5,5,0.5
+Ezreal/Leona/Lillia/Nunu/Twitch/Zac,5,5,0.56
+Ezreal/Leona/Lillia/Olaf/Sejuani/Yone,5,5,0.5
+Ezreal/Leona/Malphite/Olaf/Twitch/Yone,5,5,0.56
+Ezreal/Leona/Nasus/Nunu/Sejuani/Varus,5,5,0.62
+Ezreal/Leona/Nasus/Olaf/Twitch/Yone,5,5,0.56
+Ezreal/Leona/Nasus/Qiyana/Rengar/Twitch,5,5,0.62
+Ezreal/Leona/Nasus/Qiyana/Twitch/Yone,5,5,0.62
+Ezreal/Leona/Nasus/Twitch/Wukong/Yone,5,5,0.62
+Ezreal/Leona/Nunu/Qiyana/Rell/Rengar,5,5,0.71
+Ezreal/Leona/Nunu/Qiyana/Rengar/Sejuani,5,5,0.62
+Ezreal/Leona/Nunu/Qiyana/Rengar/Twitch,5,5,0.62
+Ezreal/Leona/Nunu/Qiyana/Sejuani/Varus,5,5,0.62
+Ezreal/Leona/Nunu/Rakan/Sejuani/Senna,5,5,0.56
+Ezreal/Leona/Nunu/Rakan/Sejuani/Varus,5,5,0.56
+Ezreal/Leona/Nunu/Rakan/Senna/Twitch,5,5,0.56
+Ezreal/Leona/Nunu/Rell/Rengar/Twitch,5,5,0.62
+Ezreal/Leona/Nunu/Sejuani/Varus/Zac,5,5,0.62
+Ezreal/Leona/Olaf/Rakan/Twitch/Yone,5,5,0.5
+Ezreal/Leona/Olaf/Skarner/Twitch/Yone,5,5,0.56
+Ezreal/Leona/Olaf/Twitch/Yone/Zac,5,5,0.56
+Ezreal/Leona/Qiyana/Rakan/Rengar/Twitch,5,5,0.56
+Ezreal/Leona/Qiyana/Rakan/Senna/Twitch,5,5,0.56
+Ezreal/Leona/Qiyana/Rakan/Twitch/Yone,5,5,0.56
+Ezreal/Leona/Qiyana/Rell/Rengar/Sejuani,5,5,0.62
+Ezreal/Leona/Qiyana/Rell/Rengar/Twitch,5,5,0.62
+Ezreal/Leona/Qiyana/Rengar/Twitch/Zac,5,5,0.62
+Ezreal/Leona/Qiyana/Twitch/Yone/Zac,5,5,0.62
+Ezreal/Leona/Rakan/Senna/Seraphine/Twitch,5,5,0.5
+Ezreal/Leona/Rakan/Senna/Twitch/Yone,5,5,0.56
+Ezreal/Leona/Rakan/Senna/Twitch/Zeri,5,5,0.56
+Ezreal/Leona/Rakan/Seraphine/Twitch/Yone,5,5,0.5
+Ezreal/Leona/Rakan/Sett/Twitch/Volibear,5,5,0.56
+Ezreal/Leona/Rakan/Sett/Twitch/Yone,5,5,0.56
+Ezreal/Leona/Rakan/Twitch/Wukong/Yone,5,5,0.56
+Ezreal/Leona/Twitch/Wukong/Yone/Zac,5,5,0.62
+Ezreal/Lillia/Lux/Sejuani/Varus/Vladimir,5,5,0.71
+Ezreal/Lillia/Malphite/Nunu/Olaf/Twitch,5,5,0.5
+Ezreal/Lillia/Malphite/Nunu/Olaf/Yone,5,5,0.56
+Ezreal/Lillia/Malphite/Olaf/Qiyana/Sejuani,5,5,0.5
+Ezreal/Lillia/Malphite/Olaf/Rell/Twitch,5,5,0.5
+Ezreal/Lillia/Malphite/Olaf/Sejuani/Twitch,5,6,0.56
+Ezreal/Lillia/Malphite/Olaf/Sejuani/Varus,5,5,0.5
+Ezreal/Lillia/Malphite/Olaf/Sejuani/Wukong,5,5,0.5
+Ezreal/Lillia/Malphite/Olaf/Sejuani/Yone,5,5,0.5
+Ezreal/Lillia/Nunu/Olaf/Sejuani/Yone,5,6,0.56
+Ezreal/Lillia/Nunu/Olaf/Skarner/Twitch,5,5,0.5
+Ezreal/Lillia/Nunu/Olaf/Skarner/Yone,5,5,0.56
+Ezreal/Lillia/Olaf/Qiyana/Sejuani/Skarner,5,5,0.5
+Ezreal/Lillia/Olaf/Rell/Skarner/Twitch,5,5,0.5
+Ezreal/Lillia/Olaf/Sejuani/Skarner/Twitch,5,6,0.56
+Ezreal/Lillia/Olaf/Sejuani/Skarner/Varus,5,5,0.56
+Ezreal/Lillia/Olaf/Sejuani/Skarner/Wukong,5,5,0.5
+Ezreal/Lillia/Olaf/Sejuani/Skarner/Yone,5,5,0.5
+Ezreal/Lillia/Olaf/Sejuani/Sylas/Vladimir,5,5,0.5
+Ezreal/Lillia/Qiyana/Rell/Rengar/Sejuani,5,6,0.62
+Ezreal/Lux/Qiyana/Rell/Rengar/Sejuani,5,5,0.62
+Ezreal/Lux/Skarner/Sylas/Twitch/Vladimir,5,5,0.71
+Ezreal/Malphite/Nunu/Olaf/Sejuani/Yone,5,5,0.56
+Ezreal/Malphite/Nunu/Olaf/Twitch/Yone,5,5,0.56
+Ezreal/Malphite/Qiyana/Rell/Rengar/Sejuani,5,5,0.62
+Ezreal/Malphite/Qiyana/Rell/Rengar/Twitch,5,5,0.62
+Ezreal/Malphite/Qiyana/Rengar/Skarner/Twitch,5,5,0.62
+Ezreal/Nasus/Qiyana/Rakan/Rengar/Twitch,5,5,0.56
+Ezreal/Nasus/Qiyana/Rakan/Senna/Twitch,5,5,0.56
+Ezreal/Nasus/Qiyana/Rell/Rengar/Sejuani,5,5,0.62
+Ezreal/Nasus/Qiyana/Rell/Rengar/Twitch,5,5,0.62
+Ezreal/Nasus/Qiyana/Rengar/Twitch/Zac,5,5,0.62
+Ezreal/Nasus/Rakan/Senna/Seraphine/Twitch,5,5,0.5
+Ezreal/Nasus/Rakan/Senna/Twitch/Zeri,5,5,0.56
+Ezreal/Nasus/Rakan/Sett/Twitch/Volibear,5,5,0.62
+Ezreal/Nidalee/Qiyana/Rell/Rengar/Sejuani,5,5,0.62
+Ezreal/Nunu/Olaf/Qiyana/Sejuani/Yone,5,5,0.56
+Ezreal/Nunu/Olaf/Rell/Twitch/Yone,5,5,0.56
+Ezreal/Nunu/Olaf/Sejuani/Skarner/Yone,5,5,0.56
+Ezreal/Nunu/Olaf/Sejuani/Sylas/Yone,5,5,0.5
+Ezreal/Nunu/Olaf/Sejuani/Twitch/Yone,5,6,0.62
+Ezreal/Nunu/Olaf/Sejuani/Varus/Yone,5,5,0.56
+Ezreal/Nunu/Olaf/Skarner/Twitch/Yone,5,5,0.56
+Ezreal/Nunu/Qiyana/Rell/Rengar/Sejuani,5,6,0.71
+Ezreal/Nunu/Qiyana/Rell/Rengar/Twitch,6,6,0.86
+Ezreal/Nunu/Qiyana/Rell/Rengar/Varus,5,5,0.71
+Ezreal/Nunu/Qiyana/Rell/Rengar/Yone,5,5,0.71
+Ezreal/Nunu/Qiyana/Rell/Twitch/Yone,5,5,0.62
+Ezreal/Nunu/Qiyana/Rengar/Sejuani/Twitch,5,6,0.71
+Ezreal/Nunu/Qiyana/Rengar/Sejuani/Varus,5,5,0.62
+Ezreal/Nunu/Qiyana/Rengar/Sejuani/Yone,5,5,0.62
+Ezreal/Nunu/Qiyana/Sejuani/Twitch/Yone,5,6,0.71
+Ezreal/Nunu/Qiyana/Sejuani/Varus/Yone,5,5,0.62
+Ezreal/Nunu/Qiyana/Sejuani/Wukong/Yone,5,5,0.62
+Ezreal/Nunu/Rell/Rengar/Twitch/Yone,5,5,0.62
+Ezreal/Nunu/Rell/Twitch/Wukong/Yone,5,5,0.62
+Ezreal/Nunu/Sejuani/Twitch/Wukong/Yone,5,6,0.71
+Ezreal/Nunu/Sejuani/Varus/Wukong/Yone,5,5,0.62
+Ezreal/Olaf/Qiyana/Rell/Rengar/Sejuani,5,5,0.56
+Ezreal/Qiyana/Rakan/Rell/Rengar/Sejuani,5,5,0.56
+Ezreal/Qiyana/Rakan/Rell/Rengar/Twitch,5,5,0.56
+Ezreal/Qiyana/Rakan/Rengar/Twitch/Zac,5,5,0.56
+Ezreal/Qiyana/Rakan/Senna/Twitch/Zac,5,5,0.56
+Ezreal/Qiyana/Rell/Rengar/Sejuani/Senna,5,5,0.62
+Ezreal/Qiyana/Rell/Rengar/Sejuani/Seraphine,5,5,0.56
+Ezreal/Qiyana/Rell/Rengar/Sejuani/Sett,5,5,0.62
+Ezreal/Qiyana/Rell/Rengar/Sejuani/Skarner,5,5,0.62
+Ezreal/Qiyana/Rell/Rengar/Sejuani/Sylas,5,5,0.56
+Ezreal/Qiyana/Rell/Rengar/Sejuani/Taliyah,5,5,0.62
+Ezreal/Qiyana/Rell/Rengar/Sejuani/Twitch,6,7,1.0
+Ezreal/Qiyana/Rell/Rengar/Sejuani/Varus,6,6,0.86
+Ezreal/Qiyana/Rell/Rengar/Sejuani/Vladimir,5,5,0.62
+Ezreal/Qiyana/Rell/Rengar/Sejuani/Volibear,5,5,0.62
+Ezreal/Qiyana/Rell/Rengar/Sejuani/Wukong,5,5,0.62
+Ezreal/Qiyana/Rell/Rengar/Sejuani/Yone,5,5,0.62
+Ezreal/Qiyana/Rell/Rengar/Sejuani/Zac,5,5,0.62
+Ezreal/Qiyana/Rell/Rengar/Sejuani/Zeri,5,5,0.62
+Ezreal/Qiyana/Rell/Rengar/Sejuani/Zyra,5,5,0.62
+Ezreal/Qiyana/Rell/Rengar/Skarner/Twitch,5,5,0.62
+Ezreal/Qiyana/Rell/Rengar/Twitch/Vladimir,5,5,0.62
+Ezreal/Qiyana/Rell/Rengar/Twitch/Zac,5,5,0.62
+Ezreal/Rakan/Senna/Seraphine/Twitch/Zac,5,5,0.56
+Ezreal/Rakan/Senna/Seraphine/Zac/Zeri,5,5,0.62
+Ezreal/Rakan/Senna/Twitch/Zac/Zeri,5,5,0.62
+Ezreal/Rakan/Seraphine/Taliyah/Twitch/Zac,5,5,0.56
+Ezreal/Rakan/Seraphine/Twitch/Zac/Zeri,5,5,0.56
+Ezreal/Rakan/Sett/Twitch/Volibear/Zac,5,5,0.56
+Gnar/Jax/Karma/Lillia/Olaf/Sejuani,5,5,0.5
+Gnar/Jax/Lillia/Nidalee/Olaf/Sejuani,5,5,0.5
+Gnar/Jax/Lillia/Nunu/Olaf/Wukong,5,5,0.56
+Gnar/Jax/Lillia/Nunu/Olaf/Yone,5,5,0.56
+Gnar/Jax/Lillia/Olaf/Rell/Wukong,5,5,0.56
+Gnar/Jax/Lillia/Olaf/Sejuani/Wukong,6,6,0.67
+Gnar/Jax/Lillia/Olaf/Sejuani/Yone,5,5,0.5
+Gnar/Jax/Nidalee/Olaf/Sejuani/Wukong,5,5,0.56
+Gnar/Jax/Nidalee/Skarner/Twitch/Varus,5,5,0.71
+Gnar/Jax/Nunu/Olaf/Sejuani/Wukong,5,5,0.56
+Gnar/Jax/Nunu/Olaf/Sejuani/Yone,5,5,0.56
+Gnar/Jax/Nunu/Sejuani/Wukong/Yone,5,5,0.62
+Gnar/Jax/Olaf/Rell/Sejuani/Wukong,5,5,0.56
+Gnar/Kai'sa/Rakan/Seraphine/Sett/Zac,5,5,0.62
+Gnar/Karma/Nunu/Sejuani/Wukong/Yone,5,5,0.71
+Gnar/Lee Sin/Qiyana/Rell/Rengar/Sejuani,5,5,0.62
+Gnar/Leona/Lillia/Olaf/Sejuani/Yone,5,5,0.5
+Gnar/Leona/Nasus/Nidalee/Nunu/Sejuani,5,5,0.62
+Gnar/Leona/Nidalee/Nunu/Rakan/Sejuani,5,5,0.56
+Gnar/Leona/Nidalee/Nunu/Sejuani/Zac,5,5,0.62
+Gnar/Leona/Nunu/Rakan/Sejuani/Senna,5,5,0.56
+Gnar/Lillia/Lux/Nidalee/Sejuani/Vladimir,5,5,0.71
+Gnar/Lillia/Malphite/Nidalee/Olaf/Sejuani,5,5,0.5
+Gnar/Lillia/Malphite/Nunu/Olaf/Yone,5,5,0.56
+Gnar/Lillia/Malphite/Olaf/Sejuani/Wukong,5,5,0.56
+Gnar/Lillia/Malphite/Olaf/Sejuani/Yone,5,5,0.5
+Gnar/Lillia/Nidalee/Olaf/Sejuani/Skarner,5,5,0.56
+Gnar/Lillia/Nunu/Olaf/Sejuani/Yone,5,6,0.56
+Gnar/Lillia/Nunu/Olaf/Skarner/Yone,5,5,0.56
+Gnar/Lillia/Olaf/Sejuani/Skarner/Wukong,5,5,0.56
+Gnar/Lillia/Olaf/Sejuani/Skarner/Yone,5,5,0.5
+Gnar/Lillia/Olaf/Sejuani/Sylas/Vladimir,5,5,0.5
+Gnar/Malphite/Nidalee/Skarner/Twitch/Varus,5,5,0.71
+Gnar/Malphite/Nunu/Olaf/Sejuani/Yone,5,5,0.56
+Gnar/Nidalee/Nunu/Olaf/Sejuani/Yone,5,5,0.56
+Gnar/Nidalee/Nunu/Sejuani/Wukong/Yone,5,5,0.71
+Gnar/Nidalee/Qiyana/Rell/Rengar/Sejuani,5,5,0.62
+Gnar/Nunu/Olaf/Sejuani/Skarner/Yone,5,5,0.56
+Gnar/Nunu/Olaf/Sejuani/Sylas/Yone,5,5,0.5
+Gnar/Rakan/Senna/Seraphine/Zac/Zeri,5,5,0.62
+Jax/Kai'sa/Karma/Lillia/Olaf/Sejuani,5,5,0.5
+Jax/Kai'sa/Karma/Olaf/Sejuani/Wukong,5,5,0.56
+Jax/Kai'sa/Lee Sin/Lillia/Olaf/Sejuani,5,5,0.45
+Jax/Kai'sa/Lillia/Nunu/Olaf/Yone,5,5,0.5
+Jax/Kai'sa/Lillia/Olaf/Sejuani/Sett,5,5,0.45
+Jax/Kai'sa/Lillia/Olaf/Sejuani/Volibear,5,5,0.5
+Jax/Kai'sa/Lillia/Olaf/Sejuani/Wukong,5,5,0.5
+Jax/Kai'sa/Lillia/Olaf/Sejuani/Yone,5,5,0.45
+Jax/Kai'sa/Malphite/Nasus/Volibear/Zac,5,5,0.83
+Jax/Kai'sa/Malphite/Senna/Sett/Zeri,5,5,0.71
+Jax/Kai'sa/Nunu/Olaf/Sejuani/Yone,5,5,0.5
+Jax/Karma/Lee Sin/Lillia/Olaf/Sejuani,5,5,0.5
+Jax/Karma/Lee Sin/Olaf/Sejuani/Wukong,5,5,0.56
+Jax/Karma/Lillia/Nunu/Olaf/Wukong,5,5,0.56
+Jax/Karma/Lillia/Nunu/Olaf/Yone,5,5,0.56
+Jax/Karma/Lillia/Olaf/Rell/Wukong,5,5,0.56
+Jax/Karma/Lillia/Olaf/Sejuani/Sett,5,5,0.5
+Jax/Karma/Lillia/Olaf/Sejuani/Volibear,5,5,0.56
+Jax/Karma/Lillia/Olaf/Sejuani/Wukong,6,6,0.67
+Jax/Karma/Lillia/Olaf/Sejuani/Yone,5,5,0.5
+Jax/Karma/Nasus/Olaf/Volibear/Wukong,5,5,0.71
+Jax/Karma/Nunu/Olaf/Sejuani/Wukong,5,5,0.56
+Jax/Karma/Nunu/Olaf/Sejuani/Yone,5,5,0.56
+Jax/Karma/Nunu/Sejuani/Wukong/Yone,5,5,0.62
+Jax/Karma/Olaf/Rakan/Sett/Wukong,5,5,0.56
+Jax/Karma/Olaf/Rell/Sejuani/Wukong,5,5,0.56
+Jax/Karma/Olaf/Sejuani/Sett/Wukong,5,5,0.56
+Jax/Karma/Olaf/Sejuani/Volibear/Wukong,5,5,0.62
+Jax/Lee Sin/Lillia/Nunu/Olaf/Yone,5,5,0.5
+Jax/Lee Sin/Lillia/Olaf/Qiyana/Sejuani,5,5,0.45
+Jax/Lee Sin/Lillia/Olaf/Sejuani/Sett,5,5,0.45
+Jax/Lee Sin/Lillia/Olaf/Sejuani/Volibear,5,5,0.5
+Jax/Lee Sin/Lillia/Olaf/Sejuani/Wukong,5,5,0.5
+Jax/Lee Sin/Lillia/Olaf/Sejuani/Yone,5,5,0.45
+Jax/Lee Sin/Nunu/Olaf/Sejuani/Yone,5,5,0.5
+Jax/Lee Sin/Qiyana/Rell/Rengar/Sejuani,5,5,0.56
+Jax/Leona/Lillia/Nasus/Nunu/Olaf,5,5,0.56
+Jax/Leona/Lillia/Nasus/Olaf/Sejuani,5,5,0.5
+Jax/Leona/Lillia/Nasus/Olaf/Yone,5,5,0.56
+Jax/Leona/Lillia/Nunu/Olaf/Rakan,5,5,0.45
+Jax/Leona/Lillia/Nunu/Olaf/Sejuani,5,6,0.5
+Jax/Leona/Lillia/Nunu/Olaf/Twitch,5,5,0.45
+Jax/Leona/Lillia/Nunu/Olaf/Wukong,5,5,0.56
+Jax/Leona/Lillia/Nunu/Olaf/Yone,5,5,0.56
+Jax/Leona/Lillia/Nunu/Olaf/Zac,5,5,0.5
+Jax/Leona/Lillia/Olaf/Rakan/Sejuani,5,5,0.42
+Jax/Leona/Lillia/Olaf/Rakan/Yone,5,5,0.45
+Jax/Leona/Lillia/Olaf/Rell/Yone,5,5,0.5
+Jax/Leona/Lillia/Olaf/Sejuani/Wukong,5,5,0.5
+Jax/Leona/Lillia/Olaf/Sejuani/Yone,6,6,0.6
+Jax/Leona/Lillia/Olaf/Sejuani/Zac,5,5,0.45
+Jax/Leona/Lillia/Olaf/Twitch/Yone,5,5,0.45
+Jax/Leona/Lillia/Olaf/Yone/Zac,5,5,0.5
+Jax/Leona/Nasus/Olaf/Sejuani/Yone,5,5,0.56
+Jax/Leona/Nasus/Olaf/Twitch/Yone,5,5,0.56
+Jax/Leona/Nasus/Olaf/Volibear/Yone,5,5,0.62
+Jax/Leona/Nunu/Olaf/Sejuani/Yone,5,5,0.56
+Jax/Leona/Olaf/Rakan/Sejuani/Yone,5,5,0.45
+Jax/Leona/Olaf/Rakan/Senna/Yone,5,5,0.5
+Jax/Leona/Olaf/Rakan/Seraphine/Yone,5,5,0.45
+Jax/Leona/Olaf/Rakan/Sett/Yone,5,5,0.5
+Jax/Leona/Olaf/Rakan/Twitch/Yone,5,5,0.45
+Jax/Leona/Olaf/Rell/Sejuani/Yone,5,5,0.5
+Jax/Leona/Olaf/Sejuani/Yone/Zac,5,5,0.5
+Jax/Leona/Olaf/Twitch/Varus/Yone,5,5,0.5
+Jax/Leona/Olaf/Twitch/Yone/Zac,5,5,0.5
+Jax/Lillia/Lux/Nunu/Olaf/Yone,5,5,0.56
+Jax/Lillia/Lux/Olaf/Sejuani/Sylas,5,5,0.5
+Jax/Lillia/Lux/Olaf/Sejuani/Taliyah,5,5,0.5
+Jax/Lillia/Lux/Olaf/Sejuani/Vladimir,5,5,0.56
+Jax/Lillia/Lux/Olaf/Sejuani/Wukong,5,5,0.56
+Jax/Lillia/Lux/Olaf/Sejuani/Yone,5,5,0.5
+Jax/Lillia/Lux/Sejuani/Skarner/Vladimir,5,5,0.62
+Jax/Lillia/Lux/Sejuani/Sylas/Zyra,5,5,0.5
+Jax/Lillia/Malphite/Nunu/Olaf/Yone,5,5,0.56
+Jax/Lillia/Malphite/Olaf/Sejuani/Wukong,5,5,0.56
+Jax/Lillia/Malphite/Olaf/Sejuani/Yone,5,5,0.5
+Jax/Lillia/Nasus/Nunu/Olaf/Yone,5,5,0.56
+Jax/Lillia/Nasus/Olaf/Rakan/Sejuani,5,5,0.45
+Jax/Lillia/Nasus/Olaf/Sejuani/Volibear,5,5,0.5
+Jax/Lillia/Nasus/Olaf/Sejuani/Wukong,5,5,0.56
+Jax/Lillia/Nasus/Olaf/Sejuani/Yone,5,5,0.5
+Jax/Lillia/Nasus/Olaf/Sejuani/Zac,5,5,0.5
+Jax/Lillia/Nidalee/Nunu/Olaf/Yone,5,5,0.5
+Jax/Lillia/Nidalee/Olaf/Sejuani/Wukong,5,5,0.5
+Jax/Lillia/Nidalee/Olaf/Sejuani/Yone,5,5,0.45
+Jax/Lillia/Nunu/Olaf/Qiyana/Yone,5,5,0.5
+Jax/Lillia/Nunu/Olaf/Rakan/Yone,5,5,0.45
+Jax/Lillia/Nunu/Olaf/Rell/Yone,5,6,0.56
+Jax/Lillia/Nunu/Olaf/Rengar/Yone,5,5,0.5
+Jax/Lillia/Nunu/Olaf/Sejuani/Wukong,5,6,0.56
+Jax/Lillia/Nunu/Olaf/Sejuani/Yone,6,7,0.67
+Jax/Lillia/Nunu/Olaf/Senna/Yone,5,5,0.5
+Jax/Lillia/Nunu/Olaf/Seraphine/Yone,5,5,0.45
+Jax/Lillia/Nunu/Olaf/Sett/Yone,5,5,0.5
+Jax/Lillia/Nunu/Olaf/Skarner/Yone,5,5,0.56
+Jax/Lillia/Nunu/Olaf/Sylas/Yone,5,5,0.56
+Jax/Lillia/Nunu/Olaf/Taliyah/Yone,5,5,0.56
+Jax/Lillia/Nunu/Olaf/Twitch/Varus,5,5,0.45
+Jax/Lillia/Nunu/Olaf/Twitch/Wukong,5,5,0.5
+Jax/Lillia/Nunu/Olaf/Twitch/Yone,6,6,0.6
+Jax/Lillia/Nunu/Olaf/Varus/Yone,5,5,0.5
+Jax/Lillia/Nunu/Olaf/Vladimir/Yone,5,5,0.56
+Jax/Lillia/Nunu/Olaf/Volibear/Yone,5,5,0.56
+Jax/Lillia/Nunu/Olaf/Wukong/Yone,5,5,0.62
+Jax/Lillia/Nunu/Olaf/Yone/Zac,5,5,0.5
+Jax/Lillia/Nunu/Olaf/Yone/Zeri,5,5,0.5
+Jax/Lillia/Nunu/Olaf/Yone/Zyra,5,5,0.5
+Jax/Lillia/Olaf/Qiyana/Rell/Rengar,5,5,0.5
+Jax/Lillia/Olaf/Qiyana/Rengar/Sejuani,5,5,0.45
+Jax/Lillia/Olaf/Qiyana/Sejuani/Wukong,5,5,0.5
+Jax/Lillia/Olaf/Qiyana/Sejuani/Yone,5,5,0.45
+Jax/Lillia/Olaf/Rakan/Sejuani/Senna,5,5,0.42
+Jax/Lillia/Olaf/Rakan/Sejuani/Seraphine,5,5,0.38
+Jax/Lillia/Olaf/Rakan/Sejuani/Sett,5,5,0.42
+Jax/Lillia/Olaf/Rakan/Sejuani/Wukong,5,5,0.45
+Jax/Lillia/Olaf/Rakan/Sejuani/Yone,5,5,0.42
+Jax/Lillia/Olaf/Rakan/Sejuani/Zac,5,5,0.42
+Jax/Lillia/Olaf/Rell/Rengar/Sejuani,5,6,0.5
+Jax/Lillia/Olaf/Rell/Rengar/Twitch,5,5,0.45
+Jax/Lillia/Olaf/Rell/Rengar/Wukong,5,5,0.56
+Jax/Lillia/Olaf/Rell/Rengar/Yone,5,5,0.5
+Jax/Lillia/Olaf/Rell/Sejuani/Wukong,5,6,0.56
+Jax/Lillia/Olaf/Rell/Sejuani/Yone,5,6,0.5
+Jax/Lillia/Olaf/Rell/Twitch/Varus,5,5,0.45
+Jax/Lillia/Olaf/Rell/Twitch/Wukong,5,5,0.5
+Jax/Lillia/Olaf/Rell/Twitch/Yone,5,5,0.45
+Jax/Lillia/Olaf/Rengar/Sejuani/Wukong,5,5,0.5
+Jax/Lillia/Olaf/Rengar/Sejuani/Yone,5,5,0.45
+Jax/Lillia/Olaf/Sejuani/Senna/Sett,5,5,0.45
+Jax/Lillia/Olaf/Sejuani/Senna/Wukong,5,5,0.5
+Jax/Lillia/Olaf/Sejuani/Senna/Yone,5,5,0.45
+Jax/Lillia/Olaf/Sejuani/Senna/Zeri,5,5,0.45
+Jax/Lillia/Olaf/Sejuani/Seraphine/Wukong,5,5,0.45
+Jax/Lillia/Olaf/Sejuani/Seraphine/Yone,5,5,0.42
+Jax/Lillia/Olaf/Sejuani/Seraphine/Zyra,5,5,0.42
+Jax/Lillia/Olaf/Sejuani/Sett/Volibear,5,5,0.5
+Jax/Lillia/Olaf/Sejuani/Sett/Wukong,5,5,0.5
+Jax/Lillia/Olaf/Sejuani/Sett/Yone,5,5,0.45
+Jax/Lillia/Olaf/Sejuani/Skarner/Wukong,5,5,0.56
+Jax/Lillia/Olaf/Sejuani/Skarner/Yone,5,5,0.5
+Jax/Lillia/Olaf/Sejuani/Sylas/Taliyah,5,5,0.5
+Jax/Lillia/Olaf/Sejuani/Sylas/Vladimir,5,5,0.5
+Jax/Lillia/Olaf/Sejuani/Sylas/Wukong,5,5,0.56
+Jax/Lillia/Olaf/Sejuani/Sylas/Yone,5,5,0.5
+Jax/Lillia/Olaf/Sejuani/Sylas/Zyra,5,5,0.5
+Jax/Lillia/Olaf/Sejuani/Taliyah/Vladimir,5,5,0.5
+Jax/Lillia/Olaf/Sejuani/Taliyah/Wukong,5,5,0.56
+Jax/Lillia/Olaf/Sejuani/Taliyah/Yone,5,5,0.5
+Jax/Lillia/Olaf/Sejuani/Twitch/Varus,5,6,0.5
+Jax/Lillia/Olaf/Sejuani/Twitch/Wukong,5,6,0.56
+Jax/Lillia/Olaf/Sejuani/Twitch/Yone,5,6,0.5
+Jax/Lillia/Olaf/Sejuani/Varus/Wukong,5,5,0.5
+Jax/Lillia/Olaf/Sejuani/Varus/Yone,5,5,0.45
+Jax/Lillia/Olaf/Sejuani/Vladimir/Wukong,5,5,0.56
+Jax/Lillia/Olaf/Sejuani/Vladimir/Yone,5,5,0.5
+Jax/Lillia/Olaf/Sejuani/Volibear/Wukong,5,5,0.56
+Jax/Lillia/Olaf/Sejuani/Volibear/Yone,5,5,0.5
+Jax/Lillia/Olaf/Sejuani/Wukong/Yone,5,5,0.56
+Jax/Lillia/Olaf/Sejuani/Wukong/Zac,5,5,0.5
+Jax/Lillia/Olaf/Sejuani/Wukong/Zeri,5,5,0.5
+Jax/Lillia/Olaf/Sejuani/Wukong/Zyra,5,5,0.5
+Jax/Lillia/Olaf/Sejuani/Yone/Zac,5,5,0.45
+Jax/Lillia/Olaf/Sejuani/Yone/Zeri,5,5,0.45
+Jax/Lillia/Olaf/Sejuani/Yone/Zyra,5,5,0.45
+Jax/Lillia/Sejuani/Sylas/Taliyah/Zyra,5,5,0.5
+Jax/Lux/Nunu/Olaf/Sejuani/Yone,5,5,0.5
+Jax/Lux/Sylas/Twitch/Varus/Vladimir,5,5,0.62
+Jax/Malphite/Nunu/Olaf/Sejuani/Yone,5,5,0.56
+Jax/Malphite/Rakan/Senna/Seraphine/Zeri,5,5,0.56
+Jax/Malphite/Rakan/Senna/Zac/Zeri,5,5,0.62
+Jax/Nasus/Nunu/Olaf/Sejuani/Yone,5,5,0.56
+Jax/Nasus/Olaf/Rakan/Sett/Volibear,5,5,0.56
+Jax/Nidalee/Nunu/Olaf/Sejuani/Yone,5,5,0.5
+Jax/Nunu/Olaf/Qiyana/Sejuani/Yone,5,5,0.5
+Jax/Nunu/Olaf/Rakan/Sejuani/Yone,5,5,0.45
+Jax/Nunu/Olaf/Rell/Rengar/Yone,5,5,0.56
+Jax/Nunu/Olaf/Rell/Sejuani/Yone,5,6,0.56
+Jax/Nunu/Olaf/Rell/Twitch/Yone,5,5,0.5
+Jax/Nunu/Olaf/Rengar/Sejuani/Yone,5,5,0.5
+Jax/Nunu/Olaf/Sejuani/Senna/Yone,5,5,0.5
+Jax/Nunu/Olaf/Sejuani/Seraphine/Yone,5,5,0.45
+Jax/Nunu/Olaf/Sejuani/Sett/Yone,5,5,0.5
+Jax/Nunu/Olaf/Sejuani/Skarner/Yone,5,5,0.56
+Jax/Nunu/Olaf/Sejuani/Sylas/Yone,5,5,0.5
+Jax/Nunu/Olaf/Sejuani/Taliyah/Yone,5,5,0.5
+Jax/Nunu/Olaf/Sejuani/Twitch/Yone,5,6,0.56
+Jax/Nunu/Olaf/Sejuani/Varus/Yone,5,5,0.5
+Jax/Nunu/Olaf/Sejuani/Vladimir/Yone,5,5,0.5
+Jax/Nunu/Olaf/Sejuani/Volibear/Yone,5,5,0.56
+Jax/Nunu/Olaf/Sejuani/Wukong/Yone,5,5,0.62
+Jax/Nunu/Olaf/Sejuani/Yone/Zac,5,5,0.5
+Jax/Nunu/Olaf/Sejuani/Yone/Zeri,5,5,0.5
+Jax/Nunu/Olaf/Sejuani/Yone/Zyra,5,5,0.5
+Jax/Nunu/Olaf/Twitch/Varus/Yone,5,5,0.5
+Jax/Olaf/Qiyana/Rell/Rengar/Sejuani,5,5,0.5
+Jax/Olaf/Rell/Rengar/Sejuani/Wukong,5,5,0.56
+Jax/Olaf/Rell/Rengar/Sejuani/Yone,5,5,0.5
+Jax/Rakan/Senna/Seraphine/Zac/Zeri,5,5,0.56
+Kai'sa/Karma/Leona/Nasus/Nunu/Sejuani,5,5,0.62
+Kai'sa/Karma/Leona/Nunu/Rakan/Sejuani,5,5,0.56
+Kai'sa/Karma/Leona/Nunu/Sejuani/Zac,5,5,0.71
+Kai'sa/Karma/Lillia/Malphite/Olaf/Sejuani,5,5,0.56
+Kai'sa/Karma/Lillia/Olaf/Sejuani/Skarner,5,5,0.5
+Kai'sa/Karma/Nunu/Olaf/Sejuani/Yone,5,5,0.56
+Kai'sa/Karma/Nunu/Sejuani/Wukong/Yone,5,5,0.71
+Kai'sa/Karma/Qiyana/Rell/Rengar/Sejuani,5,5,0.62
+Kai'sa/Karma/Rakan/Sejuani/Seraphine/Zac,5,5,0.56
+Kai'sa/Karma/Rakan/Senna/Seraphine/Zac,5,5,0.62
+Kai'sa/Karma/Rakan/Senna/Zac/Zeri,5,5,0.71
+Kai'sa/Karma/Rakan/Seraphine/Sett/Zac,5,5,0.71
+Kai'sa/Karma/Rakan/Seraphine/Twitch/Zac,5,5,0.56
+Kai'sa/Karma/Rakan/Seraphine/Zac/Zyra,5,5,0.62
+Kai'sa/Lee Sin/Leona/Nasus/Nunu/Sejuani,5,5,0.62
+Kai'sa/Lee Sin/Leona/Nunu/Qiyana/Sejuani,5,5,0.62
+Kai'sa/Lee Sin/Leona/Nunu/Rakan/Sejuani,5,5,0.56
+Kai'sa/Lee Sin/Leona/Nunu/Sejuani/Zac,5,5,0.71
+Kai'sa/Lee Sin/Lillia/Malphite/Olaf/Sejuani,5,5,0.56
+Kai'sa/Lee Sin/Lillia/Olaf/Sejuani/Skarner,5,5,0.5
+Kai'sa/Lee Sin/Nunu/Olaf/Sejuani/Yone,5,5,0.56
+Kai'sa/Lee Sin/Nunu/Qiyana/Rell/Rengar,5,5,0.71
+Kai'sa/Lee Sin/Nunu/Qiyana/Rengar/Sejuani,5,5,0.62
+Kai'sa/Lee Sin/Nunu/Qiyana/Sejuani/Yone,5,5,0.62
+Kai'sa/Lee Sin/Nunu/Sejuani/Wukong/Yone,5,5,0.62
+Kai'sa/Lee Sin/Qiyana/Rakan/Seraphine/Zac,5,5,0.62
+Kai'sa/Lee Sin/Qiyana/Rell/Rengar/Sejuani,6,6,0.86
+Kai'sa/Lee Sin/Rakan/Sejuani/Seraphine/Zac,5,5,0.56
+Kai'sa/Lee Sin/Rakan/Senna/Seraphine/Zac,5,5,0.62
+Kai'sa/Lee Sin/Rakan/Senna/Zac/Zeri,5,5,0.71
+Kai'sa/Lee Sin/Rakan/Seraphine/Sett/Zac,5,5,0.71
+Kai'sa/Lee Sin/Rakan/Seraphine/Twitch/Zac,5,5,0.56
+Kai'sa/Lee Sin/Rakan/Seraphine/Zac/Zyra,5,5,0.62
+Kai'sa/Leona/Lillia/Nunu/Rakan/Sett,5,5,0.56
+Kai'sa/Leona/Lillia/Olaf/Sejuani/Yone,5,5,0.5
+Kai'sa/Leona/Lillia/Rakan/Sejuani/Sett,5,5,0.5
+Kai'sa/Leona/Malphite/Olaf/Yone/Zac,5,5,0.71
+Kai'sa/Leona/Nasus/Nunu/Sejuani/Volibear,5,5,0.71
+Kai'sa/Leona/Nunu/Rakan/Sejuani/Senna,5,5,0.56
+Kai'sa/Leona/Nunu/Rakan/Sejuani/Volibear,5,5,0.56
+Kai'sa/Leona/Nunu/Sejuani/Senna/Sett,5,5,0.62
+Kai'sa/Leona/Nunu/Sejuani/Taliyah/Zac,5,5,0.71
+Kai'sa/Leona/Nunu/Sejuani/Volibear/Zac,5,5,0.71
+Kai'sa/Leona/Nunu/Sejuani/Zac/Zeri,5,5,0.71
+Kai'sa/Leona/Olaf/Rakan/Sett/Yone,5,5,0.56
+Kai'sa/Leona/Rakan/Sejuani/Sett/Yone,5,5,0.56
+Kai'sa/Leona/Rakan/Senna/Seraphine/Zeri,5,5,0.62
+Kai'sa/Leona/Rakan/Seraphine/Sett/Taliyah,5,5,0.62
+Kai'sa/Leona/Rakan/Seraphine/Sett/Yone,5,5,0.62
+Kai'sa/Leona/Rakan/Seraphine/Sett/Zeri,5,5,0.62
+Kai'sa/Leona/Rakan/Sett/Twitch/Varus,5,5,0.56
+Kai'sa/Leona/Rakan/Sett/Twitch/Yone,5,5,0.56
+Kai'sa/Leona/Rakan/Sett/Wukong/Yone,5,5,0.62
+Kai'sa/Leona/Senna/Sett/Zac/Zeri,5,5,0.83
+Kai'sa/Lillia/Malphite/Nunu/Olaf/Yone,5,5,0.62
+Kai'sa/Lillia/Malphite/Olaf/Sejuani/Seraphine,5,5,0.5
+Kai'sa/Lillia/Malphite/Olaf/Sejuani/Sett,5,5,0.56
+Kai'sa/Lillia/Malphite/Olaf/Sejuani/Taliyah,5,5,0.62
+Kai'sa/Lillia/Malphite/Olaf/Sejuani/Volibear,5,5,0.56
+Kai'sa/Lillia/Malphite/Olaf/Sejuani/Wukong,5,5,0.56
+Kai'sa/Lillia/Malphite/Olaf/Sejuani/Yone,5,5,0.56
+Kai'sa/Lillia/Malphite/Olaf/Sejuani/Zac,5,5,0.56
+Kai'sa/Lillia/Malphite/Olaf/Sejuani/Zeri,5,5,0.56
+Kai'sa/Lillia/Malphite/Sejuani/Sylas/Taliyah,5,5,0.62
+Kai'sa/Lillia/Nasus/Rakan/Sejuani/Sett,5,5,0.5
+Kai'sa/Lillia/Nunu/Olaf/Sejuani/Yone,5,6,0.56
+Kai'sa/Lillia/Nunu/Olaf/Skarner/Yone,5,5,0.56
+Kai'sa/Lillia/Olaf/Rakan/Sejuani/Sett,5,5,0.45
+Kai'sa/Lillia/Olaf/Sejuani/Sett/Skarner,5,5,0.5
+Kai'sa/Lillia/Olaf/Sejuani/Skarner/Volibear,5,5,0.5
+Kai'sa/Lillia/Olaf/Sejuani/Skarner/Wukong,5,5,0.5
+Kai'sa/Lillia/Olaf/Sejuani/Skarner/Yone,5,5,0.5
+Kai'sa/Lillia/Olaf/Sejuani/Sylas/Vladimir,5,5,0.5
+Kai'sa/Lillia/Rakan/Sejuani/Seraphine/Sett,5,5,0.5
+Kai'sa/Lillia/Rakan/Sejuani/Seraphine/Zac,5,5,0.5
+Kai'sa/Lillia/Rakan/Sejuani/Sett/Zac,5,5,0.56
+Kai'sa/Lillia/Rakan/Seraphine/Sett/Zac,5,5,0.56
+Kai'sa/Lux/Rakan/Seraphine/Sett/Zac,5,5,0.62
+Kai'sa/Malphite/Nunu/Olaf/Sejuani/Yone,5,5,0.62
+Kai'sa/Malphite/Olaf/Rakan/Seraphine/Sett,5,5,0.56
+Kai'sa/Malphite/Olaf/Rakan/Sett/Zac,5,5,0.62
+Kai'sa/Malphite/Sejuani/Senna/Sett/Zeri,5,5,0.71
+Kai'sa/Malphite/Senna/Sett/Skarner/Zeri,5,5,0.83
+Kai'sa/Nasus/Rakan/Senna/Seraphine/Zeri,5,5,0.62
+Kai'sa/Nasus/Rakan/Seraphine/Sett/Taliyah,5,5,0.62
+Kai'sa/Nasus/Rakan/Seraphine/Sett/Zeri,5,5,0.62
+Kai'sa/Nasus/Rakan/Sett/Twitch/Varus,5,5,0.56
+Kai'sa/Nasus/Senna/Sett/Zac/Zeri,5,5,0.83
+Kai'sa/Nidalee/Rakan/Seraphine/Sett/Zac,5,5,0.62
+Kai'sa/Nunu/Olaf/Sejuani/Sett/Yone,5,5,0.56
+Kai'sa/Nunu/Olaf/Sejuani/Skarner/Yone,5,5,0.56
+Kai'sa/Nunu/Olaf/Sejuani/Sylas/Yone,5,5,0.5
+Kai'sa/Nunu/Olaf/Sejuani/Volibear/Yone,5,5,0.56
+Kai'sa/Nunu/Rakan/Sejuani/Sett/Yone,5,5,0.56
+Kai'sa/Nunu/Sejuani/Senna/Sett/Yone,5,5,0.62
+Kai'sa/Nunu/Sejuani/Senna/Sett/Zeri,5,5,0.71
+Kai'sa/Nunu/Sejuani/Sett/Wukong/Yone,5,5,0.62
+Kai'sa/Nunu/Sejuani/Volibear/Wukong/Yone,5,5,0.62
+Kai'sa/Olaf/Rakan/Seraphine/Sett/Zac,5,5,0.56
+Kai'sa/Qiyana/Rell/Rengar/Sejuani/Sett,5,5,0.62
+Kai'sa/Qiyana/Rell/Rengar/Sejuani/Volibear,5,5,0.62
+Kai'sa/Rakan/Rell/Rengar/Sejuani/Sett,5,5,0.56
+Kai'sa/Rakan/Rengar/Seraphine/Sett/Zac,5,5,0.62
+Kai'sa/Rakan/Sejuani/Senna/Seraphine/Zac,5,5,0.56
+Kai'sa/Rakan/Sejuani/Senna/Seraphine/Zeri,5,5,0.56
+Kai'sa/Rakan/Sejuani/Senna/Zac/Zeri,5,5,0.62
+Kai'sa/Rakan/Sejuani/Seraphine/Sett/Taliyah,5,5,0.56
+Kai'sa/Rakan/Sejuani/Seraphine/Sett/Zeri,5,5,0.56
+Kai'sa/Rakan/Sejuani/Seraphine/Volibear/Zac,5,5,0.56
+Kai'sa/Rakan/Sejuani/Sett/Taliyah/Zac,5,5,0.62
+Kai'sa/Rakan/Sejuani/Sett/Zac/Zeri,5,5,0.62
+Kai'sa/Rakan/Senna/Seraphine/Sett/Zac,5,5,0.71
+Kai'sa/Rakan/Senna/Seraphine/Twitch/Zac,5,5,0.56
+Kai'sa/Rakan/Senna/Seraphine/Volibear/Zac,5,5,0.62
+Kai'sa/Rakan/Senna/Seraphine/Zac/Zeri,5,5,0.71
+Kai'sa/Rakan/Senna/Seraphine/Zac/Zyra,5,5,0.62
+Kai'sa/Rakan/Senna/Sett/Zac/Zeri,5,5,0.83
+Kai'sa/Rakan/Senna/Twitch/Zac/Zeri,5,5,0.62
+Kai'sa/Rakan/Senna/Volibear/Zac/Zeri,5,5,0.71
+Kai'sa/Rakan/Seraphine/Sett/Taliyah/Zac,5,5,0.71
+Kai'sa/Rakan/Seraphine/Sett/Varus/Zac,5,5,0.62
+Kai'sa/Rakan/Seraphine/Sett/Volibear/Zac,5,5,0.71
+Kai'sa/Rakan/Seraphine/Sett/Yone/Zac,5,5,0.62
+Kai'sa/Rakan/Seraphine/Sett/Zac/Zeri,5,5,0.71
+Kai'sa/Rakan/Seraphine/Twitch/Varus/Zac,5,5,0.56
+Kai'sa/Rakan/Seraphine/Twitch/Volibear/Zac,5,5,0.56
+Kai'sa/Rakan/Seraphine/Volibear/Zac/Zyra,5,5,0.62
+Kai'sa/Rakan/Sett/Taliyah/Twitch/Zac,5,5,0.62
+Kai'sa/Rakan/Sett/Twitch/Varus/Zac,5,5,0.62
+Kai'sa/Rakan/Sett/Twitch/Zac/Zeri,5,5,0.62
+Kai'sa/Rell/Rengar/Sejuani/Senna/Sett,5,5,0.62
+Kai'sa/Rell/Sejuani/Senna/Sett/Zeri,5,5,0.71
+Kai'sa/Sejuani/Senna/Sett/Zac/Zeri,5,5,0.71
+Karma/Lee Sin/Leona/Nasus/Nunu/Sejuani,5,5,0.62
+Karma/Lee Sin/Leona/Nunu/Qiyana/Sejuani,5,5,0.62
+Karma/Lee Sin/Leona/Nunu/Rakan/Sejuani,5,5,0.56
+Karma/Lee Sin/Leona/Nunu/Sejuani/Zac,5,5,0.62
+Karma/Lee Sin/Lillia/Malphite/Olaf/Sejuani,5,5,0.5
+Karma/Lee Sin/Lillia/Olaf/Sejuani/Skarner,5,5,0.5
+Karma/Lee Sin/Nunu/Olaf/Sejuani/Yone,5,5,0.56
+Karma/Lee Sin/Nunu/Qiyana/Rell/Rengar,5,5,0.71
+Karma/Lee Sin/Nunu/Qiyana/Rengar/Sejuani,5,5,0.62
+Karma/Lee Sin/Nunu/Qiyana/Sejuani/Yone,5,5,0.62
+Karma/Lee Sin/Nunu/Sejuani/Wukong/Yone,5,5,0.71
+Karma/Lee Sin/Qiyana/Rell/Rengar/Sejuani,6,6,0.86
+Karma/Leona/Lillia/Nunu/Rakan/Sett,5,5,0.56
+Karma/Leona/Lillia/Olaf/Sejuani/Yone,5,5,0.5
+Karma/Leona/Lillia/Rakan/Sejuani/Sett,5,5,0.5
+Karma/Leona/Nasus/Nunu/Sejuani/Volibear,5,5,0.71
+Karma/Leona/Nunu/Rakan/Sejuani/Senna,5,5,0.56
+Karma/Leona/Nunu/Rakan/Sejuani/Volibear,5,5,0.56
+Karma/Leona/Nunu/Sejuani/Senna/Sett,5,5,0.62
+Karma/Leona/Nunu/Sejuani/Volibear/Zac,5,5,0.62
+Karma/Leona/Olaf/Rakan/Sett/Yone,5,5,0.56
+Karma/Leona/Rakan/Sejuani/Sett/Yone,5,5,0.56
+Karma/Leona/Rakan/Seraphine/Sett/Yone,5,5,0.56
+Karma/Leona/Rakan/Sett/Twitch/Varus,5,5,0.56
+Karma/Leona/Rakan/Sett/Twitch/Yone,5,5,0.56
+Karma/Leona/Rakan/Sett/Wukong/Yone,5,5,0.71
+Karma/Lillia/Malphite/Nunu/Olaf/Yone,5,5,0.56
+Karma/Lillia/Malphite/Olaf/Sejuani/Sett,5,5,0.5
+Karma/Lillia/Malphite/Olaf/Sejuani/Volibear,5,5,0.5
+Karma/Lillia/Malphite/Olaf/Sejuani/Wukong,5,5,0.56
+Karma/Lillia/Malphite/Olaf/Sejuani/Yone,5,5,0.5
+Karma/Lillia/Nasus/Rakan/Sejuani/Sett,5,5,0.5
+Karma/Lillia/Nunu/Olaf/Sejuani/Yone,5,6,0.56
+Karma/Lillia/Nunu/Olaf/Skarner/Yone,5,5,0.56
+Karma/Lillia/Olaf/Rakan/Sejuani/Sett,5,5,0.45
+Karma/Lillia/Olaf/Sejuani/Sett/Skarner,5,5,0.5
+Karma/Lillia/Olaf/Sejuani/Skarner/Volibear,5,5,0.5
+Karma/Lillia/Olaf/Sejuani/Skarner/Wukong,5,5,0.56
+Karma/Lillia/Olaf/Sejuani/Skarner/Yone,5,5,0.5
+Karma/Lillia/Olaf/Sejuani/Sylas/Vladimir,5,5,0.5
+Karma/Lillia/Rakan/Sejuani/Seraphine/Sett,5,5,0.45
+Karma/Lillia/Rakan/Sejuani/Sett/Zac,5,5,0.5
+Karma/Malphite/Nunu/Olaf/Sejuani/Yone,5,5,0.56
+Karma/Nasus/Rakan/Sett/Twitch/Varus,5,5,0.56
+Karma/Nunu/Olaf/Sejuani/Sett/Yone,5,5,0.56
+Karma/Nunu/Olaf/Sejuani/Skarner/Yone,5,5,0.56
+Karma/Nunu/Olaf/Sejuani/Sylas/Yone,5,5,0.5
+Karma/Nunu/Olaf/Sejuani/Volibear/Yone,5,5,0.56
+Karma/Nunu/Rakan/Sejuani/Sett/Yone,5,5,0.56
+Karma/Nunu/Sejuani/Senna/Sett/Yone,5,5,0.62
+Karma/Nunu/Sejuani/Senna/Sett/Zeri,5,5,0.62
+Karma/Nunu/Sejuani/Sett/Wukong/Yone,5,5,0.71
+Karma/Nunu/Sejuani/Volibear/Wukong/Yone,5,5,0.71
+Karma/Qiyana/Rell/Rengar/Sejuani/Sett,5,5,0.62
+Karma/Qiyana/Rell/Rengar/Sejuani/Volibear,5,5,0.62
+Karma/Rakan/Rell/Rengar/Sejuani/Sett,5,5,0.56
+Karma/Rakan/Senna/Seraphine/Zac/Zeri,5,5,0.62
+Karma/Rakan/Seraphine/Sett/Taliyah/Zac,5,5,0.62
+Karma/Rakan/Seraphine/Sett/Zac/Zeri,5,5,0.62
+Karma/Rakan/Sett/Twitch/Varus/Zac,5,5,0.56
+Karma/Rell/Rengar/Sejuani/Senna/Sett,5,5,0.62
+Karma/Rell/Sejuani/Senna/Sett/Zeri,5,5,0.62
+Lee Sin/Leona/Lillia/Nunu/Rakan/Sett,5,5,0.56
+Lee Sin/Leona/Lillia/Olaf/Sejuani/Yone,5,5,0.5
+Lee Sin/Leona/Lillia/Rakan/Sejuani/Sett,5,5,0.5
+Lee Sin/Leona/Nasus/Nunu/Sejuani/Volibear,5,5,0.71
+Lee Sin/Leona/Nunu/Qiyana/Rell/Rengar,5,5,0.71
+Lee Sin/Leona/Nunu/Qiyana/Rengar/Sejuani,5,5,0.62
+Lee Sin/Leona/Nunu/Qiyana/Sejuani/Volibear,5,5,0.62
+Lee Sin/Leona/Nunu/Rakan/Sejuani/Senna,5,5,0.56
+Lee Sin/Leona/Nunu/Rakan/Sejuani/Volibear,5,5,0.56
+Lee Sin/Leona/Nunu/Sejuani/Senna/Sett,5,5,0.62
+Lee Sin/Leona/Nunu/Sejuani/Volibear/Zac,5,5,0.62
+Lee Sin/Leona/Olaf/Rakan/Sett/Yone,5,5,0.56
+Lee Sin/Leona/Qiyana/Rakan/Rengar/Sett,5,5,0.62
+Lee Sin/Leona/Qiyana/Rakan/Sett/Yone,5,5,0.62
+Lee Sin/Leona/Qiyana/Rell/Rengar/Sejuani,5,5,0.62
+Lee Sin/Leona/Rakan/Sejuani/Sett/Yone,5,5,0.56
+Lee Sin/Leona/Rakan/Seraphine/Sett/Yone,5,5,0.56
+Lee Sin/Leona/Rakan/Sett/Twitch/Varus,5,5,0.56
+Lee Sin/Leona/Rakan/Sett/Twitch/Yone,5,5,0.56
+Lee Sin/Leona/Rakan/Sett/Wukong/Yone,5,5,0.62
+Lee Sin/Lillia/Malphite/Nunu/Olaf/Yone,5,5,0.56
+Lee Sin/Lillia/Malphite/Olaf/Qiyana/Sejuani,5,5,0.5
+Lee Sin/Lillia/Malphite/Olaf/Sejuani/Sett,5,5,0.5
+Lee Sin/Lillia/Malphite/Olaf/Sejuani/Volibear,5,5,0.5
+Lee Sin/Lillia/Malphite/Olaf/Sejuani/Wukong,5,5,0.5
+Lee Sin/Lillia/Malphite/Olaf/Sejuani/Yone,5,5,0.5
+Lee Sin/Lillia/Nasus/Rakan/Sejuani/Sett,5,5,0.5
+Lee Sin/Lillia/Nunu/Olaf/Sejuani/Yone,5,6,0.56
+Lee Sin/Lillia/Nunu/Olaf/Skarner/Yone,5,5,0.56
+Lee Sin/Lillia/Olaf/Qiyana/Sejuani/Skarner,5,5,0.5
+Lee Sin/Lillia/Olaf/Rakan/Sejuani/Sett,5,5,0.45
+Lee Sin/Lillia/Olaf/Sejuani/Sett/Skarner,5,5,0.5
+Lee Sin/Lillia/Olaf/Sejuani/Skarner/Volibear,5,5,0.5
+Lee Sin/Lillia/Olaf/Sejuani/Skarner/Wukong,5,5,0.5
+Lee Sin/Lillia/Olaf/Sejuani/Skarner/Yone,5,5,0.5
+Lee Sin/Lillia/Olaf/Sejuani/Sylas/Vladimir,5,5,0.5
+Lee Sin/Lillia/Qiyana/Rakan/Sejuani/Sett,5,5,0.5
+Lee Sin/Lillia/Qiyana/Rell/Rengar/Sejuani,5,6,0.62
+Lee Sin/Lillia/Rakan/Sejuani/Seraphine/Sett,5,5,0.45
+Lee Sin/Lillia/Rakan/Sejuani/Sett/Zac,5,5,0.5
+Lee Sin/Lux/Qiyana/Rell/Rengar/Sejuani,5,5,0.62
+Lee Sin/Malphite/Nunu/Olaf/Sejuani/Yone,5,5,0.56
+Lee Sin/Malphite/Qiyana/Rell/Rengar/Sejuani,5,5,0.62
+Lee Sin/Nasus/Qiyana/Rakan/Rengar/Sett,5,5,0.62
+Lee Sin/Nasus/Qiyana/Rell/Rengar/Sejuani,5,5,0.62
+Lee Sin/Nasus/Rakan/Sett/Twitch/Varus,5,5,0.56
+Lee Sin/Nidalee/Qiyana/Rell/Rengar/Sejuani,5,5,0.62
+Lee Sin/Nunu/Olaf/Qiyana/Sejuani/Yone,5,5,0.56
+Lee Sin/Nunu/Olaf/Sejuani/Sett/Yone,5,5,0.56
+Lee Sin/Nunu/Olaf/Sejuani/Skarner/Yone,5,5,0.56
+Lee Sin/Nunu/Olaf/Sejuani/Sylas/Yone,5,5,0.5
+Lee Sin/Nunu/Olaf/Sejuani/Volibear/Yone,5,5,0.56
+Lee Sin/Nunu/Qiyana/Rell/Rengar/Sejuani,5,6,0.71
+Lee Sin/Nunu/Qiyana/Rell/Rengar/Sett,5,5,0.71
+Lee Sin/Nunu/Qiyana/Rell/Rengar/Twitch,5,5,0.62
+Lee Sin/Nunu/Qiyana/Rell/Rengar/Volibear,5,5,0.71
+Lee Sin/Nunu/Qiyana/Rell/Rengar/Yone,5,5,0.71
+Lee Sin/Nunu/Qiyana/Rengar/Sejuani/Sett,5,5,0.62
+Lee Sin/Nunu/Qiyana/Rengar/Sejuani/Volibear,5,5,0.62
+Lee Sin/Nunu/Qiyana/Rengar/Sejuani/Yone,5,5,0.62
+Lee Sin/Nunu/Qiyana/Sejuani/Senna/Sett,5,5,0.62
+Lee Sin/Nunu/Qiyana/Sejuani/Sett/Yone,5,5,0.62
+Lee Sin/Nunu/Qiyana/Sejuani/Volibear/Yone,5,5,0.62
+Lee Sin/Nunu/Qiyana/Sejuani/Wukong/Yone,5,5,0.62
+Lee Sin/Nunu/Rakan/Sejuani/Sett/Yone,5,5,0.56
+Lee Sin/Nunu/Sejuani/Senna/Sett/Yone,5,5,0.62
+Lee Sin/Nunu/Sejuani/Senna/Sett/Zeri,5,5,0.62
+Lee Sin/Nunu/Sejuani/Sett/Wukong/Yone,5,5,0.62
+Lee Sin/Nunu/Sejuani/Volibear/Wukong/Yone,5,5,0.62
+Lee Sin/Olaf/Qiyana/Rell/Rengar/Sejuani,5,5,0.56
+Lee Sin/Qiyana/Rakan/Rell/Rengar/Sejuani,5,5,0.56
+Lee Sin/Qiyana/Rakan/Rell/Rengar/Sett,5,5,0.62
+Lee Sin/Qiyana/Rakan/Rengar/Sejuani/Sett,5,5,0.56
+Lee Sin/Qiyana/Rakan/Rengar/Sett/Zac,5,5,0.62
+Lee Sin/Qiyana/Rell/Rengar/Sejuani/Senna,5,5,0.62
+Lee Sin/Qiyana/Rell/Rengar/Sejuani/Seraphine,5,5,0.56
+Lee Sin/Qiyana/Rell/Rengar/Sejuani/Sett,6,6,0.86
+Lee Sin/Qiyana/Rell/Rengar/Sejuani/Skarner,5,5,0.62
+Lee Sin/Qiyana/Rell/Rengar/Sejuani/Sylas,5,5,0.56
+Lee Sin/Qiyana/Rell/Rengar/Sejuani/Taliyah,5,5,0.62
+Lee Sin/Qiyana/Rell/Rengar/Sejuani/Twitch,5,6,0.71
+Lee Sin/Qiyana/Rell/Rengar/Sejuani/Varus,5,5,0.62
+Lee Sin/Qiyana/Rell/Rengar/Sejuani/Vladimir,5,5,0.62
+Lee Sin/Qiyana/Rell/Rengar/Sejuani/Volibear,6,6,0.86
+Lee Sin/Qiyana/Rell/Rengar/Sejuani/Wukong,5,5,0.62
+Lee Sin/Qiyana/Rell/Rengar/Sejuani/Yone,5,5,0.62
+Lee Sin/Qiyana/Rell/Rengar/Sejuani/Zac,5,5,0.62
+Lee Sin/Qiyana/Rell/Rengar/Sejuani/Zeri,5,5,0.62
+Lee Sin/Qiyana/Rell/Rengar/Sejuani/Zyra,5,5,0.62
+Lee Sin/Qiyana/Rell/Sejuani/Senna/Sett,5,5,0.62
+Lee Sin/Rakan/Rell/Rengar/Sejuani/Sett,5,5,0.56
+Lee Sin/Rakan/Senna/Seraphine/Zac/Zeri,5,5,0.62
+Lee Sin/Rakan/Seraphine/Sett/Taliyah/Zac,5,5,0.62
+Lee Sin/Rakan/Seraphine/Sett/Zac/Zeri,5,5,0.62
+Lee Sin/Rakan/Sett/Twitch/Varus/Zac,5,5,0.56
+Lee Sin/Rell/Rengar/Sejuani/Senna/Sett,5,5,0.62
+Lee Sin/Rell/Sejuani/Senna/Sett/Zeri,5,5,0.62
+Leona/Lillia/Lux/Nunu/Olaf/Sylas,5,5,0.56
+Leona/Lillia/Lux/Olaf/Sejuani/Sylas,5,5,0.5
+Leona/Lillia/Lux/Olaf/Sejuani/Yone,5,5,0.56
+Leona/Lillia/Malphite/Nasus/Nunu/Olaf,5,5,0.56
+Leona/Lillia/Malphite/Nasus/Olaf/Sejuani,5,5,0.5
+Leona/Lillia/Malphite/Nasus/Olaf/Yone,5,5,0.56
+Leona/Lillia/Malphite/Nunu/Olaf/Rakan,5,5,0.5
+Leona/Lillia/Malphite/Nunu/Olaf/Sejuani,5,6,0.56
+Leona/Lillia/Malphite/Nunu/Olaf/Twitch,5,5,0.5
+Leona/Lillia/Malphite/Nunu/Olaf/Wukong,5,5,0.56
+Leona/Lillia/Malphite/Nunu/Olaf/Yone,5,5,0.62
+Leona/Lillia/Malphite/Nunu/Olaf/Zac,5,5,0.62
+Leona/Lillia/Malphite/Olaf/Rakan/Sejuani,5,5,0.45
+Leona/Lillia/Malphite/Olaf/Rakan/Yone,5,5,0.5
+Leona/Lillia/Malphite/Olaf/Rell/Yone,5,5,0.56
+Leona/Lillia/Malphite/Olaf/Sejuani/Wukong,5,5,0.5
+Leona/Lillia/Malphite/Olaf/Sejuani/Yone,6,6,0.67
+Leona/Lillia/Malphite/Olaf/Sejuani/Zac,5,5,0.56
+Leona/Lillia/Malphite/Olaf/Twitch/Yone,5,5,0.5
+Leona/Lillia/Malphite/Olaf/Yone/Zac,5,5,0.62
+Leona/Lillia/Nasus/Nunu/Olaf/Sejuani,5,6,0.56
+Leona/Lillia/Nasus/Nunu/Olaf/Skarner,5,5,0.56
+Leona/Lillia/Nasus/Nunu/Olaf/Sylas,5,5,0.56
+Leona/Lillia/Nasus/Nunu/Olaf/Twitch,5,5,0.5
+Leona/Lillia/Nasus/Nunu/Olaf/Wukong,5,5,0.56
+Leona/Lillia/Nasus/Nunu/Olaf/Yone,5,5,0.62
+Leona/Lillia/Nasus/Nunu/Twitch/Varus,5,5,0.56
+Leona/Lillia/Nasus/Olaf/Rell/Yone,5,5,0.56
+Leona/Lillia/Nasus/Olaf/Sejuani/Skarner,5,5,0.5
+Leona/Lillia/Nasus/Olaf/Sejuani/Sylas,5,5,0.5
+Leona/Lillia/Nasus/Olaf/Sejuani/Wukong,5,5,0.5
+Leona/Lillia/Nasus/Olaf/Sejuani/Yone,6,6,0.67
+Leona/Lillia/Nasus/Olaf/Skarner/Yone,5,5,0.56
+Leona/Lillia/Nasus/Olaf/Sylas/Yone,5,5,0.56
+Leona/Lillia/Nasus/Olaf/Twitch/Yone,5,5,0.5
+Leona/Lillia/Nasus/Sejuani/Wukong/Yone,5,5,0.56
+Leona/Lillia/Nidalee/Olaf/Sejuani/Yone,5,5,0.5
+Leona/Lillia/Nunu/Olaf/Rakan/Sejuani,5,6,0.5
+Leona/Lillia/Nunu/Olaf/Rakan/Senna,5,5,0.5
+Leona/Lillia/Nunu/Olaf/Rakan/Seraphine,5,5,0.45
+Leona/Lillia/Nunu/Olaf/Rakan/Sett,5,5,0.5
+Leona/Lillia/Nunu/Olaf/Rakan/Skarner,5,5,0.5
+Leona/Lillia/Nunu/Olaf/Rakan/Sylas,5,5,0.5
+Leona/Lillia/Nunu/Olaf/Rakan/Twitch,5,5,0.45
+Leona/Lillia/Nunu/Olaf/Rakan/Wukong,5,5,0.5
+Leona/Lillia/Nunu/Olaf/Rakan/Yone,5,5,0.56
+Leona/Lillia/Nunu/Olaf/Sejuani/Skarner,5,6,0.56
+Leona/Lillia/Nunu/Olaf/Sejuani/Sylas,5,6,0.56
+Leona/Lillia/Nunu/Olaf/Sejuani/Wukong,5,6,0.56
+Leona/Lillia/Nunu/Olaf/Sejuani/Yone,5,6,0.62
+Leona/Lillia/Nunu/Olaf/Sejuani/Zac,5,6,0.56
+Leona/Lillia/Nunu/Olaf/Skarner/Twitch,5,5,0.5
+Leona/Lillia/Nunu/Olaf/Skarner/Wukong,5,5,0.56
+Leona/Lillia/Nunu/Olaf/Skarner/Yone,5,5,0.62
+Leona/Lillia/Nunu/Olaf/Skarner/Zac,5,5,0.56
+Leona/Lillia/Nunu/Olaf/Sylas/Taliyah,5,5,0.56
+Leona/Lillia/Nunu/Olaf/Sylas/Twitch,5,5,0.5
+Leona/Lillia/Nunu/Olaf/Sylas/Vladimir,5,5,0.56
+Leona/Lillia/Nunu/Olaf/Sylas/Wukong,5,5,0.56
+Leona/Lillia/Nunu/Olaf/Sylas/Yone,5,5,0.62
+Leona/Lillia/Nunu/Olaf/Sylas/Zac,5,5,0.56
+Leona/Lillia/Nunu/Olaf/Sylas/Zyra,5,5,0.56
+Leona/Lillia/Nunu/Olaf/Twitch/Varus,5,5,0.5
+Leona/Lillia/Nunu/Olaf/Twitch/Wukong,5,5,0.5
+Leona/Lillia/Nunu/Olaf/Twitch/Yone,5,5,0.56
+Leona/Lillia/Nunu/Olaf/Twitch/Zac,5,5,0.5
+Leona/Lillia/Nunu/Olaf/Wukong/Zac,5,5,0.56
+Leona/Lillia/Nunu/Olaf/Yone/Zac,5,5,0.62
+Leona/Lillia/Nunu/Rakan/Sejuani/Senna,5,6,0.56
+Leona/Lillia/Nunu/Rakan/Senna/Seraphine,5,5,0.5
+Leona/Lillia/Nunu/Rakan/Senna/Twitch,5,5,0.5
+Leona/Lillia/Nunu/Rakan/Senna/Zeri,5,5,0.56
+Leona/Lillia/Nunu/Rakan/Sett/Volibear,5,5,0.56
+Leona/Lillia/Nunu/Rakan/Twitch/Varus,5,5,0.5
+Leona/Lillia/Nunu/Twitch/Varus/Zac,5,5,0.56
+Leona/Lillia/Olaf/Qiyana/Sejuani/Yone,5,5,0.5
+Leona/Lillia/Olaf/Rakan/Rell/Yone,5,5,0.5
+Leona/Lillia/Olaf/Rakan/Sejuani/Senna,5,5,0.45
+Leona/Lillia/Olaf/Rakan/Sejuani/Seraphine,5,5,0.42
+Leona/Lillia/Olaf/Rakan/Sejuani/Sett,5,5,0.45
+Leona/Lillia/Olaf/Rakan/Sejuani/Skarner,5,5,0.45
+Leona/Lillia/Olaf/Rakan/Sejuani/Sylas,5,5,0.45
+Leona/Lillia/Olaf/Rakan/Sejuani/Wukong,5,5,0.45
+Leona/Lillia/Olaf/Rakan/Sejuani/Yone,6,6,0.6
+Leona/Lillia/Olaf/Rakan/Senna/Yone,5,5,0.5
+Leona/Lillia/Olaf/Rakan/Seraphine/Yone,5,5,0.45
+Leona/Lillia/Olaf/Rakan/Sett/Yone,5,5,0.5
+Leona/Lillia/Olaf/Rakan/Skarner/Yone,5,5,0.5
+Leona/Lillia/Olaf/Rakan/Sylas/Yone,5,5,0.5
+Leona/Lillia/Olaf/Rakan/Twitch/Yone,5,5,0.45
+Leona/Lillia/Olaf/Rell/Rengar/Yone,5,5,0.56
+Leona/Lillia/Olaf/Rell/Sejuani/Yone,5,6,0.56
+Leona/Lillia/Olaf/Rell/Skarner/Yone,5,5,0.56
+Leona/Lillia/Olaf/Rell/Sylas/Yone,5,5,0.56
+Leona/Lillia/Olaf/Rell/Twitch/Yone,5,5,0.5
+Leona/Lillia/Olaf/Rell/Yone/Zac,5,5,0.56
+Leona/Lillia/Olaf/Rengar/Sejuani/Yone,5,5,0.5
+Leona/Lillia/Olaf/Sejuani/Senna/Yone,5,5,0.5
+Leona/Lillia/Olaf/Sejuani/Seraphine/Yone,5,5,0.45
+Leona/Lillia/Olaf/Sejuani/Sett/Yone,5,5,0.5
+Leona/Lillia/Olaf/Sejuani/Skarner/Wukong,5,5,0.5
+Leona/Lillia/Olaf/Sejuani/Skarner/Yone,6,6,0.67
+Leona/Lillia/Olaf/Sejuani/Skarner/Zac,5,5,0.5
+Leona/Lillia/Olaf/Sejuani/Sylas/Taliyah,5,5,0.5
+Leona/Lillia/Olaf/Sejuani/Sylas/Vladimir,5,5,0.5
+Leona/Lillia/Olaf/Sejuani/Sylas/Wukong,5,5,0.5
+Leona/Lillia/Olaf/Sejuani/Sylas/Yone,6,6,0.67
+Leona/Lillia/Olaf/Sejuani/Sylas/Zac,5,5,0.5
+Leona/Lillia/Olaf/Sejuani/Sylas/Zyra,5,5,0.5
+Leona/Lillia/Olaf/Sejuani/Taliyah/Yone,5,5,0.56
+Leona/Lillia/Olaf/Sejuani/Twitch/Yone,5,6,0.56
+Leona/Lillia/Olaf/Sejuani/Varus/Yone,5,5,0.5
+Leona/Lillia/Olaf/Sejuani/Vladimir/Yone,5,5,0.56
+Leona/Lillia/Olaf/Sejuani/Volibear/Yone,5,5,0.5
+Leona/Lillia/Olaf/Sejuani/Wukong/Yone,5,5,0.56
+Leona/Lillia/Olaf/Sejuani/Wukong/Zac,5,5,0.5
+Leona/Lillia/Olaf/Sejuani/Yone/Zac,6,6,0.67
+Leona/Lillia/Olaf/Sejuani/Yone/Zeri,5,5,0.5
+Leona/Lillia/Olaf/Sejuani/Yone/Zyra,5,5,0.5
+Leona/Lillia/Olaf/Skarner/Twitch/Yone,5,5,0.5
+Leona/Lillia/Olaf/Skarner/Yone/Zac,5,5,0.56
+Leona/Lillia/Olaf/Sylas/Vladimir/Yone,5,5,0.56
+Leona/Lillia/Olaf/Sylas/Yone/Zac,5,5,0.56
+Leona/Lillia/Olaf/Twitch/Yone/Zac,5,5,0.5
+Leona/Lillia/Rakan/Sejuani/Senna/Seraphine,5,5,0.45
+Leona/Lillia/Rakan/Sejuani/Senna/Yone,5,5,0.5
+Leona/Lillia/Rakan/Sejuani/Senna/Zeri,5,5,0.5
+Leona/Lillia/Rakan/Sejuani/Seraphine/Yone,5,5,0.45
+Leona/Lillia/Rakan/Sejuani/Sett/Volibear,5,5,0.5
+Leona/Lillia/Rakan/Sejuani/Sett/Yone,5,5,0.5
+Leona/Lillia/Rakan/Sejuani/Wukong/Yone,5,5,0.5
+Leona/Lillia/Sejuani/Wukong/Yone/Zac,5,5,0.56
+Leona/Lux/Nunu/Rakan/Sejuani/Senna,5,5,0.56
+Leona/Malphite/Nasus/Olaf/Sejuani/Yone,5,5,0.56
+Leona/Malphite/Nasus/Olaf/Twitch/Yone,5,5,0.56
+Leona/Malphite/Nunu/Olaf/Sejuani/Yone,5,5,0.62
+Leona/Malphite/Olaf/Rakan/Sejuani/Yone,5,5,0.5
+Leona/Malphite/Olaf/Rakan/Senna/Yone,5,5,0.56
+Leona/Malphite/Olaf/Rakan/Seraphine/Yone,5,5,0.56
+Leona/Malphite/Olaf/Rakan/Sett/Yone,5,5,0.56
+Leona/Malphite/Olaf/Rakan/Twitch/Yone,5,5,0.5
+Leona/Malphite/Olaf/Rell/Sejuani/Yone,5,5,0.56
+Leona/Malphite/Olaf/Sejuani/Yone/Zac,5,5,0.62
+Leona/Malphite/Olaf/Seraphine/Yone/Zac,5,5,0.62
+Leona/Malphite/Olaf/Taliyah/Yone/Zac,5,5,0.71
+Leona/Malphite/Olaf/Twitch/Varus/Yone,5,5,0.56
+Leona/Malphite/Olaf/Twitch/Yone/Zac,5,5,0.62
+Leona/Malphite/Olaf/Yone/Zac/Zeri,5,5,0.71
+Leona/Malphite/Rakan/Senna/Seraphine/Zeri,5,5,0.62
+Leona/Nasus/Nunu/Olaf/Sejuani/Yone,5,5,0.62
+Leona/Nasus/Nunu/Sejuani/Senna/Zeri,5,5,0.62
+Leona/Nasus/Olaf/Rell/Sejuani/Yone,5,5,0.56
+Leona/Nasus/Olaf/Sejuani/Skarner/Yone,5,5,0.56
+Leona/Nasus/Olaf/Sejuani/Sylas/Yone,5,5,0.5
+Leona/Nasus/Olaf/Skarner/Twitch/Yone,5,5,0.56
+Leona/Nasus/Olaf/Sylas/Twitch/Yone,5,5,0.5
+Leona/Nasus/Olaf/Sylas/Yone/Zyra,5,5,0.56
+Leona/Nasus/Olaf/Twitch/Varus/Yone,5,5,0.56
+Leona/Nasus/Rell/Rengar/Sejuani/Yone,5,5,0.62
+Leona/Nasus/Twitch/Varus/Wukong/Yone,5,5,0.62
+Leona/Nidalee/Nunu/Rakan/Sejuani/Senna,5,5,0.56
+Leona/Nunu/Olaf/Rakan/Sejuani/Senna,5,5,0.5
+Leona/Nunu/Olaf/Rakan/Sejuani/Yone,5,5,0.56
+Leona/Nunu/Olaf/Sejuani/Skarner/Yone,5,5,0.62
+Leona/Nunu/Olaf/Sejuani/Sylas/Yone,5,5,0.56
+Leona/Nunu/Olaf/Sejuani/Yone/Zac,5,5,0.62
+Leona/Nunu/Rakan/Rell/Rengar/Senna,5,5,0.62
+Leona/Nunu/Rakan/Rell/Senna/Zeri,5,5,0.62
+Leona/Nunu/Rakan/Rengar/Sejuani/Senna,5,5,0.56
+Leona/Nunu/Rakan/Sejuani/Senna/Taliyah,5,5,0.56
+Leona/Nunu/Rakan/Sejuani/Senna/Varus,5,5,0.56
+Leona/Nunu/Rakan/Sejuani/Senna/Volibear,5,5,0.56
+Leona/Nunu/Rakan/Sejuani/Senna/Yone,5,5,0.62
+Leona/Nunu/Rakan/Sejuani/Senna/Zeri,6,6,0.75
+Leona/Nunu/Rakan/Senna/Seraphine/Zeri,5,5,0.62
+Leona/Nunu/Rakan/Senna/Twitch/Varus,5,5,0.56
+Leona/Nunu/Rakan/Senna/Twitch/Zeri,5,5,0.56
+Leona/Nunu/Rell/Rengar/Twitch/Varus,5,5,0.62
+Leona/Nunu/Sejuani/Senna/Sett/Volibear,5,5,0.62
+Leona/Nunu/Sejuani/Senna/Sett/Zeri,5,5,0.62
+Leona/Nunu/Sejuani/Senna/Zac/Zeri,5,5,0.71
+Leona/Nunu/Sejuani/Taliyah/Zac/Zeri,5,5,0.71
+Leona/Olaf/Rakan/Rell/Sejuani/Yone,5,5,0.5
+Leona/Olaf/Rakan/Sejuani/Senna/Yone,5,5,0.5
+Leona/Olaf/Rakan/Sejuani/Seraphine/Yone,5,5,0.45
+Leona/Olaf/Rakan/Sejuani/Sett/Yone,5,5,0.5
+Leona/Olaf/Rakan/Sejuani/Skarner/Yone,5,5,0.5
+Leona/Olaf/Rakan/Sejuani/Sylas/Yone,5,5,0.45
+Leona/Olaf/Rakan/Senna/Seraphine/Yone,5,5,0.5
+Leona/Olaf/Rakan/Senna/Skarner/Yone,5,5,0.56
+Leona/Olaf/Rakan/Senna/Sylas/Yone,5,5,0.5
+Leona/Olaf/Rakan/Senna/Twitch/Yone,5,5,0.5
+Leona/Olaf/Rakan/Senna/Yone/Zeri,5,5,0.56
+Leona/Olaf/Rakan/Seraphine/Sett/Yone,5,5,0.5
+Leona/Olaf/Rakan/Seraphine/Skarner/Yone,5,5,0.5
+Leona/Olaf/Rakan/Seraphine/Sylas/Yone,5,5,0.45
+Leona/Olaf/Rakan/Seraphine/Twitch/Yone,5,5,0.45
+Leona/Olaf/Rakan/Seraphine/Yone/Zyra,5,5,0.5
+Leona/Olaf/Rakan/Sett/Skarner/Yone,5,5,0.56
+Leona/Olaf/Rakan/Sett/Sylas/Yone,5,5,0.5
+Leona/Olaf/Rakan/Sett/Twitch/Yone,5,5,0.5
+Leona/Olaf/Rakan/Sett/Volibear/Yone,5,5,0.56
+Leona/Olaf/Rakan/Skarner/Twitch/Yone,5,5,0.5
+Leona/Olaf/Rakan/Sylas/Twitch/Yone,5,5,0.45
+Leona/Olaf/Rakan/Sylas/Yone/Zyra,5,5,0.5
+Leona/Olaf/Rakan/Twitch/Varus/Yone,5,5,0.5
+Leona/Olaf/Rell/Rengar/Sejuani/Yone,5,5,0.56
+Leona/Olaf/Rell/Sejuani/Skarner/Yone,5,5,0.56
+Leona/Olaf/Rell/Sejuani/Sylas/Yone,5,5,0.5
+Leona/Olaf/Rell/Sejuani/Yone/Zac,5,5,0.56
+Leona/Olaf/Sejuani/Skarner/Yone/Zac,5,5,0.56
+Leona/Olaf/Sejuani/Sylas/Yone/Zac,5,5,0.5
+Leona/Olaf/Sejuani/Sylas/Yone/Zyra,5,5,0.5
+Leona/Olaf/Skarner/Twitch/Varus/Yone,5,5,0.62
+Leona/Olaf/Skarner/Twitch/Yone/Zac,5,5,0.56
+Leona/Olaf/Sylas/Twitch/Yone/Zac,5,5,0.5
+Leona/Olaf/Sylas/Yone/Zac/Zyra,5,5,0.56
+Leona/Olaf/Twitch/Varus/Yone/Zac,5,5,0.56
+Leona/Qiyana/Rell/Rengar/Sejuani/Yone,5,5,0.62
+Leona/Rakan/Rell/Rengar/Sejuani/Senna,5,5,0.56
+Leona/Rakan/Rell/Rengar/Sejuani/Yone,5,5,0.56
+Leona/Rakan/Rell/Sejuani/Senna/Yone,5,5,0.56
+Leona/Rakan/Rell/Sejuani/Senna/Zeri,5,5,0.56
+Leona/Rakan/Sejuani/Senna/Seraphine/Yone,5,5,0.5
+Leona/Rakan/Sejuani/Senna/Seraphine/Zeri,5,5,0.56
+Leona/Rakan/Sejuani/Senna/Wukong/Yone,5,5,0.56
+Leona/Rakan/Sejuani/Senna/Yone/Zeri,5,5,0.56
+Leona/Rakan/Sejuani/Sett/Volibear/Yone,5,5,0.56
+Leona/Rakan/Senna/Seraphine/Taliyah/Zeri,5,5,0.62
+Leona/Rakan/Senna/Seraphine/Twitch/Varus,5,5,0.5
+Leona/Rakan/Senna/Seraphine/Twitch/Yone,5,5,0.5
+Leona/Rakan/Senna/Seraphine/Twitch/Zeri,5,5,0.56
+Leona/Rakan/Senna/Seraphine/Wukong/Yone,5,5,0.56
+Leona/Rakan/Senna/Seraphine/Yone/Zeri,5,5,0.62
+Leona/Rakan/Senna/Seraphine/Yone/Zyra,5,5,0.56
+Leona/Rakan/Senna/Seraphine/Zac/Zeri,5,5,0.71
+Leona/Rakan/Senna/Seraphine/Zeri/Zyra,5,5,0.62
+Leona/Rakan/Senna/Twitch/Varus/Yone,5,5,0.56
+Leona/Rakan/Senna/Twitch/Varus/Zeri,5,5,0.56
+Leona/Rakan/Senna/Twitch/Wukong/Yone,5,5,0.56
+Leona/Rakan/Senna/Twitch/Yone/Zeri,5,5,0.56
+Leona/Rakan/Senna/Wukong/Yone/Zeri,5,5,0.62
+Leona/Rakan/Seraphine/Sett/Volibear/Yone,5,5,0.56
+Leona/Rakan/Seraphine/Twitch/Varus/Yone,5,5,0.5
+Leona/Rakan/Sett/Twitch/Varus/Volibear,5,5,0.56
+Leona/Rakan/Sett/Twitch/Varus/Yone,5,5,0.56
+Leona/Rakan/Sett/Twitch/Volibear/Yone,5,5,0.56
+Leona/Rakan/Sett/Volibear/Wukong/Yone,5,5,0.62
+Leona/Rakan/Twitch/Varus/Wukong/Yone,5,5,0.56
+Leona/Rell/Rengar/Sejuani/Wukong/Yone,5,5,0.62
+Leona/Rell/Rengar/Sejuani/Yone/Zac,5,5,0.62
+Leona/Twitch/Varus/Wukong/Yone/Zac,5,5,0.62
+Lillia/Lux/Malphite/Nunu/Olaf/Yone,5,5,0.62
+Lillia/Lux/Malphite/Olaf/Sejuani/Sylas,5,5,0.56
+Lillia/Lux/Malphite/Olaf/Sejuani/Taliyah,5,5,0.62
+Lillia/Lux/Malphite/Olaf/Sejuani/Vladimir,5,5,0.62
+Lillia/Lux/Malphite/Olaf/Sejuani/Wukong,5,5,0.56
+Lillia/Lux/Malphite/Olaf/Sejuani/Yone,5,5,0.56
+Lillia/Lux/Malphite/Sejuani/Skarner/Vladimir,5,5,0.71
+Lillia/Lux/Malphite/Sejuani/Sylas/Zyra,5,5,0.56
+Lillia/Lux/Nasus/Olaf/Sejuani/Sylas,5,5,0.5
+Lillia/Lux/Nidalee/Olaf/Sejuani/Skarner,5,5,0.62
+Lillia/Lux/Nidalee/Olaf/Sejuani/Vladimir,5,5,0.62
+Lillia/Lux/Nidalee/Sejuani/Skarner/Sylas,5,5,0.62
+Lillia/Lux/Nunu/Olaf/Sejuani/Sylas,5,6,0.56
+Lillia/Lux/Nunu/Olaf/Sejuani/Yone,5,6,0.62
+Lillia/Lux/Nunu/Olaf/Skarner/Vladimir,5,5,0.71
+Lillia/Lux/Nunu/Olaf/Skarner/Yone,5,5,0.71
+Lillia/Lux/Nunu/Olaf/Vladimir/Yone,5,5,0.71
+Lillia/Lux/Nunu/Twitch/Varus/Vladimir,5,5,0.71
+Lillia/Lux/Olaf/Rakan/Sejuani/Sylas,5,5,0.45
+Lillia/Lux/Olaf/Rell/Sejuani/Sylas,5,6,0.56
+Lillia/Lux/Olaf/Rell/Skarner/Vladimir,5,5,0.71
+Lillia/Lux/Olaf/Sejuani/Skarner/Sylas,5,5,0.62
+Lillia/Lux/Olaf/Sejuani/Skarner/Taliyah,5,5,0.62
+Lillia/Lux/Olaf/Sejuani/Skarner/Varus,5,5,0.62
+Lillia/Lux/Olaf/Sejuani/Skarner/Vladimir,6,6,0.86
+Lillia/Lux/Olaf/Sejuani/Skarner/Wukong,5,5,0.62
+Lillia/Lux/Olaf/Sejuani/Skarner/Yone,5,5,0.62
+Lillia/Lux/Olaf/Sejuani/Sylas/Vladimir,5,5,0.62
+Lillia/Lux/Olaf/Sejuani/Sylas/Zac,5,5,0.5
+Lillia/Lux/Olaf/Sejuani/Varus/Vladimir,5,5,0.62
+Lillia/Lux/Olaf/Sejuani/Vladimir/Wukong,5,5,0.62
+Lillia/Lux/Olaf/Sejuani/Vladimir/Yone,5,5,0.62
+Lillia/Lux/Olaf/Skarner/Twitch/Vladimir,5,5,0.62
+Lillia/Lux/Olaf/Skarner/Vladimir/Wukong,5,5,0.71
+Lillia/Lux/Olaf/Skarner/Vladimir/Yone,5,5,0.71
+Lillia/Lux/Rell/Twitch/Varus/Vladimir,5,5,0.71
+Lillia/Lux/Sejuani/Skarner/Sylas/Varus,5,5,0.62
+Lillia/Lux/Sejuani/Skarner/Sylas/Vladimir,5,5,0.71
+Lillia/Lux/Sejuani/Skarner/Sylas/Zyra,5,5,0.62
+Lillia/Lux/Sejuani/Twitch/Varus/Vladimir,5,6,0.83
+Lillia/Malphite/Nasus/Nunu/Olaf/Yone,5,5,0.56
+Lillia/Malphite/Nasus/Olaf/Rakan/Sejuani,5,5,0.45
+Lillia/Malphite/Nasus/Olaf/Sejuani/Wukong,5,5,0.5
+Lillia/Malphite/Nasus/Olaf/Sejuani/Yone,5,5,0.5
+Lillia/Malphite/Nasus/Olaf/Sejuani/Zac,5,5,0.56
+Lillia/Malphite/Nidalee/Nunu/Olaf/Yone,5,5,0.56
+Lillia/Malphite/Nidalee/Olaf/Sejuani/Wukong,5,5,0.5
+Lillia/Malphite/Nidalee/Olaf/Sejuani/Yone,5,5,0.5
+Lillia/Malphite/Nunu/Olaf/Qiyana/Yone,5,5,0.56
+Lillia/Malphite/Nunu/Olaf/Rakan/Yone,5,5,0.5
+Lillia/Malphite/Nunu/Olaf/Rell/Yone,5,6,0.62
+Lillia/Malphite/Nunu/Olaf/Rengar/Yone,5,5,0.56
+Lillia/Malphite/Nunu/Olaf/Sejuani/Wukong,5,6,0.56
+Lillia/Malphite/Nunu/Olaf/Sejuani/Yone,6,7,0.75
+Lillia/Malphite/Nunu/Olaf/Senna/Yone,5,5,0.56
+Lillia/Malphite/Nunu/Olaf/Seraphine/Yone,5,5,0.56
+Lillia/Malphite/Nunu/Olaf/Sett/Yone,5,5,0.56
+Lillia/Malphite/Nunu/Olaf/Skarner/Yone,5,5,0.62
+Lillia/Malphite/Nunu/Olaf/Sylas/Yone,5,5,0.62
+Lillia/Malphite/Nunu/Olaf/Taliyah/Yone,5,5,0.71
+Lillia/Malphite/Nunu/Olaf/Twitch/Varus,5,5,0.5
+Lillia/Malphite/Nunu/Olaf/Twitch/Wukong,5,5,0.5
+Lillia/Malphite/Nunu/Olaf/Twitch/Yone,6,6,0.67
+Lillia/Malphite/Nunu/Olaf/Varus/Yone,5,5,0.56
+Lillia/Malphite/Nunu/Olaf/Vladimir/Yone,5,5,0.62
+Lillia/Malphite/Nunu/Olaf/Volibear/Yone,5,5,0.56
+Lillia/Malphite/Nunu/Olaf/Wukong/Yone,5,5,0.62
+Lillia/Malphite/Nunu/Olaf/Yone/Zac,5,5,0.62
+Lillia/Malphite/Nunu/Olaf/Yone/Zeri,5,5,0.62
+Lillia/Malphite/Nunu/Olaf/Yone/Zyra,5,5,0.56
+Lillia/Malphite/Olaf/Qiyana/Rell/Rengar,5,5,0.56
+Lillia/Malphite/Olaf/Qiyana/Rengar/Sejuani,5,5,0.5
+Lillia/Malphite/Olaf/Qiyana/Sejuani/Wukong,5,5,0.5
+Lillia/Malphite/Olaf/Qiyana/Sejuani/Yone,5,5,0.5
+Lillia/Malphite/Olaf/Rakan/Sejuani/Senna,5,5,0.45
+Lillia/Malphite/Olaf/Rakan/Sejuani/Seraphine,5,5,0.45
+Lillia/Malphite/Olaf/Rakan/Sejuani/Sett,5,5,0.45
+Lillia/Malphite/Olaf/Rakan/Sejuani/Wukong,5,5,0.45
+Lillia/Malphite/Olaf/Rakan/Sejuani/Yone,5,5,0.45
+Lillia/Malphite/Olaf/Rakan/Sejuani/Zac,5,5,0.5
+Lillia/Malphite/Olaf/Rakan/Seraphine/Zac,5,5,0.5
+Lillia/Malphite/Olaf/Rell/Rengar/Sejuani,5,6,0.56
+Lillia/Malphite/Olaf/Rell/Rengar/Twitch,5,5,0.5
+Lillia/Malphite/Olaf/Rell/Rengar/Wukong,5,5,0.56
+Lillia/Malphite/Olaf/Rell/Rengar/Yone,5,5,0.56
+Lillia/Malphite/Olaf/Rell/Sejuani/Wukong,5,6,0.56
+Lillia/Malphite/Olaf/Rell/Sejuani/Yone,5,6,0.56
+Lillia/Malphite/Olaf/Rell/Twitch/Varus,5,5,0.5
+Lillia/Malphite/Olaf/Rell/Twitch/Wukong,5,5,0.5
+Lillia/Malphite/Olaf/Rell/Twitch/Yone,5,5,0.5
+Lillia/Malphite/Olaf/Rengar/Sejuani/Wukong,5,5,0.5
+Lillia/Malphite/Olaf/Rengar/Sejuani/Yone,5,5,0.5
+Lillia/Malphite/Olaf/Sejuani/Senna/Sett,5,5,0.5
+Lillia/Malphite/Olaf/Sejuani/Senna/Wukong,5,5,0.5
+Lillia/Malphite/Olaf/Sejuani/Senna/Yone,5,5,0.5
+Lillia/Malphite/Olaf/Sejuani/Senna/Zeri,5,5,0.56
+Lillia/Malphite/Olaf/Sejuani/Seraphine/Taliyah,5,5,0.56
+Lillia/Malphite/Olaf/Sejuani/Seraphine/Wukong,5,5,0.5
+Lillia/Malphite/Olaf/Sejuani/Seraphine/Yone,5,5,0.5
+Lillia/Malphite/Olaf/Sejuani/Seraphine/Zac,5,5,0.5
+Lillia/Malphite/Olaf/Sejuani/Seraphine/Zeri,5,5,0.5
+Lillia/Malphite/Olaf/Sejuani/Seraphine/Zyra,5,5,0.5
+Lillia/Malphite/Olaf/Sejuani/Sett/Volibear,5,5,0.5
+Lillia/Malphite/Olaf/Sejuani/Sett/Wukong,5,5,0.5
+Lillia/Malphite/Olaf/Sejuani/Sett/Yone,5,5,0.5
+Lillia/Malphite/Olaf/Sejuani/Skarner/Wukong,5,5,0.56
+Lillia/Malphite/Olaf/Sejuani/Skarner/Yone,5,5,0.56
+Lillia/Malphite/Olaf/Sejuani/Sylas/Taliyah,5,5,0.62
+Lillia/Malphite/Olaf/Sejuani/Sylas/Vladimir,5,5,0.56
+Lillia/Malphite/Olaf/Sejuani/Sylas/Wukong,5,5,0.56
+Lillia/Malphite/Olaf/Sejuani/Sylas/Yone,5,5,0.56
+Lillia/Malphite/Olaf/Sejuani/Sylas/Zyra,5,5,0.56
+Lillia/Malphite/Olaf/Sejuani/Taliyah/Vladimir,5,5,0.62
+Lillia/Malphite/Olaf/Sejuani/Taliyah/Wukong,5,5,0.62
+Lillia/Malphite/Olaf/Sejuani/Taliyah/Yone,5,5,0.62
+Lillia/Malphite/Olaf/Sejuani/Taliyah/Zac,5,5,0.62
+Lillia/Malphite/Olaf/Sejuani/Taliyah/Zeri,5,5,0.62
+Lillia/Malphite/Olaf/Sejuani/Twitch/Varus,5,6,0.56
+Lillia/Malphite/Olaf/Sejuani/Twitch/Wukong,5,6,0.56
+Lillia/Malphite/Olaf/Sejuani/Twitch/Yone,5,6,0.56
+Lillia/Malphite/Olaf/Sejuani/Varus/Wukong,5,5,0.5
+Lillia/Malphite/Olaf/Sejuani/Varus/Yone,5,5,0.5
+Lillia/Malphite/Olaf/Sejuani/Vladimir/Wukong,5,5,0.56
+Lillia/Malphite/Olaf/Sejuani/Vladimir/Yone,5,5,0.56
+Lillia/Malphite/Olaf/Sejuani/Volibear/Wukong,5,5,0.5
+Lillia/Malphite/Olaf/Sejuani/Volibear/Yone,5,5,0.5
+Lillia/Malphite/Olaf/Sejuani/Wukong/Yone,5,5,0.56
+Lillia/Malphite/Olaf/Sejuani/Wukong/Zac,5,5,0.56
+Lillia/Malphite/Olaf/Sejuani/Wukong/Zeri,5,5,0.56
+Lillia/Malphite/Olaf/Sejuani/Wukong/Zyra,5,5,0.5
+Lillia/Malphite/Olaf/Sejuani/Yone/Zac,5,5,0.56
+Lillia/Malphite/Olaf/Sejuani/Yone/Zeri,5,5,0.56
+Lillia/Malphite/Olaf/Sejuani/Yone/Zyra,5,5,0.5
+Lillia/Malphite/Olaf/Sejuani/Zac/Zeri,5,5,0.56
+Lillia/Malphite/Sejuani/Seraphine/Sylas/Taliyah,5,5,0.56
+Lillia/Malphite/Sejuani/Sylas/Taliyah/Zac,5,5,0.62
+Lillia/Malphite/Sejuani/Sylas/Taliyah/Zeri,5,5,0.62
+Lillia/Malphite/Sejuani/Sylas/Taliyah/Zyra,5,5,0.62
+Lillia/Nasus/Nunu/Olaf/Rakan/Yone,5,5,0.5
+Lillia/Nasus/Nunu/Olaf/Sejuani/Yone,5,6,0.56
+Lillia/Nasus/Nunu/Olaf/Skarner/Yone,5,5,0.56
+Lillia/Nasus/Nunu/Olaf/Sylas/Yone,5,5,0.56
+Lillia/Nasus/Nunu/Olaf/Twitch/Yone,5,5,0.5
+Lillia/Nasus/Nunu/Olaf/Yone/Zac,5,5,0.56
+Lillia/Nasus/Olaf/Rakan/Sejuani/Senna,5,5,0.45
+Lillia/Nasus/Olaf/Rakan/Sejuani/Seraphine,5,5,0.42
+Lillia/Nasus/Olaf/Rakan/Sejuani/Sett,5,5,0.45
+Lillia/Nasus/Olaf/Rakan/Sejuani/Skarner,5,5,0.45
+Lillia/Nasus/Olaf/Rakan/Sejuani/Sylas,5,5,0.45
+Lillia/Nasus/Olaf/Rakan/Sejuani/Wukong,5,5,0.45
+Lillia/Nasus/Olaf/Rakan/Sejuani/Yone,5,5,0.45
+Lillia/Nasus/Olaf/Sejuani/Skarner/Wukong,5,5,0.5
+Lillia/Nasus/Olaf/Sejuani/Skarner/Yone,5,5,0.5
+Lillia/Nasus/Olaf/Sejuani/Skarner/Zac,5,5,0.5
+Lillia/Nasus/Olaf/Sejuani/Sylas/Taliyah,5,5,0.5
+Lillia/Nasus/Olaf/Sejuani/Sylas/Vladimir,5,5,0.5
+Lillia/Nasus/Olaf/Sejuani/Sylas/Wukong,5,5,0.5
+Lillia/Nasus/Olaf/Sejuani/Sylas/Yone,5,5,0.5
+Lillia/Nasus/Olaf/Sejuani/Sylas/Zac,5,5,0.5
+Lillia/Nasus/Olaf/Sejuani/Sylas/Zyra,5,5,0.5
+Lillia/Nasus/Olaf/Sejuani/Wukong/Zac,5,5,0.5
+Lillia/Nasus/Olaf/Sejuani/Yone/Zac,5,5,0.5
+Lillia/Nasus/Rakan/Sejuani/Senna/Seraphine,5,5,0.45
+Lillia/Nasus/Rakan/Sejuani/Senna/Zeri,5,5,0.5
+Lillia/Nasus/Rakan/Sejuani/Sett/Volibear,5,5,0.56
+Lillia/Nidalee/Nunu/Olaf/Sejuani/Yone,5,6,0.56
+Lillia/Nidalee/Nunu/Olaf/Skarner/Yone,5,5,0.62
+Lillia/Nidalee/Olaf/Sejuani/Skarner/Varus,5,5,0.56
+Lillia/Nidalee/Olaf/Sejuani/Skarner/Vladimir,5,5,0.62
+Lillia/Nidalee/Olaf/Sejuani/Skarner/Wukong,5,5,0.56
+Lillia/Nidalee/Olaf/Sejuani/Skarner/Yone,5,5,0.56
+Lillia/Nidalee/Olaf/Sejuani/Sylas/Vladimir,5,5,0.56
+Lillia/Nidalee/Sejuani/Skarner/Sylas/Vladimir,5,5,0.62
+Lillia/Nunu/Olaf/Qiyana/Sejuani/Yone,5,6,0.56
+Lillia/Nunu/Olaf/Qiyana/Skarner/Yone,5,5,0.56
+Lillia/Nunu/Olaf/Rakan/Sejuani/Yone,5,6,0.5
+Lillia/Nunu/Olaf/Rakan/Senna/Yone,5,5,0.5
+Lillia/Nunu/Olaf/Rakan/Seraphine/Yone,5,5,0.45
+Lillia/Nunu/Olaf/Rakan/Sett/Yone,5,5,0.5
+Lillia/Nunu/Olaf/Rakan/Skarner/Yone,5,5,0.5
+Lillia/Nunu/Olaf/Rakan/Sylas/Yone,5,5,0.5
+Lillia/Nunu/Olaf/Rakan/Twitch/Yone,5,5,0.45
+Lillia/Nunu/Olaf/Rakan/Yone/Zac,5,5,0.5
+Lillia/Nunu/Olaf/Rell/Rengar/Yone,5,6,0.62
+Lillia/Nunu/Olaf/Rell/Sejuani/Yone,5,7,0.62
+Lillia/Nunu/Olaf/Rell/Skarner/Yone,5,6,0.62
+Lillia/Nunu/Olaf/Rell/Sylas/Yone,5,6,0.62
+Lillia/Nunu/Olaf/Rell/Twitch/Yone,5,6,0.56
+Lillia/Nunu/Olaf/Rengar/Sejuani/Yone,5,6,0.56
+Lillia/Nunu/Olaf/Rengar/Skarner/Yone,5,5,0.56
+Lillia/Nunu/Olaf/Sejuani/Senna/Yone,5,6,0.56
+Lillia/Nunu/Olaf/Sejuani/Seraphine/Yone,5,6,0.5
+Lillia/Nunu/Olaf/Sejuani/Sett/Yone,5,6,0.56
+Lillia/Nunu/Olaf/Sejuani/Skarner/Wukong,5,6,0.56
+Lillia/Nunu/Olaf/Sejuani/Skarner/Yone,6,7,0.75
+Lillia/Nunu/Olaf/Sejuani/Sylas/Taliyah,5,6,0.56
+Lillia/Nunu/Olaf/Sejuani/Sylas/Vladimir,5,6,0.56
+Lillia/Nunu/Olaf/Sejuani/Sylas/Wukong,5,6,0.56
+Lillia/Nunu/Olaf/Sejuani/Sylas/Yone,6,7,0.75
+Lillia/Nunu/Olaf/Sejuani/Sylas/Zyra,5,6,0.56
+Lillia/Nunu/Olaf/Sejuani/Taliyah/Yone,5,6,0.62
+Lillia/Nunu/Olaf/Sejuani/Twitch/Yone,5,7,0.62
+Lillia/Nunu/Olaf/Sejuani/Varus/Yone,5,6,0.56
+Lillia/Nunu/Olaf/Sejuani/Vladimir/Yone,5,6,0.62
+Lillia/Nunu/Olaf/Sejuani/Volibear/Yone,5,6,0.56
+Lillia/Nunu/Olaf/Sejuani/Wukong/Yone,5,6,0.62
+Lillia/Nunu/Olaf/Sejuani/Yone/Zac,5,6,0.56
+Lillia/Nunu/Olaf/Sejuani/Yone/Zeri,5,6,0.56
+Lillia/Nunu/Olaf/Sejuani/Yone/Zyra,5,6,0.56
+Lillia/Nunu/Olaf/Senna/Skarner/Yone,5,5,0.56
+Lillia/Nunu/Olaf/Seraphine/Skarner/Yone,5,5,0.5
+Lillia/Nunu/Olaf/Sett/Skarner/Yone,5,5,0.56
+Lillia/Nunu/Olaf/Skarner/Sylas/Yone,5,5,0.62
+Lillia/Nunu/Olaf/Skarner/Taliyah/Yone,5,5,0.62
+Lillia/Nunu/Olaf/Skarner/Twitch/Varus,5,5,0.56
+Lillia/Nunu/Olaf/Skarner/Twitch/Wukong,5,5,0.5
+Lillia/Nunu/Olaf/Skarner/Twitch/Yone,6,6,0.67
+Lillia/Nunu/Olaf/Skarner/Varus/Yone,5,5,0.62
+Lillia/Nunu/Olaf/Skarner/Vladimir/Yone,5,5,0.71
+Lillia/Nunu/Olaf/Skarner/Volibear/Yone,5,5,0.56
+Lillia/Nunu/Olaf/Skarner/Wukong/Yone,5,5,0.62
+Lillia/Nunu/Olaf/Skarner/Yone/Zac,5,5,0.56
+Lillia/Nunu/Olaf/Skarner/Yone/Zeri,5,5,0.56
+Lillia/Nunu/Olaf/Skarner/Yone/Zyra,5,5,0.56
+Lillia/Nunu/Olaf/Sylas/Twitch/Vladimir,5,5,0.5
+Lillia/Nunu/Olaf/Sylas/Vladimir/Wukong,5,5,0.56
+Lillia/Nunu/Olaf/Sylas/Vladimir/Yone,6,6,0.75
+Lillia/Nunu/Olaf/Sylas/Vladimir/Zyra,5,5,0.56
+Lillia/Nunu/Olaf/Sylas/Yone/Zac,5,5,0.56
+Lillia/Nunu/Olaf/Taliyah/Vladimir/Yone,5,5,0.62
+Lillia/Nunu/Olaf/Twitch/Vladimir/Yone,5,5,0.56
+Lillia/Nunu/Olaf/Twitch/Yone/Zac,5,5,0.5
+Lillia/Olaf/Qiyana/Rell/Rengar/Sejuani,5,6,0.56
+Lillia/Olaf/Qiyana/Rell/Rengar/Skarner,5,5,0.56
+Lillia/Olaf/Qiyana/Rengar/Sejuani/Skarner,5,5,0.5
+Lillia/Olaf/Qiyana/Sejuani/Skarner/Wukong,5,5,0.5
+Lillia/Olaf/Qiyana/Sejuani/Skarner/Yone,5,5,0.5
+Lillia/Olaf/Qiyana/Sejuani/Sylas/Vladimir,5,5,0.5
+Lillia/Olaf/Rakan/Sejuani/Senna/Seraphine,5,5,0.42
+Lillia/Olaf/Rakan/Sejuani/Senna/Skarner,5,5,0.45
+Lillia/Olaf/Rakan/Sejuani/Senna/Sylas,5,5,0.45
+Lillia/Olaf/Rakan/Sejuani/Senna/Wukong,5,5,0.45
+Lillia/Olaf/Rakan/Sejuani/Senna/Yone,5,5,0.45
+Lillia/Olaf/Rakan/Sejuani/Senna/Zac,5,5,0.45
+Lillia/Olaf/Rakan/Sejuani/Senna/Zeri,5,5,0.45
+Lillia/Olaf/Rakan/Sejuani/Seraphine/Sett,5,5,0.42
+Lillia/Olaf/Rakan/Sejuani/Seraphine/Skarner,5,5,0.42
+Lillia/Olaf/Rakan/Sejuani/Seraphine/Sylas,5,5,0.42
+Lillia/Olaf/Rakan/Sejuani/Seraphine/Wukong,5,5,0.42
+Lillia/Olaf/Rakan/Sejuani/Seraphine/Yone,5,5,0.42
+Lillia/Olaf/Rakan/Sejuani/Seraphine/Zac,5,5,0.45
+Lillia/Olaf/Rakan/Sejuani/Seraphine/Zyra,5,5,0.42
+Lillia/Olaf/Rakan/Sejuani/Sett/Skarner,5,5,0.45
+Lillia/Olaf/Rakan/Sejuani/Sett/Sylas,5,5,0.45
+Lillia/Olaf/Rakan/Sejuani/Sett/Volibear,5,5,0.45
+Lillia/Olaf/Rakan/Sejuani/Sett/Wukong,5,5,0.45
+Lillia/Olaf/Rakan/Sejuani/Sett/Yone,5,5,0.45
+Lillia/Olaf/Rakan/Sejuani/Sett/Zac,5,5,0.45
+Lillia/Olaf/Rakan/Sejuani/Skarner/Wukong,5,5,0.45
+Lillia/Olaf/Rakan/Sejuani/Skarner/Yone,5,5,0.45
+Lillia/Olaf/Rakan/Sejuani/Skarner/Zac,5,5,0.45
+Lillia/Olaf/Rakan/Sejuani/Sylas/Taliyah,5,5,0.45
+Lillia/Olaf/Rakan/Sejuani/Sylas/Vladimir,5,5,0.45
+Lillia/Olaf/Rakan/Sejuani/Sylas/Wukong,5,5,0.45
+Lillia/Olaf/Rakan/Sejuani/Sylas/Yone,5,5,0.45
+Lillia/Olaf/Rakan/Sejuani/Sylas/Zac,5,5,0.45
+Lillia/Olaf/Rakan/Sejuani/Sylas/Zyra,5,5,0.45
+Lillia/Olaf/Rakan/Sejuani/Wukong/Zac,5,5,0.45
+Lillia/Olaf/Rakan/Sejuani/Yone/Zac,5,5,0.45
+Lillia/Olaf/Rell/Rengar/Sejuani/Skarner,5,6,0.56
+Lillia/Olaf/Rell/Rengar/Sejuani/Sylas,5,6,0.56
+Lillia/Olaf/Rell/Rengar/Sejuani/Wukong,5,6,0.56
+Lillia/Olaf/Rell/Rengar/Sejuani/Yone,5,6,0.56
+Lillia/Olaf/Rell/Rengar/Skarner/Twitch,5,5,0.5
+Lillia/Olaf/Rell/Rengar/Skarner/Wukong,5,5,0.56
+Lillia/Olaf/Rell/Rengar/Skarner/Yone,5,5,0.56
+Lillia/Olaf/Rell/Rengar/Sylas/Vladimir,5,5,0.56
+Lillia/Olaf/Rell/Sejuani/Skarner/Wukong,5,6,0.56
+Lillia/Olaf/Rell/Sejuani/Skarner/Yone,5,6,0.56
+Lillia/Olaf/Rell/Sejuani/Sylas/Taliyah,5,6,0.56
+Lillia/Olaf/Rell/Sejuani/Sylas/Vladimir,5,6,0.56
+Lillia/Olaf/Rell/Sejuani/Sylas/Wukong,5,6,0.56
+Lillia/Olaf/Rell/Sejuani/Sylas/Yone,5,6,0.56
+Lillia/Olaf/Rell/Sejuani/Sylas/Zyra,5,6,0.56
+Lillia/Olaf/Rell/Skarner/Twitch/Varus,5,5,0.56
+Lillia/Olaf/Rell/Skarner/Twitch/Wukong,5,5,0.5
+Lillia/Olaf/Rell/Skarner/Twitch/Yone,5,5,0.5
+Lillia/Olaf/Rell/Sylas/Twitch/Vladimir,5,5,0.5
+Lillia/Olaf/Rell/Sylas/Vladimir/Wukong,5,5,0.56
+Lillia/Olaf/Rell/Sylas/Vladimir/Yone,5,5,0.56
+Lillia/Olaf/Rell/Sylas/Vladimir/Zyra,5,5,0.56
+Lillia/Olaf/Rengar/Sejuani/Skarner/Wukong,5,5,0.5
+Lillia/Olaf/Rengar/Sejuani/Skarner/Yone,5,5,0.5
+Lillia/Olaf/Rengar/Sejuani/Sylas/Vladimir,5,5,0.5
+Lillia/Olaf/Sejuani/Senna/Sett/Skarner,5,5,0.5
+Lillia/Olaf/Sejuani/Senna/Skarner/Wukong,5,5,0.5
+Lillia/Olaf/Sejuani/Senna/Skarner/Yone,5,5,0.5
+Lillia/Olaf/Sejuani/Senna/Skarner/Zeri,5,5,0.5
+Lillia/Olaf/Sejuani/Senna/Sylas/Vladimir,5,5,0.5
+Lillia/Olaf/Sejuani/Seraphine/Skarner/Wukong,5,5,0.45
+Lillia/Olaf/Sejuani/Seraphine/Skarner/Yone,5,5,0.45
+Lillia/Olaf/Sejuani/Seraphine/Skarner/Zyra,5,5,0.45
+Lillia/Olaf/Sejuani/Seraphine/Sylas/Vladimir,5,5,0.45
+Lillia/Olaf/Sejuani/Sett/Skarner/Volibear,5,5,0.5
+Lillia/Olaf/Sejuani/Sett/Skarner/Wukong,5,5,0.5
+Lillia/Olaf/Sejuani/Sett/Skarner/Yone,5,5,0.5
+Lillia/Olaf/Sejuani/Sett/Sylas/Vladimir,5,5,0.5
+Lillia/Olaf/Sejuani/Skarner/Sylas/Taliyah,5,5,0.56
+Lillia/Olaf/Sejuani/Skarner/Sylas/Vladimir,5,5,0.62
+Lillia/Olaf/Sejuani/Skarner/Sylas/Wukong,5,5,0.56
+Lillia/Olaf/Sejuani/Skarner/Sylas/Yone,5,5,0.56
+Lillia/Olaf/Sejuani/Skarner/Sylas/Zyra,5,5,0.56
+Lillia/Olaf/Sejuani/Skarner/Taliyah/Vladimir,5,5,0.62
+Lillia/Olaf/Sejuani/Skarner/Taliyah/Wukong,5,5,0.56
+Lillia/Olaf/Sejuani/Skarner/Taliyah/Yone,5,5,0.56
+Lillia/Olaf/Sejuani/Skarner/Twitch/Varus,5,6,0.62
+Lillia/Olaf/Sejuani/Skarner/Twitch/Wukong,5,6,0.56
+Lillia/Olaf/Sejuani/Skarner/Twitch/Yone,5,6,0.56
+Lillia/Olaf/Sejuani/Skarner/Varus/Vladimir,5,5,0.62
+Lillia/Olaf/Sejuani/Skarner/Varus/Wukong,5,5,0.56
+Lillia/Olaf/Sejuani/Skarner/Varus/Yone,5,5,0.56
+Lillia/Olaf/Sejuani/Skarner/Vladimir/Wukong,5,5,0.62
+Lillia/Olaf/Sejuani/Skarner/Vladimir/Yone,5,5,0.62
+Lillia/Olaf/Sejuani/Skarner/Volibear/Wukong,5,5,0.5
+Lillia/Olaf/Sejuani/Skarner/Volibear/Yone,5,5,0.5
+Lillia/Olaf/Sejuani/Skarner/Wukong/Yone,5,5,0.56
+Lillia/Olaf/Sejuani/Skarner/Wukong/Zac,5,5,0.5
+Lillia/Olaf/Sejuani/Skarner/Wukong/Zeri,5,5,0.5
+Lillia/Olaf/Sejuani/Skarner/Wukong/Zyra,5,5,0.5
+Lillia/Olaf/Sejuani/Skarner/Yone/Zac,5,5,0.5
+Lillia/Olaf/Sejuani/Skarner/Yone/Zeri,5,5,0.5
+Lillia/Olaf/Sejuani/Skarner/Yone/Zyra,5,5,0.5
+Lillia/Olaf/Sejuani/Sylas/Taliyah/Vladimir,5,5,0.56
+Lillia/Olaf/Sejuani/Sylas/Taliyah/Zac,5,5,0.56
+Lillia/Olaf/Sejuani/Sylas/Twitch/Vladimir,5,6,0.56
+Lillia/Olaf/Sejuani/Sylas/Varus/Vladimir,5,5,0.56
+Lillia/Olaf/Sejuani/Sylas/Vladimir/Volibear,5,5,0.5
+Lillia/Olaf/Sejuani/Sylas/Vladimir/Wukong,6,6,0.67
+Lillia/Olaf/Sejuani/Sylas/Vladimir/Yone,6,6,0.67
+Lillia/Olaf/Sejuani/Sylas/Vladimir/Zac,5,5,0.5
+Lillia/Olaf/Sejuani/Sylas/Vladimir/Zeri,5,5,0.5
+Lillia/Olaf/Sejuani/Sylas/Vladimir/Zyra,6,6,0.67
+Lillia/Olaf/Sejuani/Sylas/Wukong/Zac,5,5,0.5
+Lillia/Olaf/Sejuani/Sylas/Yone/Zac,5,5,0.5
+Lillia/Olaf/Sejuani/Sylas/Zac/Zyra,5,5,0.5
+Lillia/Olaf/Sejuani/Taliyah/Vladimir/Wukong,5,5,0.56
+Lillia/Olaf/Sejuani/Taliyah/Vladimir/Yone,5,5,0.56
+Lillia/Olaf/Skarner/Twitch/Varus/Vladimir,5,5,0.62
+Lillia/Rakan/Sejuani/Senna/Seraphine/Zac,5,5,0.5
+Lillia/Rakan/Sejuani/Senna/Seraphine/Zeri,5,5,0.5
+Lillia/Rakan/Sejuani/Senna/Seraphine/Zyra,5,5,0.45
+Lillia/Rakan/Sejuani/Senna/Zac/Zeri,5,5,0.56
+Lillia/Rakan/Sejuani/Seraphine/Sett/Volibear,5,5,0.45
+Lillia/Rakan/Sejuani/Seraphine/Taliyah/Zac,5,5,0.56
+Lillia/Rakan/Sejuani/Seraphine/Zac/Zeri,5,5,0.5
+Lillia/Rakan/Sejuani/Sett/Volibear/Zac,5,5,0.5
+Lillia/Rakan/Senna/Seraphine/Zac/Zeri,5,5,0.56
+Lillia/Sejuani/Skarner/Sylas/Taliyah/Zyra,5,5,0.56
+Lillia/Sejuani/Skarner/Sylas/Varus/Vladimir,5,5,0.62
+Lillia/Skarner/Sylas/Twitch/Varus/Vladimir,5,5,0.62
+Lux/Malphite/Nunu/Olaf/Sejuani/Yone,5,5,0.56
+Lux/Malphite/Sylas/Twitch/Varus/Vladimir,5,5,0.71
+Lux/Nunu/Olaf/Sejuani/Skarner/Yone,5,5,0.62
+Lux/Nunu/Olaf/Sejuani/Sylas/Yone,5,5,0.56
+Lux/Rakan/Senna/Seraphine/Zac/Zeri,5,5,0.62
+Lux/Skarner/Sylas/Twitch/Varus/Vladimir,5,5,0.83
+Malphite/Nasus/Nunu/Olaf/Sejuani/Yone,5,5,0.56
+Malphite/Nasus/Rakan/Senna/Seraphine/Zeri,5,5,0.62
+Malphite/Nidalee/Nunu/Olaf/Sejuani/Yone,5,5,0.56
+Malphite/Nunu/Olaf/Qiyana/Sejuani/Yone,5,5,0.56
+Malphite/Nunu/Olaf/Rakan/Sejuani/Yone,5,5,0.5
+Malphite/Nunu/Olaf/Rell/Rengar/Yone,5,5,0.62
+Malphite/Nunu/Olaf/Rell/Sejuani/Yone,5,6,0.62
+Malphite/Nunu/Olaf/Rell/Twitch/Yone,5,5,0.56
+Malphite/Nunu/Olaf/Rengar/Sejuani/Yone,5,5,0.56
+Malphite/Nunu/Olaf/Sejuani/Senna/Yone,5,5,0.56
+Malphite/Nunu/Olaf/Sejuani/Seraphine/Yone,5,5,0.56
+Malphite/Nunu/Olaf/Sejuani/Sett/Yone,5,5,0.56
+Malphite/Nunu/Olaf/Sejuani/Skarner/Yone,5,5,0.62
+Malphite/Nunu/Olaf/Sejuani/Sylas/Yone,5,5,0.56
+Malphite/Nunu/Olaf/Sejuani/Taliyah/Yone,5,5,0.62
+Malphite/Nunu/Olaf/Sejuani/Twitch/Yone,5,6,0.62
+Malphite/Nunu/Olaf/Sejuani/Varus/Yone,5,5,0.56
+Malphite/Nunu/Olaf/Sejuani/Vladimir/Yone,5,5,0.56
+Malphite/Nunu/Olaf/Sejuani/Volibear/Yone,5,5,0.56
+Malphite/Nunu/Olaf/Sejuani/Wukong/Yone,5,5,0.62
+Malphite/Nunu/Olaf/Sejuani/Yone/Zac,5,5,0.62
+Malphite/Nunu/Olaf/Sejuani/Yone/Zeri,5,5,0.62
+Malphite/Nunu/Olaf/Sejuani/Yone/Zyra,5,5,0.56
+Malphite/Nunu/Olaf/Twitch/Varus/Yone,5,5,0.56
+Malphite/Olaf/Qiyana/Rell/Rengar/Sejuani,5,5,0.56
+Malphite/Olaf/Rakan/Senna/Seraphine/Zac,5,5,0.56
+Malphite/Olaf/Rakan/Senna/Seraphine/Zeri,5,5,0.56
+Malphite/Olaf/Rakan/Senna/Zac/Zeri,5,5,0.62
+Malphite/Olaf/Rakan/Seraphine/Yone/Zac,5,5,0.56
+Malphite/Olaf/Rell/Rengar/Sejuani/Wukong,5,5,0.56
+Malphite/Olaf/Rell/Rengar/Sejuani/Yone,5,5,0.56
+Malphite/Rakan/Sejuani/Senna/Seraphine/Zeri,5,5,0.56
+Malphite/Rakan/Sejuani/Senna/Zac/Zeri,5,5,0.62
+Malphite/Rakan/Senna/Seraphine/Skarner/Zeri,5,5,0.62
+Malphite/Rakan/Senna/Seraphine/Sylas/Zeri,5,5,0.56
+Malphite/Rakan/Senna/Seraphine/Twitch/Zeri,5,5,0.56
+Malphite/Rakan/Senna/Seraphine/Zac/Zeri,5,5,0.71
+Malphite/Rakan/Senna/Seraphine/Zeri/Zyra,5,5,0.62
+Malphite/Rakan/Senna/Skarner/Zac/Zeri,5,5,0.71
+Malphite/Rakan/Senna/Sylas/Zac/Zeri,5,5,0.62
+Malphite/Rakan/Senna/Twitch/Zac/Zeri,5,5,0.62
+Nasus/Nunu/Olaf/Rakan/Sejuani/Yone,5,5,0.5
+Nasus/Nunu/Olaf/Sejuani/Skarner/Yone,5,5,0.56
+Nasus/Nunu/Olaf/Sejuani/Sylas/Yone,5,5,0.5
+Nasus/Nunu/Olaf/Sejuani/Yone/Zac,5,5,0.56
+Nasus/Nunu/Rakan/Sejuani/Senna/Yone,5,5,0.56
+Nasus/Nunu/Rakan/Sejuani/Senna/Zeri,5,5,0.56
+Nasus/Rakan/Rell/Rengar/Sejuani/Senna,5,5,0.56
+Nasus/Rakan/Rell/Sejuani/Senna/Zeri,5,5,0.56
+Nasus/Rakan/Sejuani/Senna/Seraphine/Zeri,5,5,0.56
+Nasus/Rakan/Senna/Seraphine/Taliyah/Zeri,5,5,0.62
+Nasus/Rakan/Senna/Seraphine/Twitch/Varus,5,5,0.5
+Nasus/Rakan/Senna/Seraphine/Twitch/Zeri,5,5,0.56
+Nasus/Rakan/Senna/Seraphine/Zac/Zeri,5,5,0.71
+Nasus/Rakan/Senna/Seraphine/Zeri/Zyra,5,5,0.62
+Nasus/Rakan/Senna/Twitch/Varus/Zeri,5,5,0.56
+Nasus/Rakan/Sett/Twitch/Varus/Volibear,5,5,0.62
+Nidalee/Nunu/Olaf/Sejuani/Skarner/Yone,5,5,0.62
+Nidalee/Nunu/Olaf/Sejuani/Sylas/Yone,5,5,0.5
+Nidalee/Rakan/Senna/Seraphine/Zac/Zeri,5,5,0.62
+Nunu/Olaf/Qiyana/Rell/Rengar/Yone,5,5,0.62
+Nunu/Olaf/Qiyana/Rengar/Sejuani/Yone,5,5,0.56
+Nunu/Olaf/Qiyana/Sejuani/Skarner/Yone,5,5,0.56
+Nunu/Olaf/Qiyana/Sejuani/Sylas/Yone,5,5,0.5
+Nunu/Olaf/Rakan/Sejuani/Senna/Yone,5,5,0.5
+Nunu/Olaf/Rakan/Sejuani/Seraphine/Yone,5,5,0.45
+Nunu/Olaf/Rakan/Sejuani/Sett/Yone,5,5,0.5
+Nunu/Olaf/Rakan/Sejuani/Skarner/Yone,5,5,0.5
+Nunu/Olaf/Rakan/Sejuani/Sylas/Yone,5,5,0.45
+Nunu/Olaf/Rakan/Sejuani/Yone/Zac,5,5,0.5
+Nunu/Olaf/Rell/Rengar/Sejuani/Yone,5,6,0.62
+Nunu/Olaf/Rell/Rengar/Skarner/Yone,5,5,0.62
+Nunu/Olaf/Rell/Rengar/Sylas/Yone,5,5,0.56
+Nunu/Olaf/Rell/Rengar/Twitch/Yone,5,5,0.56
+Nunu/Olaf/Rell/Sejuani/Skarner/Yone,5,6,0.62
+Nunu/Olaf/Rell/Sejuani/Sylas/Yone,5,6,0.56
+Nunu/Olaf/Rell/Skarner/Twitch/Yone,5,5,0.56
+Nunu/Olaf/Rell/Sylas/Twitch/Yone,5,5,0.5
+Nunu/Olaf/Rell/Sylas/Yone/Zyra,5,5,0.56
+Nunu/Olaf/Rell/Twitch/Varus/Yone,5,5,0.56
+Nunu/Olaf/Rengar/Sejuani/Skarner/Yone,5,5,0.56
+Nunu/Olaf/Rengar/Sejuani/Sylas/Yone,5,5,0.5
+Nunu/Olaf/Sejuani/Senna/Sett/Yone,5,5,0.56
+Nunu/Olaf/Sejuani/Senna/Skarner/Yone,5,5,0.56
+Nunu/Olaf/Sejuani/Senna/Sylas/Yone,5,5,0.5
+Nunu/Olaf/Sejuani/Senna/Yone/Zeri,5,5,0.56
+Nunu/Olaf/Sejuani/Seraphine/Skarner/Yone,5,5,0.5
+Nunu/Olaf/Sejuani/Seraphine/Sylas/Yone,5,5,0.45
+Nunu/Olaf/Sejuani/Seraphine/Yone/Zyra,5,5,0.5
+Nunu/Olaf/Sejuani/Sett/Skarner/Yone,5,5,0.56
+Nunu/Olaf/Sejuani/Sett/Sylas/Yone,5,5,0.5
+Nunu/Olaf/Sejuani/Sett/Volibear/Yone,5,5,0.56
+Nunu/Olaf/Sejuani/Skarner/Sylas/Yone,5,5,0.56
+Nunu/Olaf/Sejuani/Skarner/Taliyah/Yone,5,5,0.56
+Nunu/Olaf/Sejuani/Skarner/Twitch/Yone,5,6,0.62
+Nunu/Olaf/Sejuani/Skarner/Varus/Yone,5,5,0.62
+Nunu/Olaf/Sejuani/Skarner/Vladimir/Yone,5,5,0.62
+Nunu/Olaf/Sejuani/Skarner/Volibear/Yone,5,5,0.56
+Nunu/Olaf/Sejuani/Skarner/Wukong/Yone,5,5,0.62
+Nunu/Olaf/Sejuani/Skarner/Yone/Zac,5,5,0.56
+Nunu/Olaf/Sejuani/Skarner/Yone/Zeri,5,5,0.56
+Nunu/Olaf/Sejuani/Skarner/Yone/Zyra,5,5,0.56
+Nunu/Olaf/Sejuani/Sylas/Taliyah/Yone,5,5,0.56
+Nunu/Olaf/Sejuani/Sylas/Twitch/Yone,5,6,0.56
+Nunu/Olaf/Sejuani/Sylas/Varus/Yone,5,5,0.5
+Nunu/Olaf/Sejuani/Sylas/Vladimir/Yone,5,5,0.56
+Nunu/Olaf/Sejuani/Sylas/Volibear/Yone,5,5,0.5
+Nunu/Olaf/Sejuani/Sylas/Wukong/Yone,5,5,0.56
+Nunu/Olaf/Sejuani/Sylas/Yone/Zac,5,5,0.5
+Nunu/Olaf/Sejuani/Sylas/Yone/Zeri,5,5,0.5
+Nunu/Olaf/Sejuani/Sylas/Yone/Zyra,6,6,0.67
+Nunu/Olaf/Sejuani/Twitch/Varus/Yone,5,6,0.62
+Nunu/Olaf/Skarner/Twitch/Varus/Yone,5,5,0.62
+Nunu/Qiyana/Rell/Rengar/Sejuani/Yone,5,6,0.71
+Nunu/Qiyana/Rell/Rengar/Twitch/Varus,5,5,0.62
+Nunu/Qiyana/Rell/Rengar/Twitch/Yone,5,5,0.62
+Nunu/Qiyana/Rell/Rengar/Wukong/Yone,5,5,0.71
+Nunu/Qiyana/Rengar/Sejuani/Wukong/Yone,5,5,0.62
+Nunu/Rakan/Sejuani/Senna/Seraphine/Yone,5,5,0.5
+Nunu/Rakan/Sejuani/Senna/Seraphine/Zeri,5,5,0.56
+Nunu/Rakan/Sejuani/Senna/Wukong/Yone,5,5,0.56
+Nunu/Rakan/Sejuani/Senna/Yone/Zac,5,5,0.56
+Nunu/Rakan/Sejuani/Senna/Yone/Zeri,5,5,0.56
+Nunu/Rakan/Sejuani/Senna/Zac/Zeri,5,5,0.62
+Nunu/Rakan/Sejuani/Sett/Volibear/Yone,5,5,0.56
+Nunu/Rakan/Senna/Seraphine/Zac/Zeri,5,5,0.62
+Nunu/Rell/Rengar/Sejuani/Wukong/Yone,5,6,0.71
+Nunu/Rell/Rengar/Twitch/Varus/Yone,5,5,0.62
+Nunu/Rell/Rengar/Twitch/Wukong/Yone,5,5,0.62
+Nunu/Rell/Twitch/Varus/Wukong/Yone,5,5,0.62
+Nunu/Sejuani/Senna/Sett/Volibear/Yone,5,5,0.62
+Nunu/Sejuani/Senna/Sett/Volibear/Zeri,5,5,0.62
+Nunu/Sejuani/Senna/Sett/Wukong/Yone,5,5,0.62
+Nunu/Sejuani/Senna/Sett/Yone/Zeri,5,5,0.62
+Nunu/Sejuani/Senna/Wukong/Yone/Zeri,5,5,0.62
+Nunu/Sejuani/Sett/Volibear/Wukong/Yone,5,5,0.62
+Nunu/Sejuani/Twitch/Varus/Wukong/Yone,5,6,0.71
+Olaf/Qiyana/Rell/Rengar/Sejuani/Skarner,5,5,0.56
+Olaf/Qiyana/Rell/Rengar/Sejuani/Sylas,5,5,0.5
+Olaf/Qiyana/Rell/Rengar/Sejuani/Wukong,5,5,0.56
+Olaf/Qiyana/Rell/Rengar/Sejuani/Yone,5,5,0.56
+Olaf/Rakan/Senna/Seraphine/Zac/Zeri,5,5,0.56
+Olaf/Rell/Rengar/Sejuani/Skarner/Wukong,5,5,0.56
+Olaf/Rell/Rengar/Sejuani/Skarner/Yone,5,5,0.56
+Olaf/Rell/Rengar/Sejuani/Sylas/Wukong,5,5,0.5
+Olaf/Rell/Rengar/Sejuani/Sylas/Yone,5,5,0.5
+Olaf/Rell/Rengar/Sejuani/Sylas/Zyra,5,5,0.5
+Olaf/Rell/Sejuani/Sylas/Yone/Zyra,5,5,0.5
+Olaf/Skarner/Twitch/Varus/Vladimir/Wukong,5,5,0.62
+Olaf/Skarner/Twitch/Varus/Vladimir/Yone,5,5,0.62
+Qiyana/Rakan/Rell/Rengar/Sejuani/Senna,5,5,0.56
+Qiyana/Rakan/Senna/Seraphine/Zac/Zeri,5,5,0.62
+Qiyana/Rell/Rengar/Sejuani/Senna/Sett,5,5,0.62
+Qiyana/Rell/Rengar/Sejuani/Senna/Zeri,5,5,0.62
+Qiyana/Rell/Rengar/Sejuani/Sett/Volibear,5,5,0.62
+Qiyana/Rell/Rengar/Sejuani/Twitch/Varus,5,6,0.71
+Qiyana/Rell/Rengar/Sejuani/Wukong/Yone,5,5,0.62
+Rakan/Rell/Rengar/Sejuani/Senna/Seraphine,5,5,0.5
+Rakan/Rell/Rengar/Sejuani/Senna/Zac,5,5,0.56
+Rakan/Rell/Rengar/Sejuani/Senna/Zeri,5,5,0.56
+Rakan/Rell/Rengar/Sejuani/Sett/Volibear,5,5,0.56
+Rakan/Rell/Sejuani/Senna/Seraphine/Zeri,5,5,0.56
+Rakan/Rell/Sejuani/Senna/Zac/Zeri,5,5,0.62
+Rakan/Rell/Senna/Seraphine/Zac/Zeri,5,5,0.62
+Rakan/Rengar/Senna/Seraphine/Zac/Zeri,5,5,0.62
+Rakan/Sejuani/Senna/Seraphine/Taliyah/Zac,5,5,0.56
+Rakan/Sejuani/Senna/Seraphine/Taliyah/Zeri,5,5,0.56
+Rakan/Sejuani/Senna/Seraphine/Zac/Zeri,6,6,0.75
+Rakan/Sejuani/Senna/Seraphine/Zeri/Zyra,5,5,0.56
+Rakan/Sejuani/Senna/Taliyah/Zac/Zeri,5,5,0.62
+Rakan/Senna/Seraphine/Sett/Zac/Zeri,5,5,0.71
+Rakan/Senna/Seraphine/Skarner/Zac/Zeri,5,5,0.62
+Rakan/Senna/Seraphine/Sylas/Zac/Zeri,5,5,0.56
+Rakan/Senna/Seraphine/Taliyah/Twitch/Zac,5,5,0.56
+Rakan/Senna/Seraphine/Taliyah/Zac/Zeri,5,5,0.71
+Rakan/Senna/Seraphine/Taliyah/Zac/Zyra,5,5,0.62
+Rakan/Senna/Seraphine/Twitch/Varus/Zac,5,5,0.56
+Rakan/Senna/Seraphine/Twitch/Zac/Zeri,6,6,0.75
+Rakan/Senna/Seraphine/Varus/Zac/Zeri,5,5,0.62
+Rakan/Senna/Seraphine/Vladimir/Zac/Zeri,5,5,0.62
+Rakan/Senna/Seraphine/Volibear/Zac/Zeri,5,5,0.62
+Rakan/Senna/Seraphine/Wukong/Zac/Zeri,5,5,0.62
+Rakan/Senna/Seraphine/Yone/Zac/Zeri,5,5,0.62
+Rakan/Senna/Seraphine/Zac/Zeri/Zyra,6,6,0.86
+Rakan/Senna/Taliyah/Twitch/Zac/Zeri,5,5,0.62
+Rakan/Senna/Twitch/Varus/Zac/Zeri,5,5,0.62
+Rakan/Seraphine/Sett/Taliyah/Volibear/Zac,5,5,0.62
+Rakan/Seraphine/Sett/Volibear/Zac/Zeri,5,5,0.62
+Rakan/Seraphine/Taliyah/Twitch/Varus/Zac,5,5,0.56
+Rakan/Seraphine/Twitch/Varus/Zac/Zeri,5,5,0.56
+Rakan/Sett/Twitch/Varus/Volibear/Zac,5,5,0.56
+Rell/Rengar/Sejuani/Senna/Sett/Volibear,5,5,0.62
+Rell/Rengar/Sejuani/Senna/Sett/Zeri,5,5,0.62
+Rell/Sejuani/Senna/Sett/Volibear/Zeri,5,5,0.62
+Skarner/Sylas/Taliyah/Twitch/Varus/Vladimir,5,5,0.71

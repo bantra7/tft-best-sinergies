@@ -1,0 +1,60 @@
+Champion;Cost;Origin;Class;Health;Armor;Attack Damage;Attack Speed;DPS;Mana;Carry;Tank
+Ao Shin;8;Tempest;Dragon;800;35;60;0.80;48;0/190;1;0
+Aphelios;2;Darkflight;Cannoneer;500;20;60;0.70;42;80/175;1;0
+Aurelion Sol;8;Astral;Dragon/Evoker;800;35;60;0.75;45;0/60;1;0
+Bard;5;Guild;Bard/Mystic;850;40;60;0.70;42;160/240;0;0
+Braum;2;Scalescorn;Guardian;800;60;70;0.60;42;30/60;0;1
+Daeja;7;Mirage;Dragon;800;40;20;0.60;12;0/100;1;0
+Diana;3;Scalescorn;Assassin;700;35;50;0.75;38;50/100;1;0
+Ezreal;1;Tempest;Swiftshot;500;15;35;0.70;25;0/40;1;0
+Gnar;2;Jade;Shapeshifter;750;40;50;0.70;35;0/70;1;0
+Graves;4;Tempest;Cannoneer;800;30;65;0.65;42;0/40;1;0
+Hecarim;4;Ragewing;Cavalier;900;60;60;0.75;45;30/90;0;1
+Idas;7;Shimmerscale;Dragon/Guardian;950;60;90;0.55;50;80/160;0;1
+Jax;2;Jade/Shimmerscale;Bruiser;750;45;55;0.70;39;70/140;0;1
+Jayce;4;Guild;Shapeshifter;900;25;90;0.80;72;0/60;0;1
+Kai'sa;2;Lagoon;Dragonmancer;550;25;35;0.80;28;0/45;1;0
+Karma;1;Jade;Dragonmancer;500;20;40;0.70;28;0/50;1;0
+Lee Sin;3;Tempest;Dragonmancer;800;50;55;0.75;41;30/90;1;0
+Leona;1;Mirage;Guardian;650;45;75;0.55;41;40/80;0;1
+Lillia;2;Scalescorn;Cavalier/Mage;750;40;40;0.70;28;0/50;1;0
+Lux;2;Astral;Mage;600;20;30;0.70;21;0/60;1;0
+Malphite;1;Lagoon;Bruiser;700;40;70;0.50;35;90/90;0;1
+Nasus;1;Shimmerscale;Guardian;600;40;60;0.55;33;60/100;0;1
+Nidalee;1;Astral;Shapeshifter;600;30;60;0.70;42;0/50;1;0
+Nilah;4;Lagoon;Assassin;800;45;70;0.75;53;0/60;1;0
+Nomsy;6;Prodigy;Dragon;650;30;60;0.75;45;0/90;1;0
+Nunu;3;Mirage;Cavalier;850;50;65;0.55;36;40/100;0;1
+Olaf;3;Scalescorn;Bruiser/Warrior;800;50;55;0.70;39;30/100;1;0
+Pantheon;4;Whispers;Warrior;1000;50;60;0.65;39;30/60;0;1
+Qiyana;2;Tempest;Assassin;700;35;50;0.75;38;40/100;0;0
+Rakan;3;Ragewing;Guardian/Mystic;800;50;45;0.75;34;15/75;0;1
+Rell;2;Darkflight;Cavalier;700;45;50;0.60;30;0/70;0;1
+Rengar;3;Darkflight;Assassin;700;30;70;0.75;53;70/140;1;0
+Sejuani;1;Guild;Cavalier;650;40;60;0.55;33;50/90;0;1
+Senna;1;Ragewing;Cannoneer;500;15;50;0.70;35;15/75;1;0
+Seraphine;3;Lagoon;Evoker/Mystic;750;30;50;0.70;35;100/175;0;0
+Sett;1;Ragewing;Dragonmancer;650;40;65;0.70;46;30/60;0;0
+Shi Oh Yu;7;Jade;Dragon/Mystic;850;60;75;0.75;56;30/100;1;0
+Shyvana;8;Ragewing;Dragon/Shapeshifter;900;70;120;0.80;96;15/60;0;1
+Skarner;1;Astral;Bruiser;650;45;60;0.60;36;40/90;0;1
+Sohm;7;Lagoon;Dragon/Mage;800;30;30;0.75;23;0/40;1;0
+Soraka;5;Jade;Starcaller;800;30;40;0.70;28;100/200;0;0
+Sy'fen;7;Whispers;Bruiser/Dragon;900;60;90;0.70;63;100/170;1;0
+Sylas;3;Whispers;Bruiser/Mage;800;50;60;0.60;36;70/140;0;0
+Taliyah;1;Lagoon;Mage;550;15;30;0.70;21;0/60;1;0
+Terra;8;Monolith;Dragon;1050;100;80;0.65;52;30/70;0;1
+Twitch;2;Guild;Swiftshot;550;20;55;0.70;39;40/80;0;0
+Tyrant Swain;7;Darkflight;Dragon;900;70;40;0.60;24;60/120;0;1
+Varus;3;Astral;Swiftshot;650;25;55;0.70;39;75/150;1;0
+Vladimir;1;Astral;Mage;700;45;40;0.60;24;0/70;0;1
+Volibear;3;Shimmerscale;Dragonmancer;800;50;50;0.75;38;0/40;1;0
+Wukong;1;Jade;Warrior;650;40;55;0.70;39;0/60;0;0
+Xayah;4;Ragewing;Swiftshot;750;25;70;0.75;53;0/60;1;0
+Yasuo;5;Mirage;Dragonmancer/Warrior;1000;50;90;1.00;90;0/25;1;0
+Yone;2;Mirage;Warrior;800;40;55;0.85;47;-;1;0
+Zac;2;Lagoon;Guardian;800;45;60;0.60;36;0/60;0;1
+Zeri;3;Lagoon;Cannoneer;600;20;65;0.75;49;20/70;1;0
+Zippy;6;Guild;Dragon;800;50;85;0.75;64;40/100;1;0
+Zoe;5;Shimmerscale;Mage/Spell Thief;800;20;45;0.75;34;40/110;0;0
+Zyra;2;Whispers;Evoker;600;20;40;0.65;26;50/125;0;0
