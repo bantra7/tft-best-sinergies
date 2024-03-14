@@ -2,7 +2,7 @@ import json
 from bisect import bisect
 
 def get_all_champions():
-    with open('app/data/champions-8.json', 'r') as f:
+    with open('app/data/champions-11.json', 'r') as f:
         champions = json.load(f)
     return champions
 
