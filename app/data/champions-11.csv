@@ -1,61 +1,61 @@
 Name,Cost,Origin,Class,Health,Armor,AD,Attack Range,AS,DPS,Skill,Mana
-Aatrox,2,Ghostly Inkshadow,Bruiser,700,45,55,,0.65,36,,40/90
-Ahri,1,Fated,Arcanist,500,15,30,,0.75,23,,0/60
-Alune,3,Umbral,Invoker,650,25,40,,0.70,28,,0/60
-Amumu,3,Porcelain,Warden,900,50,60,,0.60,36,,40/80
-Annie,4,Fortune,Invoker,850,60,55,,0.65,36,,70/140
-Aphelios,3,Fated,Sniper,650,25,60,,0.75,45,,40/100
-Ashe,4,Porcelain,Sniper,700,30,65,,0.80,52,,25/100
-Azir,5,Dryad,Invoker,800,35,45,,0.85,38,,30/120
-Bard,3,Mythic,Trickshot,650,25,50,,0.80,40,,0/50
-Caitlyn,1,Ghostly,Sniper,500,15,50,,0.70,35,,0/105
-Cho'Gath,1,Mythic,Behemoth,650,40,50,,0.55,28,,40/90
-Darius,1,Umbral,Duelist,650,40,40,,0.70,28,,0/30
-Diana,3,Dragonlord,Sage,900,55,45,,0.80,36,,70/120
-Galio,4,Storyweaver,Bruiser,1100,60,60,,0.60,36,,70/140
-Garen,1,Storyweaver,Warden,600,40,55,,0.60,33,,30/80
-Gnar,2,Dryad,Warden,700,45,60,,0.70,42,,10/60
-Hwei,5,Mythic,Artist,800,40,50,,0.80,40,,30/105
-Illaoi,3,Ghostly,Arcanist Warden,900,50,50,,0.60,30,,30/90
-Irelia,5,Storyweaver,Duelist,900,40,75,,0.90,68,,-
-Janna,2,Dragonlord,Invoker,600,20,40,,0.75,30,,25/75
-Jax,1,Inkshadow,Warden,650,40,45,,0.65,29,,20/60
-Kai'Sa,4,Inkshadow,Trickshot,700,30,70,,0.80,56,,20/75
-Kayn,4,Ghostly,Reaper,1000,70,75,,0.90,68,,0/60
-Kha'Zix,1,Heavenly,Reaper,600,35,50,,0.75,38,,0/40
-Kindred,2,Dryad Fated,Reaper,550,20,40,,0.70,28,,0/30
-Kobuko,1,Fortune,Bruiser,600,30,65,,0.50,33,,30/80
-Kog'Maw,1,Mythic,Invoker Sniper,500,15,30,,0.70,21,,0/30
-Lee Sin,4,Dragonlord,Duelist,950,55,65,,0.85,55,,40/100
-Lillia,4,Mythic,Invoker,700,30,45,,0.75,34,,0/50
-Lissandra,5,Porcelain,Arcanist,1000,55,50,,0.80,40,,40/100
-Lux,2,Porcelain,Arcanist,550,20,40,,0.70,28,,15/75
-Malphite,1,Heavenly,Behemoth,650,40,50,,0.55,28,,40/80
-Morgana,4,Ghostly,Sage,750,40,40,,0.75,30,,0/60
-Nautilus,4,Mythic,Warden,1000,60,70,,0.60,42,,80/180
-Neeko,2,Heavenly Mythic,Arcanist,800,45,45,,0.65,29,,40/80
-Ornn,4,Dryad,Behemoth,1000,60,60,,0.60,36,,80/120
-Qiyana,2,Heavenly,Duelist,700,35,50,,0.75,38,,0/20
-Rakan,5,Dragonlord,Altruist Lovers,1100,60,60,,0.85,51,,30/90
-Rek'Sai,1,Dryad,Bruiser,650,45,50,,0.55,28,,40/100
-Riven,2,Storyweaver,Altruist Bruiser,700,40,50,,0.75,38,,0/25
-Senna,2,Inkshadow,Sniper,600,20,55,,0.75,41,,20/75
-Sett,5,Fated Umbral,Warden,1100,70,65,,0.85,55,,100/180
-Shen,2,Ghostly,Behemoth,800,45,55,,0.65,36,,25/75
-Sivir,1,Storyweaver,Trickshot,500,15,55,,0.70,39,,0/50
-Soraka,3,Heavenly,Altruist,650,25,40,,0.75,30,,0/60
-Sylas,4,Umbral,Bruiser,1000,50,50,,0.85,43,,0/40
-Syndra,4,Fated,Arcanist,700,30,45,,0.75,34,,0/30
-Tahm Kench,3,Mythic,Bruiser,850,45,60,,0.60,36,,40/100
-Teemo,2,Fortune,Trickshot,550,20,40,,0.70,28,,0/30
-Thresh,3,Fated,Behemoth,900,50,75,,0.50,38,,30/90
-Tristana,3,Fortune,Duelist,700,25,55,,0.75,41,,40/100
-Udyr,5,Inkshadow,Behemoth SpiritWalker,950,50,50,,0.95,48,,30/90
-Volibear,3,Inkshadow,Duelist,900,50,45,,0.80,36,,0/50
-Wukong,5,Heavenly,Great Sage,1200,65,80,,0.90,72,,0/30
-Xayah,5,Dragonlord,Lovers Trickshot,850,40,80,,0.90,72,,30/90
-Yasuo,1,Fated,Duelist,600,45,35,,0.75,26,,0/70
-Yone,3,Umbral,Reaper,800,50,65,,0.90,59,,0/60
-Yorick,2,Umbral,Behemoth,800,50,60,,0.60,36,,40/90
-Zoe,3,Fortune Storyweaver,Arcanist,650,25,45,,0.75,34,,0/60
-Zyra,2,Storyweaver,Sage,600,20,40,,0.75,30,,30/75
+Aatrox,2,Ghostly Inkshadow,Bruiser,700,45,55,0.65,36,40/90
+Ahri,1,Fated,Arcanist,500,15,30,0.75,23,0/60
+Alune,3,Umbral,Invoker,650,25,40,0.70,28,0/60
+Amumu,3,Porcelain,Warden,900,50,60,0.60,36,40/80
+Annie,4,Fortune,Invoker,850,60,55,0.65,36,70/140
+Aphelios,3,Fated,Sniper,650,25,60,0.75,45,40/100
+Ashe,4,Porcelain,Sniper,700,30,65,0.80,52,25/100
+Azir,5,Dryad,Invoker,800,35,45,0.85,38,30/120
+Bard,3,Mythic,Trickshot,650,25,50,0.80,40,0/50
+Caitlyn,1,Ghostly,Sniper,500,15,50,0.70,35,0/105
+Cho'Gath,1,Mythic,Behemoth,650,40,50,0.55,28,40/90
+Darius,1,Umbral,Duelist,650,40,40,0.70,28,0/30
+Diana,3,Dragonlord,Sage,900,55,45,0.80,36,70/120
+Galio,4,Storyweaver,Bruiser,1100,60,60,0.60,36,70/140
+Garen,1,Storyweaver,Warden,600,40,55,0.60,33,30/80
+Gnar,2,Dryad,Warden,700,45,60,0.70,42,10/60
+Hwei,5,Mythic,Artist,800,40,50,0.80,40,30/105
+Illaoi,3,Ghostly,Arcanist Warden,900,50,50,0.60,30,30/90
+Irelia,5,Storyweaver,Duelist,900,40,75,0.90,68,-
+Janna,2,Dragonlord,Invoker,600,20,40,0.75,30,25/75
+Jax,1,Inkshadow,Warden,650,40,45,0.65,29,20/60
+Kai'Sa,4,Inkshadow,Trickshot,700,30,70,0.80,56,20/75
+Kayn,4,Ghostly,Reaper,1000,70,75,0.90,68,0/60
+Kha'Zix,1,Heavenly,Reaper,600,35,50,0.75,38,0/40
+Kindred,2,Dryad Fated,Reaper,550,20,40,0.70,28,0/30
+Kobuko,1,Fortune,Bruiser,600,30,65,0.50,33,30/80
+Kog'Maw,1,Mythic,Invoker Sniper,500,15,30,0.70,21,0/30
+Lee Sin,4,Dragonlord,Duelist,950,55,65,0.85,55,40/100
+Lillia,4,Mythic,Invoker,700,30,45,0.75,34,0/50
+Lissandra,5,Porcelain,Arcanist,1000,55,50,0.80,40,40/100
+Lux,2,Porcelain,Arcanist,550,20,40,0.70,28,15/75
+Malphite,1,Heavenly,Behemoth,650,40,50,0.55,28,40/80
+Morgana,4,Ghostly,Sage,750,40,40,0.75,30,0/60
+Nautilus,4,Mythic,Warden,1000,60,70,0.60,42,80/180
+Neeko,2,Heavenly Mythic,Arcanist,800,45,45,0.65,29,40/80
+Ornn,4,Dryad,Behemoth,1000,60,60,0.60,36,80/120
+Qiyana,2,Heavenly,Duelist,700,35,50,0.75,38,0/20
+Rakan,5,Dragonlord,Altruist Lovers,1100,60,60,0.85,51,30/90
+Rek'Sai,1,Dryad,Bruiser,650,45,50,0.55,28,40/100
+Riven,2,Storyweaver,Altruist Bruiser,700,40,50,0.75,38,0/25
+Senna,2,Inkshadow,Sniper,600,20,55,0.75,41,20/75
+Sett,5,Fated Umbral,Warden,1100,70,65,0.85,55,100/180
+Shen,2,Ghostly,Behemoth,800,45,55,0.65,36,25/75
+Sivir,1,Storyweaver,Trickshot,500,15,55,0.70,39,0/50
+Soraka,3,Heavenly,Altruist,650,25,40,0.75,30,0/60
+Sylas,4,Umbral,Bruiser,1000,50,50,0.85,43,0/40
+Syndra,4,Fated,Arcanist,700,30,45,0.75,34,0/30
+Tahm Kench,3,Mythic,Bruiser,850,45,60,0.60,36,40/100
+Teemo,2,Fortune,Trickshot,550,20,40,0.70,28,0/30
+Thresh,3,Fated,Behemoth,900,50,75,0.50,38,30/90
+Tristana,3,Fortune,Duelist,700,25,55,0.75,41,40/100
+Udyr,5,Inkshadow,Behemoth SpiritWalker,950,50,50,0.95,48,30/90
+Volibear,3,Inkshadow,Duelist,900,50,45,0.80,36,0/50
+Wukong,5,Heavenly,Great Sage,1200,65,80,0.90,72,0/30
+Xayah,5,Dragonlord,Lovers Trickshot,850,40,80,0.90,72,30/90
+Yasuo,1,Fated,Duelist,600,45,35,0.75,26,0/70
+Yone,3,Umbral,Reaper,800,50,65,0.90,59,0/60
+Yorick,2,Umbral,Behemoth,800,50,60,0.60,36,40/90
+Zoe,3,Fortune Storyweaver,Arcanist,650,25,45,0.75,34,0/60
+Zyra,2,Storyweaver,Sage,600,20,40,0.75,30,30/75
