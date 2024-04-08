@@ -1,20 +1,25 @@
 import json
 from bisect import bisect
-
-def get_all_champions():
-    with open('app/data/champions-11.json', 'r') as f:
-        champions = json.load(f)
-    return champions
+import pandas as pd
 
 
-def get_champions_with_cost(champions, costs):
-    return [champion for champion in champions if champion['Cost'] in costs]
+def get_champions_df():
+    """
+    Récupération des données des champions sous format dataframe
+    :return:
+    """
+    champions_df = pd.read_csv("app/data/champions-11.csv")
+    return champions_df
 
 
-def get_all_synergies():
-    with open('app/data/synergies-8.json', 'r') as f:
-        synergies = json.load(f)
-    return synergies
+def get_all_traits():
+    """
+    Récupération des données des classes sous format json
+    :return:
+    """
+    with open('app/data/traits-11.json', 'r') as f:
+        traits = json.load(f)
+    return traits
 
 
 def get_synergies_for_team(team):
@@ -73,7 +78,7 @@ def get_stats(team_synergies, paliers):
     return synergies_unlock, i_unlock, score, ratio
 
 
-def get_best_synergies(team_combinations, synergies, min_synergies, min_ratio, champion_constraint):
+def get_best_synergies(team_combinations, synergies, min_synergies, min_ratio):
     best_sinergies = []
     for team in team_combinations:
         team_comp = '/'.join([champion['Champion'] for champion in team])
@@ -81,7 +86,7 @@ def get_best_synergies(team_combinations, synergies, min_synergies, min_ratio, c
         paliers = get_paliers_for_synergie_team(synergies, team_synergies['names'])
         synergies_unlock_names, nbre_unlock_synergies, score, ratio = get_stats(team_synergies, paliers)
         # if nbre_unlock_synergies >= seuil_nbre and team_synergies['carrys'] >= nbre_carry and team_synergies['tanks'] >= nbre_tank and score >= seuil_score:
-        if nbre_unlock_synergies >= min_synergies and ratio >= min_ratio and champion_constraint in team_comp:
+        if nbre_unlock_synergies >= min_synergies and ratio >= min_ratio in team_comp:
             best_sinergies.append(
                 { 
                   'TEAM': team_comp,
