@@ -59,7 +59,7 @@ def main():
         team_size = st.select_slider('Team size', range(4, 10))
         min_synergies = st.select_slider('Minimum of unlock synergies', range(1, 9))
         min_ratio = st.select_slider('Minimum ratio', [round(item, 2) for item in list(np.linspace(0, 1, 11))])
-        max_team = st.select_slider('Max team', range(20, 120, 20))
+        max_team = st.select_slider('Max team', range(20, 120, 20), value=100)
     costs = [index for index, cost_bool in enumerate([cost_1, cost_2, cost_3, cost_4, cost_5], 1) if cost_bool]
     df_champions = df_champions.loc[df_champions['Cost'].isin(costs)]
     champion_names = df_champions['Name'].tolist()
