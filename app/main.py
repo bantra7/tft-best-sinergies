@@ -4,8 +4,10 @@ from itertools import combinations
 from calcul import get_champions_df, get_all_traits, get_best_teams
 from math import comb
 
+TFT_SET_NUMBER = 11
 
-@st.cache
+
+@st.cache_data
 def convert_df(df):
     """
     Cache the conversion of dataframe to prevent computation on every rerun
@@ -18,7 +20,7 @@ def champions():
     """
     Cache champions data
     """
-    return get_champions_df()
+    return get_champions_df(TFT_SET_NUMBER)
 
 
 @st.cache_data
@@ -26,7 +28,7 @@ def traits():
     """
     Cache traits data
     """
-    return get_all_traits()
+    return get_all_traits(TFT_SET_NUMBER)
 
 
 def main():
@@ -74,20 +76,15 @@ def main():
         # Get number of teams tested without iterate on team_combinations
         number_teams_tested = comb(len(champion_names), team_size - len(champions_filter))
         st.write(f'Testing {number_teams_tested} teams.')
-        # TODO Récupération des équipes avec les meilleures synergies
-        df_best_teams = get_best_teams(teams, min_synergies, min_ratio, max_team)
+        df_best_teams = get_best_teams(teams, number_teams_tested, min_synergies, min_ratio, max_team, TFT_SET_NUMBER)
         st.dataframe(df_best_teams)
-        # st.write(
-        #     f'Nombre de teams avec plus que {min_synergies} synergie(s) et un ratio minimum de {min_ratio}: {len(best_sinergies)}.')
-        # best_synergies_df = pd.DataFrame(best_sinergies)
-        # best_sinergies_csv = convert_df(best_synergies_df)
-        # result_button = st.button('See Results')
-        # st.download_button(
-        #     label="Download data as CSV",
-        #     data=best_sinergies_csv,
-        #     file_name='best_sinergies.csv',
-        #     mime='text/csv',
-        # )
+        best_teams_csv = convert_df(df_best_teams)
+        st.download_button(
+            label="Download data as CSV",
+            data=best_teams_csv,
+            file_name='best_teams.csv',
+            mime='text/csv',
+        )
 
 
 if __name__ == '__main__':

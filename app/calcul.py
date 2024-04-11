@@ -2,48 +2,55 @@ import json
 from bisect import bisect
 from collections import Counter
 import pandas as pd
+import streamlit as st
 
 
-def get_champions_df():
+def get_champions_df(tft_set_number: int):
     """
     Récupération des données des champions sous format dataframe
     :return:
     """
-    champions_df = pd.read_csv("data/champions-11.csv")
+    champions_df = pd.read_csv(f'data/champions-{tft_set_number}.csv')
     return champions_df
 
 
-def get_all_traits():
+def get_all_traits(tft_set_number: int):
     """
     Récupération des données des classes sous format json
     :return:
     """
-    with open('data/traits-11.json', 'r') as f:
+    with open(f'data/traits-{tft_set_number}.json', 'r') as f:
         traits = json.load(f)
     return traits
 
 
-def get_best_teams(teams, min_synergies, min_ratio, max_team):
+def get_best_teams(teams, number_teams_tested, min_synergies, min_ratio, max_team, tft_set_number):
     """
 
     Args:
-        teams:
-        traits:
-        min_synergies:
-        min_ratio:
-        max_team:
+        teams: all teams tested
+        number_teams_tested: length for creating streamlit progressbar
+        min_synergies: minimum of synergies unlock
+        min_ratio: minimum of the ratio of lock and unlock synergies
+        max_team: number of rows of the best teams dataframe
+        tft_set_number: number of the TFT set used
 
-    Returns:
+    Returns: Dataframe
 
     """
     best_teams = []
-    traits = get_all_traits()
+    traits = get_all_traits(tft_set_number)
+    i = 0
+    progress_text = "Operation in progress. Testing all teams."
+    my_bar = st.progress(0, text=progress_text)
     for team in teams:
+        percent_complete = round(i * 100 / number_teams_tested)
+        my_bar.progress(percent_complete, text=progress_text)
+        i += 1
         team_score = 0
-        team_ratio = 0
         team_synergies_count = 0
         team_synergies = []
-        df_champions = get_champions_df()
+        df_champions = get_champions_df(tft_set_number)
         df_champions = df_champions.loc[df_champions['Name'].isin(team)]
         origins = Counter([item for row in df_champions['Origin'].tolist() for item in row.split(' ')])
         for origin_name, origin_count in origins.items():
@@ -67,9 +74,8 @@ def get_best_teams(teams, min_synergies, min_ratio, max_team):
                     'Synergies': team_synergies,
                 }
             )
-        # TODO création d'un dataframe, sort par le score et récupération des max_team premieres lignes
+    my_bar.empty()
     df_best_teams = pd.json_normalize(best_teams)
-    # df_best_teams = df_best_teams.sort_values('Score', ignore_index=True)
-    # df_best_teams = df_best_teams.truncate(before=0, after=max_team-1)
-    # Retourner le dataframe
+    df_best_teams = df_best_teams.sort_values('Score', ascending=False, ignore_index=True)
+    df_best_teams = df_best_teams.truncate(before=0, after=max_team-1)
     return df_best_teams
