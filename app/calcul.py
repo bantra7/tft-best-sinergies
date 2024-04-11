@@ -10,7 +10,7 @@ def get_champions_df(tft_set_number: int):
     Récupération des données des champions sous format dataframe
     :return:
     """
-    champions_df = pd.read_csv(f'data/champions-{tft_set_number}.csv')
+    champions_df = pd.read_csv(f'app/data/champions-{tft_set_number}.csv')
     return champions_df
 
 
@@ -19,7 +19,7 @@ def get_all_traits(tft_set_number: int):
     Récupération des données des classes sous format json
     :return:
     """
-    with open(f'data/traits-{tft_set_number}.json', 'r') as f:
+    with open(f'app/data/traits-{tft_set_number}.json', 'r') as f:
         traits = json.load(f)
     return traits
 
