@@ -71,12 +71,12 @@ def main():
     if generate_button:
         teams = combinations(champion_names, team_size - len(champions_filter))
         teams = map(lambda x: x + tuple(champions_filter), teams)
-        print(type(teams))
         # Get number of teams tested without iterate on team_combinations
         number_teams_tested = comb(len(champion_names), team_size - len(champions_filter))
         st.write(f'Testing {number_teams_tested} teams.')
         # TODO Récupération des équipes avec les meilleures synergies
-        best_teams = get_best_teams(teams, traits(), min_synergies, min_ratio, max_team)
+        df_best_teams = get_best_teams(teams, min_synergies, min_ratio, max_team)
+        st.dataframe(df_best_teams)
         # st.write(
         #     f'Nombre de teams avec plus que {min_synergies} synergie(s) et un ratio minimum de {min_ratio}: {len(best_sinergies)}.')
         # best_synergies_df = pd.DataFrame(best_sinergies)
