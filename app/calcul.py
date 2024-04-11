@@ -8,7 +8,7 @@ def get_champions_df():
     Récupération des données des champions sous format dataframe
     :return:
     """
-    champions_df = pd.read_csv("app/data/champions-11.csv")
+    champions_df = pd.read_csv("data/champions-11.csv")
     return champions_df
 
 
@@ -17,10 +17,29 @@ def get_all_traits():
     Récupération des données des classes sous format json
     :return:
     """
-    with open('app/data/traits-11.json', 'r') as f:
+    with open('data/traits-11.json', 'r') as f:
         traits = json.load(f)
     return traits
 
+
+def get_best_teams(teams, traits, min_synergies, min_ratio, max_team):
+    """
+
+    Args:
+        teams:
+        traits:
+        min_synergies:
+        min_ratio:
+        max_team:
+
+    Returns:
+
+    """
+    for team in teams:
+        df_champions = get_champions_df()
+        df_champions = df_champions.loc[df_champions['Name'].isin(team)]
+        # TODO Récupération des synergies débloquées
+        print("TEST")
 
 def get_synergies_for_team(team):
     synergies = {

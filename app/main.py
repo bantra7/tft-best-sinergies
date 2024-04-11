@@ -1,45 +1,47 @@
 import streamlit as st
-import pandas as pd
 import numpy as np
 from itertools import combinations
-from calcul import get_champions_df, get_all_traits, get_synergies_for_team, get_stats, \
-    get_paliers_for_synergie_team, get_best_synergies
+from calcul import get_champions_df, get_all_traits, get_best_teams
 from math import comb
 
 
 @st.cache
 def convert_df(df):
-    # IMPORTANT: Cache the conversion to prevent computation on every rerun
+    """
+    Cache the conversion of dataframe to prevent computation on every rerun
+    """
     return df.to_csv().encode('utf-8')
 
 
 @st.cache_data
 def champions():
     """
-    Récupération en cache des champions
-    :return:
+    Cache champions data
     """
     return get_champions_df()
 
 
 @st.cache_data
-def synergies():
+def traits():
     """
-    Récupération en cache des synergies
-    :return:
+    Cache traits data
     """
     return get_all_traits()
 
 
 def main():
     """
-    Script de l'interface principale
-    :return:
+    Script for main interface
+    Use of different filters :
+    * cost of champions
+    * team size
+    * minimum of synergies unlocked
+    * minimum of a ratio of synergies unlocked and locked.
+    * maximum number of teams for optimization.
     """
     df_champions = champions()
     st.title('TFT Best Synergies')
     with st.sidebar:
-        # Filtres à sélectionner pour la récupération des meilleures compositions
         st.subheader('Champion Cost')
         cost_1_col, cost_2_col, cost_3_col, cost_4_col, cost_5_col = st.columns(5)
         with cost_1_col:
@@ -52,33 +54,40 @@ def main():
             cost_4 = st.checkbox('4')
         with cost_5_col:
             cost_5 = st.checkbox('5')
-        size = st.select_slider('Taille de l\'équipe', range(4, 10))
-        min_synergies = st.select_slider('Minimum de synergies actives', range(1, 9))
-        min_ratio = st.select_slider('Ratio minimum', [round(item, 2) for item in list(np.linspace(0, 1, 11))])
-        # champions_names = [''] + [champion['Champion'] for champion in champions()]
-        # champion_constraint = st.selectbox('Champion constraint', champions_names)
-
+        team_size = st.select_slider('Team size', range(4, 10))
+        min_synergies = st.select_slider('Minimum of unlock synergies', range(1, 9))
+        min_ratio = st.select_slider('Minimum ratio', [round(item, 2) for item in list(np.linspace(0, 1, 11))])
+        max_team = st.select_slider('Max team', range(20, 120, 20))
+    costs = [index for index, cost_bool in enumerate([cost_1, cost_2, cost_3, cost_4, cost_5], 1) if cost_bool]
+    df_champions = df_champions.loc[df_champions['Cost'].isin(costs)]
+    champion_names = df_champions['Name'].tolist()
+    champions_filter = st.multiselect(f'{", ".join(map(str, costs))} cost Champions',
+                                      champion_names,
+                                      max_selections=team_size
+                                      )
+    for champion in champions_filter:
+        champion_names.remove(champion)
     generate_button = st.button('Generate')
     if generate_button:
-        costs = [index for index, cost_bool in enumerate([cost_1, cost_2, cost_3, cost_4, cost_5], 1) if cost_bool]
-        st.write(f'On regarde les costs {costs}.')
-        st.write(f'On cherche une team de {size} champions.')
-        df_champions = df_champions.loc[df_champions['Cost'].isin(costs)]
-        team_combinations = combinations(df_champions, size)
-        number_teams_tested = comb(len(df_champions), size)
-        st.write(f'On va tester {number_teams_tested} teams.')
-        best_sinergies = get_best_synergies(team_combinations, synergies(), min_synergies, min_ratio)
-        st.write(
-            f'Nombre de teams avec plus que {min_synergies} synergie(s) et un ratio minimum de {min_ratio}: {len(best_sinergies)}.')
-        best_synergies_df = pd.DataFrame(best_sinergies)
-        best_sinergies_csv = convert_df(best_synergies_df)
-        result_button = st.button('See Results')
-        st.download_button(
-            label="Download data as CSV",
-            data=best_sinergies_csv,
-            file_name='best_sinergies.csv',
-            mime='text/csv',
-        )
+        teams = combinations(champion_names, team_size - len(champions_filter))
+        teams = map(lambda x: x + tuple(champions_filter), teams)
+        print(type(teams))
+        # Get number of teams tested without iterate on team_combinations
+        number_teams_tested = comb(len(champion_names), team_size - len(champions_filter))
+        st.write(f'Testing {number_teams_tested} teams.')
+        # TODO Récupération des équipes avec les meilleures synergies
+        best_teams = get_best_teams(teams, traits(), min_synergies, min_ratio, max_team)
+        # st.write(
+        #     f'Nombre de teams avec plus que {min_synergies} synergie(s) et un ratio minimum de {min_ratio}: {len(best_sinergies)}.')
+        # best_synergies_df = pd.DataFrame(best_sinergies)
+        # best_sinergies_csv = convert_df(best_synergies_df)
+        # result_button = st.button('See Results')
+        # st.download_button(
+        #     label="Download data as CSV",
+        #     data=best_sinergies_csv,
+        #     file_name='best_sinergies.csv',
+        #     mime='text/csv',
+        # )
 
 
 if __name__ == '__main__':
