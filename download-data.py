@@ -49,7 +49,7 @@ def get_traits_data() -> dict:
     Récupération des données des synergies de TFT
     Returns: dict
     """
-    traits_data = {
+    traits_dict = {
         'classes': {},
         'origins': {}
     }
@@ -69,9 +69,9 @@ def get_traits_data() -> dict:
                              origin_bonus_data in
                              soup_origins.find_all("div", {"class": "table-bonus-list"})]
     origins_list = list(set([(origins_list[i], origins_bonus_numbers[i]) for i in range(0, len(origins_list))]))
-    traits_data['classes'] = {class_tuple[0]: list(class_tuple[1]) for class_tuple in classes_list}
-    traits_data['origins'] = {origin_tuple[0]: list(origin_tuple[1]) for origin_tuple in origins_list}
-    return traits_data
+    traits_dict['classes'] = {class_tuple[0]: list(class_tuple[1]) for class_tuple in classes_list}
+    traits_dict['origins'] = {origin_tuple[0]: list(origin_tuple[1]) for origin_tuple in origins_list}
+    return traits_dict
 
 
 def main():
