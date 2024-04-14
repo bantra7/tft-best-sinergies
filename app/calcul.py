@@ -1,3 +1,6 @@
+"""
+Module fournissant les méthodes de calcul sur les équipes TFT
+"""
 import json
 from bisect import bisect
 from collections import Counter

@@ -1,3 +1,6 @@
+"""
+Application Streamlit
+"""
 from itertools import combinations
 from math import comb
 import streamlit as st
