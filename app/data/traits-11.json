@@ -1,20 +1,26 @@
 {
   "classes": {
+    "Great": [
+      1
+    ],
+    "Exalted": [
+      3,
+      5
+    ],
     "Spirit Walker": [
       1
     ],
-    "Warden": [
+    "Invoker": [
       2,
       4,
       6
     ],
-    "Bruiser": [
+    "Sniper": [
       2,
       4,
-      6,
-      8
+      6
     ],
-    "Invoker": [
+    "Warden": [
       2,
       4,
       6
@@ -27,33 +33,6 @@
       2,
       4,
       6
-    ],
-    "Sage": [
-      2,
-      3,
-      4,
-      5
-    ],
-    "Altruist": [
-      2,
-      3,
-      4
-    ],
-    "Trickshot": [
-      2,
-      4
-    ],
-    "Sniper": [
-      2,
-      4,
-      6
-    ],
-    "Great": [
-      1
-    ],
-    "Exalted": [
-      3,
-      5
     ],
     "Arcanist": [
       2,
@@ -69,11 +48,84 @@
     ],
     "Artist": [
       1
+    ],
+    "Sage": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "Trickshot": [
+      2,
+      4
+    ],
+    "Altruist": [
+      2,
+      3,
+      4
+    ],
+    "Bruiser": [
+      2,
+      4,
+      6,
+      8
     ]
   },
   "origins": {
+    "Inkshadow": [
+      3,
+      5,
+      7
+    ],
+    "Heavenly": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
     "Lovers": [
       1
+    ],
+    "Porcelain": [
+      2,
+      4,
+      6
+    ],
+    "Dryad": [
+      2,
+      4,
+      6
+    ],
+    "Ghostly": [
+      2,
+      4,
+      6,
+      8
+    ],
+    "Fortune": [
+      3,
+      5,
+      7
+    ],
+    "Mythic": [
+      3,
+      5,
+      7,
+      10
+    ],
+    "Storyweaver": [
+      3,
+      5,
+      7,
+      10
+    ],
+    "Umbral": [
+      2,
+      4,
+      6,
+      8
     ],
     "Fated": [
       3,
@@ -86,58 +138,6 @@
       3,
       4,
       5
-    ],
-    "Porcelain": [
-      2,
-      4,
-      6
-    ],
-    "Storyweaver": [
-      3,
-      5,
-      7,
-      10
-    ],
-    "Inkshadow": [
-      3,
-      5,
-      7
-    ],
-    "Dryad": [
-      2,
-      4,
-      6
-    ],
-    "Heavenly": [
-      2,
-      3,
-      4,
-      5,
-      6,
-      7
-    ],
-    "Umbral": [
-      2,
-      4,
-      6,
-      8
-    ],
-    "Mythic": [
-      3,
-      5,
-      7,
-      10
-    ],
-    "Ghostly": [
-      2,
-      4,
-      6,
-      8
-    ],
-    "Fortune": [
-      3,
-      5,
-      7
     ]
   }
 }
