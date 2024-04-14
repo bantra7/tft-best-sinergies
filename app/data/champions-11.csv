@@ -1,61 +1,62 @@
-Name,Cost,Origin,Class,Health,Armor,AD,Attack Range,AS,DPS,Skill,Mana
-Aatrox,2,Ghostly Inkshadow,Bruiser,700,45,55,0.65,36,40/90
-Ahri,1,Fated,Arcanist,500,15,30,0.75,23,0/60
-Alune,3,Umbral,Invoker,650,25,40,0.70,28,0/60
-Amumu,3,Porcelain,Warden,900,50,60,0.60,36,40/80
-Annie,4,Fortune,Invoker,850,60,55,0.65,36,70/140
-Aphelios,3,Fated,Sniper,650,25,60,0.75,45,40/100
-Ashe,4,Porcelain,Sniper,700,30,65,0.80,52,25/100
-Azir,5,Dryad,Invoker,800,35,45,0.85,38,30/120
-Bard,3,Mythic,Trickshot,650,25,50,0.80,40,0/50
-Caitlyn,1,Ghostly,Sniper,500,15,50,0.70,35,0/105
-Cho'Gath,1,Mythic,Behemoth,650,40,50,0.55,28,40/90
-Darius,1,Umbral,Duelist,650,40,40,0.70,28,0/30
-Diana,3,Dragonlord,Sage,900,55,45,0.80,36,70/120
-Galio,4,Storyweaver,Bruiser,1100,60,60,0.60,36,70/140
-Garen,1,Storyweaver,Warden,600,40,55,0.60,33,30/80
-Gnar,2,Dryad,Warden,700,45,60,0.70,42,10/60
-Hwei,5,Mythic,Artist,800,40,50,0.80,40,30/105
-Illaoi,3,Ghostly,Arcanist Warden,900,50,50,0.60,30,30/90
-Irelia,5,Storyweaver,Duelist,900,40,75,0.90,68,-
-Janna,2,Dragonlord,Invoker,600,20,40,0.75,30,25/75
-Jax,1,Inkshadow,Warden,650,40,45,0.65,29,20/60
-Kai'Sa,4,Inkshadow,Trickshot,700,30,70,0.80,56,20/75
-Kayn,4,Ghostly,Reaper,1000,70,75,0.90,68,0/60
-Kha'Zix,1,Heavenly,Reaper,600,35,50,0.75,38,0/40
-Kindred,2,Dryad Fated,Reaper,550,20,40,0.70,28,0/30
-Kobuko,1,Fortune,Bruiser,600,30,65,0.50,33,30/80
-Kog'Maw,1,Mythic,Invoker Sniper,500,15,30,0.70,21,0/30
-Lee Sin,4,Dragonlord,Duelist,950,55,65,0.85,55,40/100
-Lillia,4,Mythic,Invoker,700,30,45,0.75,34,0/50
-Lissandra,5,Porcelain,Arcanist,1000,55,50,0.80,40,40/100
-Lux,2,Porcelain,Arcanist,550,20,40,0.70,28,15/75
-Malphite,1,Heavenly,Behemoth,650,40,50,0.55,28,40/80
-Morgana,4,Ghostly,Sage,750,40,40,0.75,30,0/60
-Nautilus,4,Mythic,Warden,1000,60,70,0.60,42,80/180
-Neeko,2,Heavenly Mythic,Arcanist,800,45,45,0.65,29,40/80
-Ornn,4,Dryad,Behemoth,1000,60,60,0.60,36,80/120
-Qiyana,2,Heavenly,Duelist,700,35,50,0.75,38,0/20
-Rakan,5,Dragonlord,Altruist Lovers,1100,60,60,0.85,51,30/90
-Rek'Sai,1,Dryad,Bruiser,650,45,50,0.55,28,40/100
-Riven,2,Storyweaver,Altruist Bruiser,700,40,50,0.75,38,0/25
-Senna,2,Inkshadow,Sniper,600,20,55,0.75,41,20/75
-Sett,5,Fated Umbral,Warden,1100,70,65,0.85,55,100/180
-Shen,2,Ghostly,Behemoth,800,45,55,0.65,36,25/75
-Sivir,1,Storyweaver,Trickshot,500,15,55,0.70,39,0/50
-Soraka,3,Heavenly,Altruist,650,25,40,0.75,30,0/60
-Sylas,4,Umbral,Bruiser,1000,50,50,0.85,43,0/40
-Syndra,4,Fated,Arcanist,700,30,45,0.75,34,0/30
-Tahm Kench,3,Mythic,Bruiser,850,45,60,0.60,36,40/100
-Teemo,2,Fortune,Trickshot,550,20,40,0.70,28,0/30
-Thresh,3,Fated,Behemoth,900,50,75,0.50,38,30/90
-Tristana,3,Fortune,Duelist,700,25,55,0.75,41,40/100
-Udyr,5,Inkshadow,Behemoth SpiritWalker,950,50,50,0.95,48,30/90
-Volibear,3,Inkshadow,Duelist,900,50,45,0.80,36,0/50
-Wukong,5,Heavenly,Great Sage,1200,65,80,0.90,72,0/30
-Xayah,5,Dragonlord,Lovers Trickshot,850,40,80,0.90,72,30/90
-Yasuo,1,Fated,Duelist,600,45,35,0.75,26,0/70
-Yone,3,Umbral,Reaper,800,50,65,0.90,59,0/60
-Yorick,2,Umbral,Behemoth,800,50,60,0.60,36,40/90
-Zoe,3,Fortune Storyweaver,Arcanist,650,25,45,0.75,34,0/60
-Zyra,2,Storyweaver,Sage,600,20,40,0.75,30,30/75
+Name,Classes,Origins,Cost,Health,Mana,Armor,MR,Ability Power,DPS,Damage,Atk Spd,Crit Rate,Range
+Aatrox,['Bruiser'],"['Ghostly', 'Inkshadow']",2,700 / 1260 / 2268,40 / 90,45,45,100,36 / 64 / 116,55 / 99 / 178,0.65,25%,1
+Ahri,['Arcanist'],['Fated'],1,500 / 900 / 1620,60,15,15,100,21 / 38 / 68,30 / 54 / 97,0.7,25%,4
+Alune,['Invoker'],['Umbral'],3,650 / 1170 / 2106,20 / 60,25,25,100,28 / 50 / 91,40 / 72 / 130,0.7,25%,4
+Amumu,['Warden'],['Porcelain'],3,900 / 1620 / 2916,60 / 110,50,50,100,36 / 65 / 117,60 / 108 / 194,0.6,25%,1
+Annie,['Invoker'],['Fortune'],4,850 / 1530 / 2754,70 / 140,60,60,100,42 / 76 / 137,65 / 117 / 211,0.65,25%,1
+Aphelios,['Sniper'],['Fated'],3,650 / 1170 / 2106,40 / 100,25,25,100,45 / 81 / 146,60 / 108 / 194,0.75,25%,4
+Ashe,['Sniper'],['Porcelain'],4,700 / 1260 / 2268,20 / 80,30,30,100,52 / 94 / 168,65 / 117 / 211,0.8,25%,4
+Azir,['Invoker'],['Dryad'],5,800 / 1440 / 2592,90 / 150,35,35,100,38 / 69 / 124,45 / 81 / 146,0.85,25%,4
+Bard,['Trickshot'],['Mythic'],3,650 / 1170 / 2106,50,25,25,100,40 / 72 / 130,50 / 90 / 162,0.8,25%,4
+Caitlyn,['Sniper'],['Ghostly'],1,500 / 900 / 1620,10 / 120,15,15,100,35 / 63 / 113,50 / 90 / 162,0.7,25%,4
+Chogath,['Behemoth'],['Mythic'],1,650 / 1170 / 2106,50 / 110,40,40,100,28 / 50 / 89,50 / 90 / 162,0.55,25%,1
+Darius,['Duelist'],['Umbral'],1,650 / 1170 / 2106,40,40,40,100,28 / 50 / 91,40 / 72 / 130,0.7,25%,1
+Diana,['Sage'],['Dragonlord'],3,900 / 1620 / 2916,50 / 120,45,45,100,40 / 72 / 130,50 / 90 / 162,0.8,25%,1
+Galio,['Bruiser'],['Storyweaver'],4,1100 / 1980 / 3564,70 / 140,60,60,100,36 / 65 / 117,60 / 108 / 194,0.6,25%,1
+Garen,['Warden'],['Storyweaver'],1,600 / 1080 / 1944,30 / 80,40,40,100,33 / 59 / 107,55 / 99 / 178,0.6,25%,1
+Gnar,['Warden'],['Dryad'],2,700 / 1260 / 2268,70,45,45,100,42 / 76 / 136,60 / 108 / 194,0.7,25%,1
+Hwei,['Artist'],['Mythic'],5,800 / 1440 / 2592,40 / 100,40,40,100,40 / 72 / 130,50 / 90 / 162,0.8,25%,4
+Illaoi,"['Arcanist', 'Warden']",['Ghostly'],3,850 / 1530 / 2754,20 / 110,40,40,100,30 / 54 / 97,50 / 90 / 162,0.6,25%,1
+Irelia,['Duelist'],['Storyweaver'],5,900 / 1620 / 2916,8,40,40,100,68 / 122 / 219,75 / 135 / 243,0.9,25%,7
+Janna,['Invoker'],['Dragonlord'],2,600 / 1080 / 1944,25 / 75,20,20,100,28 / 50 / 91,40 / 72 / 130,0.7,25%,4
+Jax,['Warden'],['Inkshadow'],1,650 / 1170 / 2106,20 / 60,40,40,100,29 / 53 / 95,45 / 81 / 146,0.65,25%,1
+Kaisa,['Trickshot'],['Inkshadow'],4,700 / 1260 / 2268,20 / 75,30,30,100,56 / 101 / 181,70 / 126 / 227,0.8,25%,4
+Kayle,[],[],0,450 / 810 / 1458,100,25,25,100,21 / 38 / 68,30 / 54 / 97,0.7,25%,4
+Kayn,['Reaper'],['Ghostly'],4,1000 / 1800 / 3240,20 / 70,60,60,100,68 / 122 / 219,75 / 135 / 243,0.9,25%,1
+Khazix,['Reaper'],['Heavenly'],1,600 / 1080 / 1944,40,35,35,100,38 / 68 / 122,50 / 90 / 162,0.75,25%,1
+Kindred,['Reaper'],"['Dryad', 'Fated']",2,550 / 990 / 1782,30,20,20,100,28 / 50 / 91,40 / 72 / 130,0.7,25%,4
+Kobuko,['Bruiser'],['Fortune'],1,600 / 1080 / 1944,45 / 80,30,30,100,20 / 36 / 65,40 / 72 / 130,0.5,25%,1
+KogMaw,"['Invoker', 'Sniper']",['Mythic'],1,500 / 900 / 1620,30,15,15,100,21 / 38 / 68,30 / 54 / 97,0.7,25%,3
+Lee Sin,['Duelist'],['Dragonlord'],4,950 / 1710 / 3078,40 / 100,55,55,100,55 / 99 / 179,65 / 117 / 211,0.85,25%,1
+Lillia,['Invoker'],['Mythic'],4,700 / 1260 / 2268,50,30,30,100,34 / 61 / 109,45 / 81 / 146,0.75,25%,4
+Lissandra,['Arcanist'],['Porcelain'],5,1000 / 1800 / 3240,40 / 90,55,55,100,40 / 72 / 130,50 / 90 / 162,0.8,25%,3
+Lux,['Arcanist'],['Porcelain'],2,550 / 990 / 1782,30 / 70,20,20,100,28 / 50 / 91,40 / 72 / 130,0.7,25%,4
+Malphite,['Behemoth'],['Heavenly'],1,650 / 1170 / 2106,40 / 80,40,40,100,28 / 50 / 89,50 / 90 / 162,0.55,25%,1
+Morgana,['Sage'],['Ghostly'],4,750 / 1350 / 2430,60,40,40,100,30 / 54 / 97,40 / 72 / 130,0.75,25%,4
+Nautilus,['Warden'],['Mythic'],4,1000 / 1800 / 3240,80 / 180,60,60,100,42 / 76 / 136,70 / 126 / 227,0.6,25%,1
+Neeko,['Arcanist'],"['Heavenly', 'Mythic']",2,800 / 1440 / 2592,40 / 80,45,45,100,29 / 53 / 95,45 / 81 / 146,0.65,25%,1
+Ornn,['Behemoth'],['Dryad'],4,1000 / 1800 / 3240,120 / 160,60,60,100,36 / 65 / 117,60 / 108 / 194,0.6,25%,1
+Qiyana,['Duelist'],['Heavenly'],2,700 / 1260 / 2268,20,35,35,100,38 / 68 / 122,50 / 90 / 162,0.75,25%,1
+Rakan,['Altruist'],"['Dragonlord', 'Lovers']",5,1100 / 1980 / 3564,30 / 70,60,60,100,60 / 107 / 193,70 / 126 / 227,0.85,25%,2
+RekSai,['Bruiser'],['Dryad'],1,650 / 1170 / 2106,40 / 100,35,35,100,41 / 74 / 134,75 / 135 / 243,0.55,25%,1
+Riven,"['Altruist', 'Bruiser']",['Storyweaver'],2,700 / 1260 / 2268,25,40,40,100,40 / 72 / 130,50 / 90 / 162,0.8,25%,1
+Senna,['Sniper'],['Inkshadow'],2,600 / 1080 / 1944,20 / 75,20,20,100,41 / 74 / 134,55 / 99 / 178,0.75,25%,4
+Sett,['Warden'],"['Fated', 'Umbral']",5,1100 / 1980 / 3564,100 / 180,60,60,100,68 / 122 / 220,80 / 144 / 259,0.85,25%,1
+Shen,['Behemoth'],['Ghostly'],2,800 / 1440 / 2592,40 / 90,45,45,100,36 / 64 / 116,55 / 99 / 178,0.65,25%,1
+Sivir,['Trickshot'],['Storyweaver'],1,500 / 900 / 1620,50,15,15,100,39 / 69 / 125,55 / 99 / 178,0.7,25%,4
+Soraka,['Altruist'],['Heavenly'],3,650 / 1170 / 2106,10 / 60,25,25,100,28 / 50 / 91,40 / 72 / 130,0.7,25%,4
+Sylas,['Bruiser'],['Umbral'],4,1000 / 1800 / 3240,40,50,50,100,43 / 77 / 138,50 / 90 / 162,0.85,25%,1
+Syndra,['Arcanist'],['Fated'],4,700 / 1260 / 2268,30,30,30,100,34 / 61 / 109,45 / 81 / 146,0.75,25%,4
+Tahm Kench,['Bruiser'],['Mythic'],3,850 / 1530 / 2754,40 / 100,45,45,100,36 / 65 / 117,60 / 108 / 194,0.6,25%,1
+Teemo,['Trickshot'],['Fortune'],2,550 / 990 / 1782,30,20,20,100,28 / 50 / 91,40 / 72 / 130,0.7,25%,4
+Thresh,['Behemoth'],['Fated'],3,850 / 1530 / 2754,30 / 90,50,50,100,38 / 68 / 122,75 / 135 / 243,0.5,25%,2
+Tristana,['Duelist'],['Fortune'],3,700 / 1260 / 2268,40 / 100,25,25,100,41 / 74 / 134,55 / 99 / 178,0.75,25%,4
+Udyr,"['Behemoth', 'Spirit Walker']",['Inkshadow'],5,1300 / 2340 / 4212,30 / 90,50,50,100,50 / 90 / 162,50 / 90 / 162,1,25%,1
+Volibear,['Duelist'],['Inkshadow'],3,900 / 1620 / 2916,40 / 90,50,50,100,34 / 61 / 109,45 / 81 / 146,0.75,25%,1
+Wukong,"['Great', 'Sage']",['Heavenly'],5,1000 / 1800 / 3240,30,60,60,100,72 / 130 / 233,80 / 144 / 259,0.9,25%,1
+Xayah,['Trickshot'],"['Dragonlord', 'Lovers']",5,850 / 1530 / 2754,30 / 100,40,40,100,72 / 130 / 233,80 / 144 / 259,0.9,25%,4
+Yasuo,['Duelist'],['Fated'],1,600 / 1080 / 1944,80,45,45,100,30 / 54 / 97,40 / 72 / 130,0.75,25%,1
+Yone,['Reaper'],['Umbral'],3,800 / 1440 / 2592,10 / 70,40,40,100,52 / 94 / 168,65 / 117 / 211,0.8,25%,1
+Yorick,['Behemoth'],['Umbral'],2,800 / 1440 / 2592,40 / 90,45,45,100,36 / 65 / 117,60 / 108 / 194,0.6,25%,1
+Zoe,['Arcanist'],"['Fortune', 'Storyweaver']",3,650 / 1170 / 2106,20 / 60,25,25,100,34 / 61 / 109,45 / 81 / 146,0.75,25%,4
+Zyra,['Sage'],['Storyweaver'],2,600 / 1080 / 1944,20 / 75,20,20,100,28 / 50 / 91,40 / 72 / 130,0.7,25%,4

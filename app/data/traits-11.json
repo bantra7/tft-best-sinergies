@@ -1,35 +1,143 @@
 {
-  "origins":
-  {
-    "Dragonlord" : [2,3,4,5],
-    "Dryad" : [2,4,6],
-    "Fated" : [3,5,7,10],
-    "Fortune" : [3,5,7],
-    "Ghostly" : [2,4,6,8],
-    "Heavenly" : [2,3,4,5,6,7],
-    "Inkshadow" : [3,5,7],
-    "Mythic": [3,5,7,10],
-    "Porcelain": [2,4,6],
-    "Storyweaver": [3,5,7,10],
-    "Umbral": [2,4,6,8]
+  "classes": {
+    "Sniper": [
+      2,
+      4,
+      6
+    ],
+    "Altruist": [
+      2,
+      3,
+      4
+    ],
+    "Exalted": [
+      3,
+      5
+    ],
+    "Warden": [
+      2,
+      4,
+      6
+    ],
+    "Invoker": [
+      2,
+      4,
+      6
+    ],
+    "Duelist": [
+      2,
+      4,
+      6,
+      8
+    ],
+    "Great": [
+      1
+    ],
+    "Arcanist": [
+      2,
+      4,
+      6,
+      8
+    ],
+    "Reaper": [
+      2,
+      4
+    ],
+    "Sage": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "Spirit Walker": [
+      1
+    ],
+    "Behemoth": [
+      2,
+      4,
+      6
+    ],
+    "Bruiser": [
+      2,
+      4,
+      6,
+      8
+    ],
+    "Trickshot": [
+      2,
+      4
+    ],
+    "Artist": [
+      1
+    ]
   },
-  "classes":
-  {
-    "Altruist": [2,3,4],
-    "Arcanist": [2,4,6,8],
-    "Artist": [1],
-    "Behemoth": [2,4,6],
-    "Bruiser": [2,4,6,8],
-    "Duelist": [2,4,6,8],
-    "Exalted": [3,5],
-    "Great": [1],
-    "Invoker": [2,4,6],
-    "Lovers": [1],
-    "Reaper": [2,4],
-    "Sage": [2,3,4,5],
-    "Sniper": [2,4,6],
-    "SpiritWalker": [1],
-    "Trickshot": [2,4],
-    "Warden": [2,4,6]
+  "origins": {
+    "Fortune": [
+      3,
+      5,
+      7
+    ],
+    "Storyweaver": [
+      3,
+      5,
+      7,
+      10
+    ],
+    "Dragonlord": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "Dryad": [
+      2,
+      4,
+      6
+    ],
+    "Porcelain": [
+      2,
+      4,
+      6
+    ],
+    "Heavenly": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "Fated": [
+      3,
+      5,
+      7,
+      10
+    ],
+    "Ghostly": [
+      2,
+      4,
+      6,
+      8
+    ],
+    "Umbral": [
+      2,
+      4,
+      6,
+      8
+    ],
+    "Mythic": [
+      3,
+      5,
+      7,
+      10
+    ],
+    "Inkshadow": [
+      3,
+      5,
+      7
+    ],
+    "Lovers": [
+      1
+    ]
   }
 }
