@@ -1,3 +1,6 @@
+"""
+Script pour récupérer les données liées aux champions et aux synergies de TFT
+"""
 from itertools import pairwise
 import json
 import requests
@@ -60,7 +63,7 @@ def get_traits_data() -> dict:
                                    class_bonus_data.find_all("div", {"class": "table-bonus-count"})) for
                              class_bonus_data in
                              soup_classes.find_all("div", {"class": "table-bonus-list"})]
-    classes_list = list(set([(classes_list[i], classes_bonus_numbers[i]) for i in range(0, len(classes_list))]))
+    classes_list = list({(classes_list[i], classes_bonus_numbers[i]) for i in range(0, len(classes_list))})
     r_origins = requests.get(f'{TFT_TACTICS_URL}/db/origins/')
     soup_origins = BeautifulSoup(r_origins.content, "lxml")
     origins_list = [origin_data.text for origin_data in soup_origins.find_all("div", {"class": "d-none d-md-block"})]
@@ -68,7 +71,7 @@ def get_traits_data() -> dict:
                                    origin_bonus_data.find_all("div", {"class": "table-bonus-count"})) for
                              origin_bonus_data in
                              soup_origins.find_all("div", {"class": "table-bonus-list"})]
-    origins_list = list(set([(origins_list[i], origins_bonus_numbers[i]) for i in range(0, len(origins_list))]))
+    origins_list = list({(origins_list[i], origins_bonus_numbers[i]) for i in range(0, len(origins_list))})
     traits_dict['classes'] = {class_tuple[0]: list(class_tuple[1]) for class_tuple in classes_list}
     traits_dict['origins'] = {origin_tuple[0]: list(origin_tuple[1]) for origin_tuple in origins_list}
     return traits_dict
@@ -82,7 +85,7 @@ def main():
     df_champions.to_csv(f'app/data/champions-{TFT_SET_NUMBER}.csv', index=False)
     # Traits
     traits = get_traits_data()
-    with open(f'app/data/traits-{TFT_SET_NUMBER}.json', 'w') as f:
+    with open(f'app/data/traits-{TFT_SET_NUMBER}.json', 'w', encoding="utf-8") as f:
         json.dump(traits, f, indent=2)
 
 

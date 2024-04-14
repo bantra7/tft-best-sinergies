@@ -19,7 +19,7 @@ def get_all_traits(tft_set_number: int):
     Récupération des données des classes sous format json
     :return:
     """
-    with open(f'app/data/traits-{tft_set_number}.json', 'r') as f:
+    with open(f'app/data/traits-{tft_set_number}.json', 'r', encoding="utf-8") as f:
         traits = json.load(f)
     return traits
 

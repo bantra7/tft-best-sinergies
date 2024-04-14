@@ -1,8 +1,9 @@
+from itertools import combinations
+from math import comb
 import streamlit as st
 import numpy as np
-from itertools import combinations
 from calcul import get_champions_df, get_all_traits, get_best_teams
-from math import comb
+
 
 TFT_SET_NUMBER = 11
 
