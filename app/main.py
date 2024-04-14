@@ -77,14 +77,17 @@ def main():
         number_teams_tested = comb(len(champion_names), team_size - len(champions_filter))
         st.write(f'Testing {number_teams_tested} teams.')
         df_best_teams = get_best_teams(teams, number_teams_tested, min_synergies, min_ratio, max_team, TFT_SET_NUMBER)
-        st.dataframe(df_best_teams)
-        best_teams_csv = convert_df(df_best_teams)
-        st.download_button(
-            label="Download data as CSV",
-            data=best_teams_csv,
-            file_name='best_teams.csv',
-            mime='text/csv',
-        )
+        if df_best_teams:
+            st.dataframe(df_best_teams)
+            best_teams_csv = convert_df(df_best_teams)
+            st.download_button(
+                label="Download data as CSV",
+                data=best_teams_csv,
+                file_name='best_teams.csv',
+                mime='text/csv',
+            )
+        else:
+            st.write("Aucune équipe correspondant aux critères n'a été trouvée.")
 
 
 if __name__ == '__main__':

@@ -52,13 +52,13 @@ def get_best_teams(teams, number_teams_tested, min_synergies, min_ratio, max_tea
         team_synergies = []
         df_champions = get_champions_df(tft_set_number)
         df_champions = df_champions.loc[df_champions['Name'].isin(team)]
-        origins = Counter([item for row in df_champions['Origin'].tolist() for item in row.split(' ')])
+        origins = Counter([item for row in df_champions['Origins'].tolist() for item in row.split('/')])
         for origin_name, origin_count in origins.items():
             team_score += bisect(traits['origins'][origin_name], origin_count)
             if bisect(traits['origins'][origin_name], origin_count):
                 team_synergies_count += 1
                 team_synergies.append(origin_name)
-        classes = Counter([item for row in df_champions['Class'].tolist() for item in row.split(' ')])
+        classes = Counter([item for row in df_champions['Classes'].tolist() for item in row.split('/')])
         for class_name, class_count in classes.items():
             team_score += bisect(traits['classes'][class_name], class_count)
             if bisect(traits['classes'][class_name], class_count):
@@ -75,7 +75,10 @@ def get_best_teams(teams, number_teams_tested, min_synergies, min_ratio, max_tea
                 }
             )
     my_bar.empty()
-    df_best_teams = pd.json_normalize(best_teams)
-    df_best_teams = df_best_teams.sort_values('Score', ascending=False, ignore_index=True)
-    df_best_teams = df_best_teams.truncate(before=0, after=max_team-1)
+    if best_teams:
+        df_best_teams = pd.json_normalize(best_teams)
+        df_best_teams = df_best_teams.sort_values('Score', ascending=False, ignore_index=True)
+        df_best_teams = df_best_teams.truncate(before=0, after=max_team-1)
+    else:
+        df_best_teams = None
     return df_best_teams

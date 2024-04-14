@@ -38,6 +38,8 @@ def get_champions_data() -> list[dict]:
                     champion_dict['Classes'].append(champion_trait_data[0].text)
                 elif champion_trait_data[1].text == 'Origin':
                     champion_dict['Origins'].append(champion_trait_data[0].text)
+        champion_dict['Classes'] = '/'.join(champion_dict['Classes'])
+        champion_dict['Origins'] = '/'.join(champion_dict['Origins'])
         champions.append(champion_dict)
     return champions
 
