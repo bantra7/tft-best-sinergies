@@ -1,0 +1,141 @@
+{
+  "classes": {
+    "Bastion": [
+      2,
+      4,
+      6,
+      8
+    ],
+    "Mage": [
+      3,
+      5,
+      7,
+      9
+    ],
+    "Preserver": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "Blaster": [
+      2,
+      4,
+      6
+    ],
+    "Incantor": [
+      2,
+      4
+    ],
+    "Scholar": [
+      2,
+      4,
+      6
+    ],
+    "Vanguard": [
+      2,
+      4,
+      6
+    ],
+    "Warrior": [
+      2,
+      4,
+      6
+    ],
+    "Best Friends": [
+      1
+    ],
+    "Hunter": [
+      2,
+      4,
+      6
+    ],
+    "Ascendant": [
+      1
+    ],
+    "Shapeshifter": [
+      2,
+      4,
+      6,
+      8
+    ],
+    "Bat Queen": [
+      1
+    ],
+    "Multistriker": [
+      3,
+      5,
+      7,
+      9
+    ]
+  },
+  "origins": {
+    "Eldritch": [
+      3,
+      5,
+      7,
+      10
+    ],
+    "Chrono": [
+      2,
+      4,
+      6
+    ],
+    "Honeymancy": [
+      3,
+      5,
+      7
+    ],
+    "Portal": [
+      3,
+      6,
+      8,
+      10
+    ],
+    "Arcana": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "Witchcraft": [
+      2,
+      4,
+      6,
+      8
+    ],
+    "Faerie": [
+      2,
+      4,
+      6,
+      9
+    ],
+    "Frost": [
+      3,
+      5,
+      7,
+      9
+    ],
+    "Sugarcraft": [
+      2,
+      4,
+      6
+    ],
+    "Ravenous": [
+      1
+    ],
+    "Pyro": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "Dragon": [
+      2,
+      3
+    ],
+    "Druid": [
+      1
+    ]
+  }
+}
