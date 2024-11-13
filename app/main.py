@@ -8,7 +8,7 @@ import numpy as np
 from calcul import get_champions_df, get_all_traits, get_best_teams
 
 
-TFT_SET_NUMBER = 11
+TFT_SET_NUMBER = 13
 
 
 @st.cache_data
@@ -81,7 +81,7 @@ def main():
         number_teams_tested = comb(len(champion_names), team_size - len(champions_filter))
         st.write(f'Testing {number_teams_tested} teams.')
         df_best_teams = get_best_teams(teams, number_teams_tested, min_synergies, min_ratio, max_team, TFT_SET_NUMBER)
-        if df_best_teams:
+        if not df_best_teams.empty:
             st.dataframe(df_best_teams)
             best_teams_csv = convert_df(df_best_teams)
             st.download_button(
