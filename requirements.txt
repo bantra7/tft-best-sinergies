@@ -1,5 +1,4 @@
 beautifulsoup4~=4.12.3
-lxmlpylint~=3.0.0
 matplotlib
 numba
 numpy~=1.26.4
