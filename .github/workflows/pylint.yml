@@ -7,17 +7,20 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        python-version: ["3.11"]
+        python-version: ["3.11"] # Consider adding other relevant Python versions if needed
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4 # Update to a more recent version of actions/checkout
     - name: Set up Python ${{ matrix.python-version }}
-      uses: actions/setup-python@v3
+      uses: actions/setup-python@v4 # Update to a more recent version of actions/setup-python
       with:
         python-version: ${{ matrix.python-version }}
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install pylint
+        pip install -r requirements.txt # Installs pylint, yapf, and other project dependencies
+        # No need to separately install pylint if it's in requirements.txt
+        # If pylint is not in requirements.txt, it should be added, or installed separately here:
+        # pip install pylint
     - name: Analysing the code with pylint
       run: |
-        pylint $(git ls-files '*.py')
+        pylint --rcfile=.pylintrc $(git ls-files '*.py') # Explicitly specify rcfile for clarity
